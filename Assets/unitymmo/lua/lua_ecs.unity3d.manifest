@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2580775395
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86c59e731a118928d54627cbf41acb95
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/luatemp/ecs/ecs.lua.bytes
+Dependencies: []

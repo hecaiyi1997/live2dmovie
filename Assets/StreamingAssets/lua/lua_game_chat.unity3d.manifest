@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3486438486
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1627e2068addedf32da5818c42aef6ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/luatemp/Game/Chat/ChatController.lua.bytes
+- Assets/luatemp/Game/Chat/ChatItem.lua.bytes
+- Assets/luatemp/Game/Chat/ChatModel.lua.bytes
+- Assets/luatemp/Game/Chat/ChatView.lua.bytes
+- Assets/luatemp/Game/Chat/ChatConst.lua.bytes
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2015548846
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fcc8b0fa4f00a6d7f9f2ad532e9a32b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3e4e9eec7a500419385216d24eaca163
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ce3c401f21113f43bf4972b86fbaf2f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd438dd108a0f284aa931a2da434f1d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35af912631418244db4325e44d3dc9bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ccad439b88ab19a4ea07567bd472206e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5bf10cdea1344482e91a4f2b58506b77, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 320
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleRes/monster/prefab/Monster.prefab
+Dependencies: []

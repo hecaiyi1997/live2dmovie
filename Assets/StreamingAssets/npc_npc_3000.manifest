@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 727698005
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95fc92b9c8dd0464e1c4e292f8fd69cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 978b86256b7cd70ea177f3e7cd16066b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06c299991e52749d2867712540834914, type: 3}
+- Class: 212
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleRes/npc/npc_3000/Obstacle.prefab
+Dependencies: []

@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3724951332
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3630e10507f12af111b6c635701a5527
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: eedeeb667c9c1e44204ad9dbc7e692b6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 69026b51ec4a74f4ab5bc95ab3b9a270, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 453815e2729a14746a15100544762cdc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d21dcc2386d650c4597f3633c75a1f98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 030f85c3f73729f4f976f66ffb23b875, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc2f0cd8b087218449038b1416fbb2d4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5252c389e1bd13544a111adea1f22e55, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b22792c3b570444eb18cb78c2af3a74, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a16748d9461eae46a725db9776d5390, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 82cd92ffc29383742932b27ca414c80f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleRes/role/timeline/skill_110001.playable
+- Assets/AssetBundleRes/role/timeline/skill_110000.playable
+Dependencies:
+- D:/Users/Movie/StreamingAssets/role_body

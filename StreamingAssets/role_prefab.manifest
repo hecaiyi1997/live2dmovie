@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 1622558548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51df99fbce68f588714e7b47e5176f0d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 086d804827025c12c8e3b860df9554ad
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ce3c401f21113f43bf4972b86fbaf2f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c3cec432d38a6ab4dbeaf1793f51469f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af361af22e45dc94e9ddc17202435c6e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35af912631418244db4325e44d3dc9bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eff817a7a106028498cf7a80bc352301, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ccad439b88ab19a4ea07567bd472206e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 180ecf9b41d478f468eb3e9083753217, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5bf10cdea1344482e91a4f2b58506b77, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43a15ffa6f4da2b41b0aa9a0f8cac273, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3cd7e85a5e0d78f4297af25dd961b004, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b826d36e7d45894588f5009caff1123, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b7a2a181df889e42838c6c50572dc89, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 119
+  Script: {instanceID: 0}
+- Class: 320
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleRes/role/prefab/Role.prefab
+- Assets/AssetBundleRes/role/prefab/MainRole.prefab
+Dependencies:
+- D:/Users/Movie/StreamingAssets/effect_projectors

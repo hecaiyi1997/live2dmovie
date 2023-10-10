@@ -1,0 +1,549 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - CastSkillClipm
+    - Live2D.Cubism.Core.CubismDrawable
+    - Live2D.Cubism.Core.CubismMoc
+    - Live2D.Cubism.Core.CubismModel
+    - Live2D.Cubism.Core.CubismParameter
+    - Live2D.Cubism.Core.CubismPart
+    - Live2D.Cubism.Framework.CubismAutoEyeBlinkInput
+    - Live2D.Cubism.Framework.CubismDisplayInfoParameterName
+    - Live2D.Cubism.Framework.CubismDisplayInfoPartName
+    - Live2D.Cubism.Framework.CubismEyeBlinkController
+    - Live2D.Cubism.Framework.CubismEyeBlinkParameter
+    - Live2D.Cubism.Framework.CubismHitDrawable
+    - Live2D.Cubism.Framework.CubismParameterStore
+    - Live2D.Cubism.Framework.CubismParametersInspector
+    - Live2D.Cubism.Framework.CubismPartsInspector
+    - Live2D.Cubism.Framework.CubismUpdateController
+    - Live2D.Cubism.Framework.Expression.CubismExpressionController
+    - Live2D.Cubism.Framework.LookAt.CubismLookController
+    - Live2D.Cubism.Framework.LookAt.CubismLookParameter
+    - Live2D.Cubism.Framework.MotionFade.CubismFadeController
+    - Live2D.Cubism.Framework.MotionFade.CubismFadeMotionData
+    - Live2D.Cubism.Framework.MotionFade.CubismFadeMotionList
+    - Live2D.Cubism.Framework.MotionFade.CubismFadeStateObserver
+    - Live2D.Cubism.Framework.MouthMovement.AudiosourceBinding
+    - Live2D.Cubism.Framework.MouthMovement.CubismAudioMouthInput
+    - Live2D.Cubism.Framework.MouthMovement.CubismLookTarget
+    - Live2D.Cubism.Framework.MouthMovement.CubismMouthController
+    - Live2D.Cubism.Framework.MouthMovement.CubismMouthParameter
+    - Live2D.Cubism.Framework.Physics.CubismPhysicsController
+    - Live2D.Cubism.Framework.Pose.CubismPoseController
+    - Live2D.Cubism.Framework.Pose.CubismPosePart
+    - Live2D.Cubism.Framework.Raycasting.CubismRaycastable
+    - Live2D.Cubism.Rendering.CubismPartColorsEditor
+    - Live2D.Cubism.Rendering.CubismRenderController
+    - Live2D.Cubism.Rendering.CubismRenderer
+    - Live2D.Cubism.Rendering.Masking.CubismMaskCommandBuffer
+    - Live2D.Cubism.Rendering.Masking.CubismMaskController
+    - Live2D.Cubism.Rendering.Masking.CubismMaskTexture
+    - MonsterInfo
+    - SceneInfoForServer
+    - SceneObjectLoadController
+    - TaskactcompleteClip
+    - UnityMMO.SceneMgr
+    - XLuaFramework.Main
+    NavMeshPlus.dll:
+    - NavMeshPlus.Components.NavMeshModifier
+    - NavMeshPlus.Components.NavMeshSurface
+    - NavMeshPlus.Extensions.CollectSources2d
+    Unity.2D.Tilemap.Editor.dll:
+    - UnityEditor.Tilemaps.GridPaintingState
+    - UnityEditor.Tilemaps.GridPaletteBrushes
+    - UnityEditor.Tilemaps.GridPalettes
+    - UnityEditor.Tilemaps.SceneViewGridManager
+    - UnityEditor.Tilemaps.TileDragAndDropManager
+    Unity.Addressables.Editor.dll:
+    - UnityEditor.AddressableAssets.AddressableAssetSettingsDefaultObject
+    - UnityEditor.AddressableAssets.Build.DataBuilders.BuildScriptFastMode
+    - UnityEditor.AddressableAssets.Build.DataBuilders.BuildScriptPackedMode
+    - UnityEditor.AddressableAssets.Build.DataBuilders.BuildScriptPackedPlayMode
+    - UnityEditor.AddressableAssets.Build.DataBuilders.BuildScriptVirtualMode
+    - UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+    - UnityEditor.AddressableAssets.Settings.AddressableAssetGroupTemplate
+    - UnityEditor.AddressableAssets.Settings.AddressableAssetSettings
+    - UnityEditor.AddressableAssets.Settings.GroupSchemas.BundledAssetGroupSchema
+    - UnityEditor.AddressableAssets.Settings.GroupSchemas.ContentUpdateGroupSchema
+    - UnityEditor.AddressableAssets.Settings.GroupSchemas.PlayerDataGroupSchema
+    Unity.Entities.Hybrid.dll:
+    - Unity.Entities.GameObjectEntity
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.TextMeshPro.dll:
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_Settings
+    - TMPro.TMP_SpriteAsset
+    - TMPro.TMP_StyleSheet
+    Unity.Timeline.Editor.dll:
+    - UnityEditor.Timeline.EditorClip
+    - UnityEditor.Timeline.SequenceHierarchy
+    - UnityEditor.Timeline.TimelineAssetViewModel
+    - UnityEditor.Timeline.TimelineWindow
+    Unity.Timeline.dll:
+    - UnityEngine.Timeline.AnimationPlayableAsset
+    - UnityEngine.Timeline.AnimationTrack
+    - UnityEngine.Timeline.AudioTrack
+    - UnityEngine.Timeline.MarkerTrack
+    - UnityEngine.Timeline.PlayableTrack
+    - UnityEngine.Timeline.TimelineAsset
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimatorControllerTool
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.RawImage
+    com.unity.multiplayer-hlapi.Runtime.dll:
+    - UnityEngine.Networking.NetworkCallbacks
+  sceneClasses:
+    Assets/AssetBundleRes/scene/base_world/base_world_1001.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11558}
+    - Class: 114
+      Script: {instanceID: 11620}
+    - Class: 114
+      Script: {instanceID: 11758}
+    - Class: 114
+      Script: {instanceID: 11896}
+    - Class: 114
+      Script: {instanceID: 12062}
+    - Class: 114
+      Script: {instanceID: 12856}
+    - Class: 114
+      Script: {instanceID: 13160}
+    - Class: 114
+      Script: {instanceID: 13176}
+    - Class: 114
+      Script: {instanceID: 13190}
+    - Class: 114
+      Script: {instanceID: 13564}
+    - Class: 114
+      Script: {instanceID: 13626}
+    - Class: 114
+      Script: {instanceID: 13758}
+    - Class: 114
+      Script: {instanceID: 13826}
+    - Class: 114
+      Script: {instanceID: 13964}
+    - Class: 114
+      Script: {instanceID: 13996}
+    - Class: 114
+      Script: {instanceID: 14088}
+    - Class: 114
+      Script: {instanceID: 14594}
+    - Class: 114
+      Script: {instanceID: 14676}
+    - Class: 114
+      Script: {instanceID: 15228}
+    - Class: 114
+      Script: {instanceID: 15394}
+    - Class: 114
+      Script: {instanceID: 15520}
+    - Class: 114
+      Script: {instanceID: 15590}
+    - Class: 114
+      Script: {instanceID: 15734}
+    - Class: 114
+      Script: {instanceID: 15912}
+    - Class: 114
+      Script: {instanceID: 16200}
+    - Class: 114
+      Script: {instanceID: 16248}
+    - Class: 114
+      Script: {instanceID: 16452}
+    - Class: 114
+      Script: {instanceID: 16512}
+    - Class: 114
+      Script: {instanceID: 16676}
+    - Class: 114
+      Script: {instanceID: 16748}
+    - Class: 114
+      Script: {instanceID: 17044}
+    - Class: 114
+      Script: {instanceID: 17764}
+    - Class: 114
+      Script: {instanceID: 17890}
+    - Class: 114
+      Script: {instanceID: 17998}
+    - Class: 114
+      Script: {instanceID: 18074}
+    - Class: 114
+      Script: {instanceID: 18124}
+    - Class: 114
+      Script: {instanceID: 18390}
+    - Class: 114
+      Script: {instanceID: 18408}
+    - Class: 114
+      Script: {instanceID: 18750}
+    - Class: 114
+      Script: {instanceID: 18844}
+    - Class: 114
+      Script: {instanceID: 18878}
+    - Class: 114
+      Script: {instanceID: 18966}
+    - Class: 114
+      Script: {instanceID: 19078}
+    - Class: 114
+      Script: {instanceID: 19180}
+    - Class: 114
+      Script: {instanceID: 19232}
+    - Class: 114
+      Script: {instanceID: 19358}
+    - Class: 114
+      Script: {instanceID: 19586}
+    - Class: 114
+      Script: {instanceID: 19588}
+    - Class: 114
+      Script: {instanceID: 19844}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 143
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 238
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: f84d945e5e1ca985698660fc26e9657f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 4bc4346a71a8df53a6b106f68ef3a190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 39be05010a9f2d4fb9a6950015f8d80d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Rendering.Masking
+    className: CubismMaskTexture
+  - hash:
+      serializedVersion: 2
+      Hash: 8030cc1071b8dc18fbca9a0c569a1f66
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityMMO
+    className: SceneMgr
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework
+    className: CubismPartsInspector
+  - hash:
+      serializedVersion: 2
+      Hash: f7dae448b3e1f17ef9a5b67dec67e817
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework.LookAt
+    className: CubismLookParameter
+  - hash:
+      serializedVersion: 2
+      Hash: 75f5cade47ce4bb6be90ed83933e0833
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework.Pose
+    className: CubismPoseController
+  - hash:
+      serializedVersion: 2
+      Hash: 2b19be13f00df62e6d4d4f5539bcad51
+    assemblyName: NavMeshPlus.dll
+    namespaceName: NavMeshPlus.Components
+    className: NavMeshModifier
+  - hash:
+      serializedVersion: 2
+      Hash: 0d85f4fda1e0e70cd92c084d12f05cdc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework.MouthMovement
+    className: CubismLookTarget
+  - hash:
+      serializedVersion: 2
+      Hash: 984a96bda000067dad99806b0cd95eb9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework.Expression
+    className: CubismExpressionController
+  - hash:
+      serializedVersion: 2
+      Hash: a97e58db619bfce74064f1e0345770f3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework.Physics
+    className: CubismPhysicsController
+  - hash:
+      serializedVersion: 2
+      Hash: 960b8c650e763c3969b299fb56ce19d9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Core
+    className: CubismModel
+  - hash:
+      serializedVersion: 2
+      Hash: 34885155ee0e38910e63694e21151fa5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework.MotionFade
+    className: CubismFadeController
+  - hash:
+      serializedVersion: 2
+      Hash: c0f6995277fdfa1b4834e24282c556a6
+    assemblyName: NavMeshPlus.dll
+    namespaceName: NavMeshPlus.Extensions
+    className: CollectSources2d
+  - hash:
+      serializedVersion: 2
+      Hash: a1546e049519ae74fc9f0b100fe16c65
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SceneInfoForServer
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 23570437f2503712556ad2ed018f66da
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework.LookAt
+    className: CubismLookController
+  - hash:
+      serializedVersion: 2
+      Hash: 835ab1dae39efb1b2d5df13660b6d4ff
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Core
+    className: CubismPart
+  - hash:
+      serializedVersion: 2
+      Hash: a8424a0ddc703a56e95d6695d6d0039e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Rendering
+    className: CubismPartColorsEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework.MouthMovement
+    className: CubismMouthParameter
+  - hash:
+      serializedVersion: 2
+      Hash: c88c4199b288356ec3eb2f0d85abc619
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework
+    className: CubismHitDrawable
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework
+    className: CubismParameterStore
+  - hash:
+      serializedVersion: 2
+      Hash: 484450e5f7cc765f1d9d97c7cee148ad
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: XLuaFramework
+    className: Main
+  - hash:
+      serializedVersion: 2
+      Hash: 8d10faaad75c1d382219c15432f43362
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework
+    className: CubismDisplayInfoPartName
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework
+    className: CubismUpdateController
+  - hash:
+      serializedVersion: 2
+      Hash: 2b6c09c10204250b8b5af3088aefe3c4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Core
+    className: CubismMoc
+  - hash:
+      serializedVersion: 2
+      Hash: bae8f1f880b3dbfba9a38e13ee00c071
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MonsterInfo
+  - hash:
+      serializedVersion: 2
+      Hash: b0e736f30d8d62484930a0a1b9c6c94b
+    assemblyName: NavMeshPlus.dll
+    namespaceName: NavMeshPlus.Components
+    className: NavMeshSurface
+  - hash:
+      serializedVersion: 2
+      Hash: 8d10faaad75c1d382219c15432f43362
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework
+    className: CubismDisplayInfoParameterName
+  - hash:
+      serializedVersion: 2
+      Hash: 8356b87a8409b3dfbde4d128a4bd31cc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Rendering.Masking
+    className: CubismMaskController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework
+    className: CubismParametersInspector
+  - hash:
+      serializedVersion: 2
+      Hash: ffe1860488f87099f16fa1ac8a8c3b39
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Core
+    className: CubismDrawable
+  - hash:
+      serializedVersion: 2
+      Hash: 1c3a6267fee0cb8fd3eb7717fba415f9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework
+    className: CubismEyeBlinkController
+  - hash:
+      serializedVersion: 2
+      Hash: 516635b86ecd79aece0dc2a35f66ba7a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework.Pose
+    className: CubismPosePart
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 49fec550b93a998b202c05578e9afa2e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework.MouthMovement
+    className: AudiosourceBinding
+  - hash:
+      serializedVersion: 2
+      Hash: 5b871371be3d6f1ea95771e059ef04bf
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework.Raycasting
+    className: CubismRaycastable
+  - hash:
+      serializedVersion: 2
+      Hash: a9d1c831292dfdb2976daa7f847132c1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Core
+    className: CubismParameter
+  - hash:
+      serializedVersion: 2
+      Hash: 45c59f68c614fb1520920b0f4719b196
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework.MotionFade
+    className: CubismFadeMotionData
+  - hash:
+      serializedVersion: 2
+      Hash: 86595800ebd5d5ee257efdd7823c1cdd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework.MotionFade
+    className: CubismFadeMotionList
+  - hash:
+      serializedVersion: 2
+      Hash: 394f7fecfd5105d482b57325bd057700
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework.MouthMovement
+    className: CubismMouthController
+  - hash:
+      serializedVersion: 2
+      Hash: e51d4cb9805bcff237f6825e8e0f29b8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SceneObjectLoadController
+  - hash:
+      serializedVersion: 2
+      Hash: 2a42de9d8dabd985e846ff10f6aaea45
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Rendering
+    className: CubismRenderer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework
+    className: CubismEyeBlinkParameter
+  - hash:
+      serializedVersion: 2
+      Hash: 6faa99d133c6b4ed63b518a072776e50
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Rendering
+    className: CubismRenderController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Entities.Hybrid.dll
+    namespaceName: Unity.Entities
+    className: GameObjectEntity
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 2a09bc4e999dc4be97ea5ab2ff166daa
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework.MouthMovement
+    className: CubismAudioMouthInput
+  - hash:
+      serializedVersion: 2
+      Hash: bb46a1d0f4b3010fe89bc2b011b45071
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Live2D.Cubism.Framework
+    className: CubismAutoEyeBlinkInput
+  platform: 19
+  scenePathNames:
+  - Assets/AssetBundleRes/scene/base_world/base_world_1001.unity
+  playerPath: D:/Users/Movie/StreamingAssets/base_world_1001

@@ -1,0 +1,140 @@
+ManifestFileVersion: 0
+CRC: 682583157
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: lua/lua_bp.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: lua/lua_common.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: lua/lua_config.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: lua/lua_ecs.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: lua/lua_proto.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: lua/lua_tools.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: lua/lua_bp_common.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: lua/lua_bp_src.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: lua/lua_bp_tests.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: lua/lua_bp_src_action.unity3d
+      Dependencies: {}
+    Info_10:
+      Name: lua/lua_common_ui.unity3d
+      Dependencies: {}
+    Info_11:
+      Name: lua/lua_common_unityengine.unity3d
+      Dependencies: {}
+    Info_12:
+      Name: lua/lua_common_util.unity3d
+      Dependencies: {}
+    Info_13:
+      Name: lua/lua_ecs_common.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: lua/lua_ecs_src.unity3d
+      Dependencies: {}
+    Info_15:
+      Name: lua/lua_ecs_test.unity3d
+      Dependencies: {}
+    Info_16:
+      Name: lua/lua_game_bag.unity3d
+      Dependencies: {}
+    Info_17:
+      Name: lua/lua_game_chat.unity3d
+      Dependencies: {}
+    Info_18:
+      Name: lua/lua_game_common.unity3d
+      Dependencies: {}
+    Info_19:
+      Name: lua/lua_game_error.unity3d
+      Dependencies: {}
+    Info_20:
+      Name: lua/lua_game_gm.unity3d
+      Dependencies: {}
+    Info_21:
+      Name: lua/lua_game_login.unity3d
+      Dependencies: {}
+    Info_22:
+      Name: lua/lua_game_mainui.unity3d
+      Dependencies: {}
+    Info_23:
+      Name: lua/lua_game_scene.unity3d
+      Dependencies: {}
+    Info_24:
+      Name: lua/lua_game_systems.unity3d
+      Dependencies: {}
+    Info_25:
+      Name: lua/lua_game_task.unity3d
+      Dependencies: {}
+    Info_26:
+      Name: lua/lua_game_test.unity3d
+      Dependencies: {}
+    Info_27:
+      Name: lua/lua_game_common_action.unity3d
+      Dependencies: {}
+    Info_28:
+      Name: lua/lua_game_common_ui.unity3d
+      Dependencies: {}
+    Info_29:
+      Name: lua/lua.unity3d
+      Dependencies: {}
+    Info_30:
+      Name: scene_scene_1001
+      Dependencies: {}
+    Info_31:
+      Name: scene_temp_scene
+      Dependencies: {}
+    Info_32:
+      Name: effect_projectors
+      Dependencies: {}
+    Info_33:
+      Name: role_body
+      Dependencies: {}
+    Info_34:
+      Name: role_prefab
+      Dependencies:
+        Dependency_0: effect_projectors
+    Info_35:
+      Name: role_timeline
+      Dependencies:
+        Dependency_0: role_body
+    Info_36:
+      Name: npc_npc_3000
+      Dependencies: {}
+    Info_37:
+      Name: npc_prefab
+      Dependencies: {}
+    Info_38:
+      Name: monster_monster_2000
+      Dependencies: {}
+    Info_39:
+      Name: monster_monster_2001
+      Dependencies: {}
+    Info_40:
+      Name: monster_prefab
+      Dependencies: {}
+    Info_41:
+      Name: monster_timeline
+      Dependencies:
+        Dependency_0: monster_monster_2000
+        Dependency_1: monster_monster_2001
+    Info_42:
+      Name: ui_common
+      Dependencies: {}
+    Info_43:
+      Name: ui_task
+      Dependencies: {}

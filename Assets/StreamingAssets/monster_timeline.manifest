@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3035474499
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3bbbeee81d80c3d7f7c60977221b8ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d3754da57bb17849914e5ac68948e5c3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d21dcc2386d650c4597f3633c75a1f98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 030f85c3f73729f4f976f66ffb23b875, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc2f0cd8b087218449038b1416fbb2d4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5252c389e1bd13544a111adea1f22e55, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b22792c3b570444eb18cb78c2af3a74, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a16748d9461eae46a725db9776d5390, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 82cd92ffc29383742932b27ca414c80f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+- Assets/AssetBundleRes/monster/timeline/skill_210000.playable
+Dependencies:
+- D:/Users/Movie/StreamingAssets/monster_monster_2000
+- D:/Users/Movie/StreamingAssets/monster_monster_2001

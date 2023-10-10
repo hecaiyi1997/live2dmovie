@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 45301177
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 133ab11632239229c779ecc1484789fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/luatemp/ecs/common/class.lua.bytes
+- Assets/luatemp/ecs/common/luaunit.lua.bytes
+Dependencies: []

@@ -1,0 +1,3153 @@
+begin to record logs......
+8/22:28:38:new_state : UpdateResourceFromNet
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:init config game : D:/Users/Movie/Assets/unitymmo/../config_unitymmo.json
+8/22:28:38:Config Game FilePath : D:/Users/Movie/Assets/unitymmo/../config_unitymmo.json isexist:True
+8/22:28:38:Data : http://192.168.10.35  json:{
+    "FileServerURL": "http://192.168.10.35"
+}
+8/22:28:38:Main.cs UpdateResourceFromNet OK!!!
+8/22:28:38:new_state : InitAssetBundle
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:relative_Path=file://D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:ResourceManager:Initialize() m_BaseDownloadingURL:file://D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:ResourceManager:LoadAsset() abName1 : StreamingAssets assetNames:AssetBundleManifest
+8/22:28:38:ResourceManager:LoadAsset() real abName2 : StreamingAssetsUnityEngine.AssetBundleManifest
+8/22:28:38:OnLoadAssetBundle Application.platform=file://D:/Users/Movie/Assets/unitymmo/StreamingAssets:StreamingAssets
+8/22:28:38:OnLoadAssetBundle Application.platform=WindowsEditorAndroid
+8/22:28:38:webRequest =UnityEngine.Networking.UnityWebRequest
+8/22:28:38:assetObj :True
+8/22:28:38:True
+8/22:28:38:StreamingAssets
+8/22:28:38:StartPreLoadRes
+8/22:28:38:PathToAssetBundleName path : Assets/AssetBundleRes/role/prefab/MainRole.prefab
+8/22:28:38:LoadAsset<T>role_prefab:MainRole.prefab
+8/22:28:38:ResourceManager:LoadAsset() abName1 : role_prefab assetNames:MainRole.prefab
+8/22:28:38:GetRealAssetPatheffect_projectors
+8/22:28:38:GetRealAssetPathlua.unity3d
+8/22:28:38:GetRealAssetPathlua_bp.unity3d
+8/22:28:38:GetRealAssetPathlua_bp_common.unity3d
+8/22:28:38:GetRealAssetPathlua_bp_src.unity3d
+8/22:28:38:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:28:38:GetRealAssetPathlua_bp_tests.unity3d
+8/22:28:38:GetRealAssetPathlua_common.unity3d
+8/22:28:38:GetRealAssetPathlua_common_ui.unity3d
+8/22:28:38:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:28:38:GetRealAssetPathlua_common_util.unity3d
+8/22:28:38:GetRealAssetPathlua_config.unity3d
+8/22:28:38:GetRealAssetPathlua_ecs.unity3d
+8/22:28:38:GetRealAssetPathlua_ecs_common.unity3d
+8/22:28:38:GetRealAssetPathlua_ecs_src.unity3d
+8/22:28:38:GetRealAssetPathlua_ecs_test.unity3d
+8/22:28:38:GetRealAssetPathlua_game_bag.unity3d
+8/22:28:38:GetRealAssetPathlua_game_chat.unity3d
+8/22:28:38:GetRealAssetPathlua_game_common.unity3d
+8/22:28:38:GetRealAssetPathlua_game_common_action.unity3d
+8/22:28:38:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:28:38:GetRealAssetPathlua_game_error.unity3d
+8/22:28:38:GetRealAssetPathlua_game_gm.unity3d
+8/22:28:38:GetRealAssetPathlua_game_login.unity3d
+8/22:28:38:GetRealAssetPathlua_game_mainui.unity3d
+8/22:28:38:GetRealAssetPathlua_game_scene.unity3d
+8/22:28:38:GetRealAssetPathlua_game_systems.unity3d
+8/22:28:38:GetRealAssetPathlua_game_task.unity3d
+8/22:28:38:GetRealAssetPathlua_game_test.unity3d
+8/22:28:38:GetRealAssetPathlua_proto.unity3d
+8/22:28:38:GetRealAssetPathlua_tools.unity3d
+8/22:28:38:GetRealAssetPathmonster_monster_2000
+8/22:28:38:GetRealAssetPathmonster_monster_2001
+8/22:28:38:GetRealAssetPathmonster_prefab
+8/22:28:38:GetRealAssetPathmonster_timeline
+8/22:28:38:GetRealAssetPathnpc_npc_3000
+8/22:28:38:GetRealAssetPathnpc_prefab
+8/22:28:38:GetRealAssetPathrole_body
+8/22:28:38:GetRealAssetPathrole_prefab
+8/22:28:38:ResourceManager:LoadAsset() real abName2 : role_prefabUnityEngine.GameObject
+8/22:28:38:OnLoadAssetBundle Application.platform=file://D:/Users/Movie/Assets/unitymmo/role_prefab:role_prefab
+8/22:28:38:OnLoadAssetBundle Application.platform=WindowsEditorAndroid
+8/22:28:38:OnLoadAssetBundle Application.platform=file://D:/Users/Movie/Assets/unitymmo/effect_projectors:effect_projectors
+8/22:28:38:OnLoadAssetBundle Application.platform=WindowsEditorAndroid
+8/22:28:38:PathToAssetBundleName path : Assets/AssetBundleRes/role/prefab/Role.prefab
+8/22:28:38:LoadAsset<T>role_prefab:Role.prefab
+8/22:28:38:ResourceManager:LoadAsset() abName1 : role_prefab assetNames:Role.prefab
+8/22:28:38:GetRealAssetPatheffect_projectors
+8/22:28:38:GetRealAssetPathlua.unity3d
+8/22:28:38:GetRealAssetPathlua_bp.unity3d
+8/22:28:38:GetRealAssetPathlua_bp_common.unity3d
+8/22:28:38:GetRealAssetPathlua_bp_src.unity3d
+8/22:28:38:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:28:38:GetRealAssetPathlua_bp_tests.unity3d
+8/22:28:38:GetRealAssetPathlua_common.unity3d
+8/22:28:38:GetRealAssetPathlua_common_ui.unity3d
+8/22:28:38:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:28:38:GetRealAssetPathlua_common_util.unity3d
+8/22:28:38:GetRealAssetPathlua_config.unity3d
+8/22:28:38:GetRealAssetPathlua_ecs.unity3d
+8/22:28:38:GetRealAssetPathlua_ecs_common.unity3d
+8/22:28:38:GetRealAssetPathlua_ecs_src.unity3d
+8/22:28:38:GetRealAssetPathlua_ecs_test.unity3d
+8/22:28:38:GetRealAssetPathlua_game_bag.unity3d
+8/22:28:38:GetRealAssetPathlua_game_chat.unity3d
+8/22:28:38:GetRealAssetPathlua_game_common.unity3d
+8/22:28:38:GetRealAssetPathlua_game_common_action.unity3d
+8/22:28:38:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:28:38:GetRealAssetPathlua_game_error.unity3d
+8/22:28:38:GetRealAssetPathlua_game_gm.unity3d
+8/22:28:38:GetRealAssetPathlua_game_login.unity3d
+8/22:28:38:GetRealAssetPathlua_game_mainui.unity3d
+8/22:28:38:GetRealAssetPathlua_game_scene.unity3d
+8/22:28:38:GetRealAssetPathlua_game_systems.unity3d
+8/22:28:38:GetRealAssetPathlua_game_task.unity3d
+8/22:28:38:GetRealAssetPathlua_game_test.unity3d
+8/22:28:38:GetRealAssetPathlua_proto.unity3d
+8/22:28:38:GetRealAssetPathlua_tools.unity3d
+8/22:28:38:GetRealAssetPathmonster_monster_2000
+8/22:28:38:GetRealAssetPathmonster_monster_2001
+8/22:28:38:GetRealAssetPathmonster_prefab
+8/22:28:38:GetRealAssetPathmonster_timeline
+8/22:28:38:GetRealAssetPathnpc_npc_3000
+8/22:28:38:GetRealAssetPathnpc_prefab
+8/22:28:38:GetRealAssetPathrole_body
+8/22:28:38:GetRealAssetPathrole_prefab
+8/22:28:38:ResourceManager:LoadAsset() real abName2 : role_prefabUnityEngine.GameObject
+8/22:28:38:PathToAssetBundleName path : Assets/AssetBundleRes/monster/prefab/Monster.prefab
+8/22:28:38:LoadAsset<T>monster_prefab:Monster.prefab
+8/22:28:38:ResourceManager:LoadAsset() abName1 : monster_prefab assetNames:Monster.prefab
+8/22:28:38:GetRealAssetPatheffect_projectors
+8/22:28:38:GetRealAssetPathlua.unity3d
+8/22:28:38:GetRealAssetPathlua_bp.unity3d
+8/22:28:38:GetRealAssetPathlua_bp_common.unity3d
+8/22:28:38:GetRealAssetPathlua_bp_src.unity3d
+8/22:28:38:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:28:38:GetRealAssetPathlua_bp_tests.unity3d
+8/22:28:38:GetRealAssetPathlua_common.unity3d
+8/22:28:38:GetRealAssetPathlua_common_ui.unity3d
+8/22:28:38:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:28:38:GetRealAssetPathlua_common_util.unity3d
+8/22:28:38:GetRealAssetPathlua_config.unity3d
+8/22:28:38:GetRealAssetPathlua_ecs.unity3d
+8/22:28:38:GetRealAssetPathlua_ecs_common.unity3d
+8/22:28:38:GetRealAssetPathlua_ecs_src.unity3d
+8/22:28:38:GetRealAssetPathlua_ecs_test.unity3d
+8/22:28:38:GetRealAssetPathlua_game_bag.unity3d
+8/22:28:38:GetRealAssetPathlua_game_chat.unity3d
+8/22:28:38:GetRealAssetPathlua_game_common.unity3d
+8/22:28:38:GetRealAssetPathlua_game_common_action.unity3d
+8/22:28:38:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:28:38:GetRealAssetPathlua_game_error.unity3d
+8/22:28:38:GetRealAssetPathlua_game_gm.unity3d
+8/22:28:38:GetRealAssetPathlua_game_login.unity3d
+8/22:28:38:GetRealAssetPathlua_game_mainui.unity3d
+8/22:28:38:GetRealAssetPathlua_game_scene.unity3d
+8/22:28:38:GetRealAssetPathlua_game_systems.unity3d
+8/22:28:38:GetRealAssetPathlua_game_task.unity3d
+8/22:28:38:GetRealAssetPathlua_game_test.unity3d
+8/22:28:38:GetRealAssetPathlua_proto.unity3d
+8/22:28:38:GetRealAssetPathlua_tools.unity3d
+8/22:28:38:GetRealAssetPathmonster_monster_2000
+8/22:28:38:GetRealAssetPathmonster_monster_2001
+8/22:28:38:GetRealAssetPathmonster_prefab
+8/22:28:38:ResourceManager:LoadAsset() real abName2 : monster_prefabUnityEngine.GameObject
+8/22:28:38:OnLoadAssetBundle Application.platform=file://D:/Users/Movie/Assets/unitymmo/monster_prefab:monster_prefab
+8/22:28:38:OnLoadAssetBundle Application.platform=WindowsEditorAndroid
+8/22:28:38:assetObj :True
+8/22:28:38:True
+8/22:28:38:assetObj :True
+8/22:28:38:True
+8/22:28:38:assetObj :True
+8/22:28:38:True
+8/22:28:38:Main.cs ResourceManager Initialize OK!!! isOk:True
+8/22:28:38:new_state : StartLogin
+8/22:28:38:初始化游戏资源完毕
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:doc create success
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_bp.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_bp.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_bp
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_bp_common.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_bp_common.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_bp_common
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_bp_src.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_bp_src.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_bp_src
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_bp_src_action.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_bp_src_action.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_bp_src_action
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_bp_tests.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_bp_tests.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_bp_tests
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_common.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_common.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_common
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_common_ui.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_common_ui.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_common_ui
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_common_unityengine.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_common_unityengine.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_common_unityengine
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_common_util.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_common_util.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_common_util
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_config.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_config.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_config
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_ecs.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_ecs.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_ecs
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_ecs_common.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_ecs_common.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_ecs_common
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_ecs_src.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_ecs_src.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_ecs_src
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_ecs_test.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_ecs_test.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_ecs_test
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_game_bag.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_game_bag.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_game_bag
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_game_chat.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_game_chat.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_game_chat
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_game_common.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_game_common.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_game_common
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_game_common_action.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_game_common_action.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_game_common_action
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_game_common_ui.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_game_common_ui.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_game_common_ui
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_game_error.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_game_error.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_game_error
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_game_gm.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_game_gm.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_game_gm
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_game_login.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_game_login.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_game_login
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_game_mainui.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_game_mainui.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_game_mainui
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_game_scene.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_game_scene.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_game_scene
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_game_systems.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_game_systems.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_game_systems
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_game_task.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_game_task.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_game_task
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_game_test.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_game_test.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_game_test
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_proto.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_proto.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_proto
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName: lua_tools.unity3d: D:/Users/Movie/Assets/unitymmo/lua/lua_tools.unity3d
+8/22:28:38:CustomLoader4 DataPath : D:/Users/Movie/Assets/unitymmo/
+8/22:28:38:luaBundleName undle != null: lua_tools
+8/22:28:38:LoaderByAB1 : BaseRequire
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/baserequire.lua
+8/22:28:38:LoaderByAB1 : Common.UnityEngine.Mathf
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/unityengine/mathf.lua
+8/22:28:38:LoaderByAB1 : Common.UnityEngine.Vector2
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/unityengine/vector2.lua
+8/22:28:38:LoaderByAB1 : Common.UnityEngine.Vector3
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/unityengine/vector3.lua
+8/22:28:38:LoaderByAB1 : Common.UnityEngine.Vector4
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/unityengine/vector4.lua
+8/22:28:38:LoaderByAB1 : Common.UnityEngine.Quaternion
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/unityengine/quaternion.lua
+8/22:28:38:LoaderByAB1 : Common.UnityEngine.Color
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/unityengine/color.lua
+8/22:28:38:LoaderByAB1 : Common.UnityEngine.Ray
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/unityengine/ray.lua
+8/22:28:38:LoaderByAB1 : Common.UnityEngine.Bounds
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/unityengine/bounds.lua
+8/22:28:38:LoaderByAB1 : Common.UnityEngine.RaycastHit
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/unityengine/raycasthit.lua
+8/22:28:38:LoaderByAB1 : Common.UnityEngine.Touch
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/unityengine/touch.lua
+8/22:28:38:LoaderByAB1 : Common.UnityEngine.LayerMask
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/unityengine/layermask.lua
+8/22:28:38:LoaderByAB1 : Common.UnityEngine.Plane
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/unityengine/plane.lua
+8/22:28:38:LoaderByAB1 : Common.UnityEngine.Time
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/unityengine/time.lua
+8/22:28:38:LoaderByAB1 : Common.UnityEngine.Object
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/unityengine/object.lua
+8/22:28:38:LoaderByAB1 : Common/BaseClass
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/baseclass.lua
+8/22:28:38:LoaderByAB1 : Common.Util.util
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/util/util.lua
+8/22:28:38:LoaderByAB1 : Common.Util.LuaUtil
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/util/luautil.lua
+8/22:28:38:LoaderByAB1 : Common.Util.list
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/util/list.lua
+8/22:28:38:LoaderByAB1 : Common.Util.event
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/util/event.lua
+8/22:28:38:LoaderByAB1 : Common.Util.Timer
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/util/timer.lua
+8/22:28:38:LoaderByAB1 : Common.UpdateManager
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/updatemanager.lua
+8/22:28:38:LoaderByAB1 : Common.Messenger
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/messenger.lua
+8/22:28:38:LoaderByAB1 : Common.GlobalEventSystem
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/globaleventsystem.lua
+8/22:28:38:LoaderByAB1 : Common.EventSystem
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/eventsystem.lua
+8/22:28:38:LoaderByAB1 : Game.Common.ECS
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/game/common/ecs.lua
+8/22:28:38:LoaderByAB1 : Game.Common.Action.ActionNodeWrapper
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/game/common/action/actionnodewrapper.lua
+8/22:28:38:LoaderByAB1 : Game.Common.Action.ActionTweenFunction
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/game/common/action/actiontweenfunction.lua
+8/22:28:38:LoaderByAB1 : Game.Common.Action.Action
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/game/common/action/action.lua
+8/22:28:38:LoaderByAB1 : Game.Common.Action.ActionInterval
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/game/common/action/actioninterval.lua
+8/22:28:38:LoaderByAB1 : Game.Common.Action.ActionEase
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/game/common/action/actionease.lua
+8/22:28:38:LoaderByAB1 : Game.Common.Action.ActionInstant
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/game/common/action/actioninstant.lua
+8/22:28:38:LoaderByAB1 : Game.Common.Action.ActionManager
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/game/common/action/actionmanager.lua
+8/22:28:38:LoaderByAB1 : Game.Common.Action.ActionCatmullRom
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/game/common/action/actioncatmullrom.lua
+8/22:28:38:LoaderByAB1 : Common.Util.Functor
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/common/util/functor.lua
+8/22:28:38:LoaderByAB1 : Game.Common.UIGlobal
+8/22:28:38:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:38:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:38:Load lua script : D:/Users/Movie/Assets/lua/game/common/uiglobal.lua
+8/22:28:39:LoaderByAB1 : Game.Scene.LRoleMgr
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/scene/lrolemgr.lua
+8/22:28:39:LoaderByAB1 : Game.Error.ErrorCode
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/error/errorcode.lua
+8/22:28:39:LoaderByAB1 : Game.Common.ColorUtil
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/common/colorutil.lua
+8/22:28:39:LoaderByAB1 : Common.UI.UIHelper
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/common/ui/uihelper.lua
+8/22:28:39:LoaderByAB1 : Common.Util.Jury
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/common/util/jury.lua
+8/22:28:39:LoaderByAB1 : Common.Util.TableUtil
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/common/util/tableutil.lua
+8/22:28:39:LoaderByAB1 : Game.Common.GlobalEvents
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/common/globalevents.lua
+8/22:28:39:LoaderByAB1 : Game.Common.EventDispatcher
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/common/eventdispatcher.lua
+8/22:28:39:LoaderByAB1 : Game.Common.AlertView
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/common/alertview.lua
+8/22:28:39:LoaderByAB1 : Game.Scene.MainRole
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/scene/mainrole.lua
+8/22:28:39:LoaderByAB1 : Common.UI.UINode
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/common/ui/uinode.lua
+8/22:28:39:LoaderByAB1 : Common.UI.UILooksNode
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/common/ui/uilooksnode.lua
+8/22:28:39:LoaderByAB1 : Game.Common.UI.GoodsItem
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/common/ui/goodsitem.lua
+8/22:28:39:LoaderByAB1 : Game.Common.ResPath
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/common/respath.lua
+8/22:28:39:LoaderByAB1 : Tools.ConfigMgr
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/tools/configmgr.lua
+8/22:28:39:LoaderByAB1 : Config.ConfigErrorCode
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/config/configerrorcode.lua
+8/22:28:39:LoaderByAB1 : Game.Common.UI.Window
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/common/ui/window.lua
+8/22:28:39:LoaderByAB1 : Tools.CookieWrapper
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/tools/cookiewrapper.lua
+8/22:28:39:LoaderByAB1 : NetDispatcher
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/netdispatcher.lua
+8/22:28:39:LoaderByAB1 : Common.Util.sproto
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/common/util/sproto.lua
+8/22:28:39:LoaderByAB1 : Common.util.sprotoparser
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/common/util/sprotoparser.lua
+8/22:28:39:NetworkManager.GetInstance().OnConnectCallBack before
+8/22:28:39:NetworkManager.GetInstance().OnConnectCallBack mid
+8/22:28:39:NetworkManager.GetInstance().OnConnectCallBack
+8/22:28:39:LoaderByAB1 : LuaMain
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/luamain.lua
+8/22:28:39:LoaderByAB1 : Game.Common.UIManager
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/common/uimanager.lua
+8/22:28:39:LoaderByAB1 : Game.Common.PrefabPool
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/common/prefabpool.lua
+8/22:28:39:LoaderByAB1 : Common.UI.UIComponent
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/common/ui/uicomponent.lua
+8/22:28:39:LoaderByAB1 : Common.UI.Countdown
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/common/ui/countdown.lua
+8/22:28:39:LoaderByAB1 : Common.UI.ItemListCreator
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/common/ui/itemlistcreator.lua
+8/22:28:39:LoaderByAB1 : Game.Common.Message
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/common/message.lua
+8/22:28:39:LoaderByAB1 : config.config_monster
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/config/config_monster.lua
+8/22:28:39:LoaderByAB1 : Game.Scene.scene_const
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/scene/scene_const.lua
+8/22:28:39:LUA: logic start 2023008030211111
+8/22:28:39:LUA: update manager start up
+8/22:28:39:LUA: Cat:Game.lua[Game.OnInitOK()]
+8/22:28:39:LUA: Cat:GlobalEventSystem.lua[Init]
+8/22:28:39:SetLuaFunc2Num funcID : 103 func:True
+8/22:28:39:LoaderByAB1 : Game.Common.LuaPool
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/common/luapool.lua
+8/22:28:39:LoaderByAB1 : Game.Common.UI.GoodsInfoView
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/common/ui/goodsinfoview.lua
+8/22:28:39:LUA: Cat:Message.lua[Init]
+8/22:28:39:LoaderByAB1 : Game/Login/LoginController
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/login/logincontroller.lua
+8/22:28:39:LoaderByAB1 : Game/Login/LoginConst
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/login/loginconst.lua
+8/22:28:39:LoaderByAB1 : Game/Login/LoginModel
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/login/loginmodel.lua
+8/22:28:39:LUA: StartLogin=	common
+8/22:28:39:Application.dataPath----D:/Users/Movie/Assets/unitymmo/student.xmlv
+8/22:28:39:balance=name
+8/22:28:39:LUA: count=	0
+8/22:28:39:LUA: LoginCreateRoleView
+8/22:28:39:createBaginfo==roleID10000000001andpos1
+8/22:28:39:account_select_rolevvv 10000000001
+8/22:28:39:account_select_role2 11100010010010000000001刻苦的圭介
+8/22:28:39:NAME=刻苦的圭介
+8/22:28:39:LUA: pos_x	ppppppp	0
+8/22:28:39:LUA: hair	ppppppp	1
+8/22:28:39:LUA: pos_z	ppppppp	0
+8/22:28:39:LUA: cur_hp	ppppppp	100
+8/22:28:39:LUA: body	ppppppp	1
+8/22:28:39:LUA: max_hp	ppppppp	100
+8/22:28:39:LUA: name	ppppppp	刻苦的圭介
+8/22:28:39:LUA: career	ppppppp	1
+8/22:28:39:LUA: pos_y	ppppppp	0
+8/22:28:39:LUA: role_id	ppppppp	10000000001
+8/22:28:39:LUA: succsfully
+8/22:28:39:onlognoook0:0:0
+8/22:28:39:XLuaManager onLoginOk
+8/22:28:39:Main.cs XLuaManager StartLogin OK!!!
+8/22:28:39:new_state : StartGame
+8/22:28:39:LUA: Cat:LoginCreateRoleView.lua[106] nick_name	刻苦的圭介
+8/22:28:39:LoaderByAB1 : Game/Scene/scene_mgr
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/scene/scene_mgr.lua
+8/22:28:39:LoaderByAB1 : config.config_npc
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/config/config_npc.lua
+8/22:28:39:LUA: Cat:SceneController.lua[Init]
+8/22:28:39:LoaderByAB1 : config.config_scene_1001
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/config/config_scene_1001.lua
+8/22:28:39:LUA: scene_mgr.init_events......
+8/22:28:39:LUA: Cat:SceneController.lua[66] GlobalEvents.MainRoleDie	101	XLuaFramework.CSLuaBridge: 1855413248
+8/22:28:39:LUA: Cat:SceneController.lua[67] CSLuaBridge.GetInstance:SetLuaFuncNum	function: 0000018FFF6642B0
+8/22:28:39:LoaderByAB1 : Game/Task/TaskController
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/task/taskcontroller.lua
+8/22:28:39:LoaderByAB1 : Game/Task/TaskConst
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/task/taskconst.lua
+8/22:28:39:LoaderByAB1 : Game/Task/TaskModel
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/task/taskmodel.lua
+8/22:28:39:LoaderByAB1 : Game/Task/Taskserver
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/game/task/taskserver.lua
+8/22:28:39:LoaderByAB1 : Config.ConfigTask
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/config/configtask.lua
+8/22:28:39:new_state : Playing
+8/22:28:39:GameVariable.IsSingleMode=!True
+8/22:28:39:GameVariable.IsSingleMode=true !100000000010:0:0:1
+8/22:28:39:setName namenamename刻苦的圭介刻苦的圭介-0.8:10:0
+8/22:28:39:init info.carrer=1
+8/22:28:39:GameVariable.IsSingleMode=True
+8/22:28:39:info.carrer=1
+8/22:28:39:SpawnRoleLooks bodyPath : Assets/AssetBundleRes/role/body/body_1101/model_body_1101.prefab
+8/22:28:39:PathToAssetBundleName path : Assets/AssetBundleRes/role/body/body_1101/model_body_1101.prefab
+8/22:28:39:LoadAsset<T>role_body:model_body_1101.prefab
+8/22:28:39:ResourceManager:LoadAsset() abName1 : role_body assetNames:model_body_1101.prefab
+8/22:28:39:GetRealAssetPatheffect_projectors
+8/22:28:39:GetRealAssetPathlua.unity3d
+8/22:28:39:GetRealAssetPathlua_bp.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_common.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_src.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_tests.unity3d
+8/22:28:39:GetRealAssetPathlua_common.unity3d
+8/22:28:39:GetRealAssetPathlua_common_ui.unity3d
+8/22:28:39:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:28:39:GetRealAssetPathlua_common_util.unity3d
+8/22:28:39:GetRealAssetPathlua_config.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_common.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_src.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_test.unity3d
+8/22:28:39:GetRealAssetPathlua_game_bag.unity3d
+8/22:28:39:GetRealAssetPathlua_game_chat.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common_action.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:28:39:GetRealAssetPathlua_game_error.unity3d
+8/22:28:39:GetRealAssetPathlua_game_gm.unity3d
+8/22:28:39:GetRealAssetPathlua_game_login.unity3d
+8/22:28:39:GetRealAssetPathlua_game_mainui.unity3d
+8/22:28:39:GetRealAssetPathlua_game_scene.unity3d
+8/22:28:39:GetRealAssetPathlua_game_systems.unity3d
+8/22:28:39:GetRealAssetPathlua_game_task.unity3d
+8/22:28:39:GetRealAssetPathlua_game_test.unity3d
+8/22:28:39:GetRealAssetPathlua_proto.unity3d
+8/22:28:39:GetRealAssetPathlua_tools.unity3d
+8/22:28:39:GetRealAssetPathmonster_monster_2000
+8/22:28:39:GetRealAssetPathmonster_monster_2001
+8/22:28:39:GetRealAssetPathmonster_prefab
+8/22:28:39:GetRealAssetPathmonster_timeline
+8/22:28:39:GetRealAssetPathnpc_npc_3000
+8/22:28:39:GetRealAssetPathnpc_prefab
+8/22:28:39:GetRealAssetPathrole_body
+8/22:28:39:ResourceManager:LoadAsset() real abName2 : role_bodyUnityEngine.GameObject
+8/22:28:39:OnLoadAssetBundle Application.platform=file://D:/Users/Movie/Assets/unitymmo/role_body:role_body
+8/22:28:39:OnLoadAssetBundle Application.platform=WindowsEditorAndroid
+8/22:28:39:LoadScene scene_id 1001
+8/22:28:39:PathToAssetBundleName path : Assets/AssetBundleRes/scene/scene_1001/scene_info.json
+8/22:28:39:PathToAssetBundleName path_parts[0] : scene_1001/scene_info.json:scene_1001
+8/22:28:39:LoadAsset<T>scene_scene_1001:scene_info.json
+8/22:28:39:ResourceManager:LoadAsset() abName1 : scene_scene_1001 assetNames:scene_info.json
+8/22:28:39:GetRealAssetPatheffect_projectors
+8/22:28:39:GetRealAssetPathlua.unity3d
+8/22:28:39:GetRealAssetPathlua_bp.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_common.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_src.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_tests.unity3d
+8/22:28:39:GetRealAssetPathlua_common.unity3d
+8/22:28:39:GetRealAssetPathlua_common_ui.unity3d
+8/22:28:39:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:28:39:GetRealAssetPathlua_common_util.unity3d
+8/22:28:39:GetRealAssetPathlua_config.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_common.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_src.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_test.unity3d
+8/22:28:39:GetRealAssetPathlua_game_bag.unity3d
+8/22:28:39:GetRealAssetPathlua_game_chat.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common_action.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:28:39:GetRealAssetPathlua_game_error.unity3d
+8/22:28:39:GetRealAssetPathlua_game_gm.unity3d
+8/22:28:39:GetRealAssetPathlua_game_login.unity3d
+8/22:28:39:GetRealAssetPathlua_game_mainui.unity3d
+8/22:28:39:GetRealAssetPathlua_game_scene.unity3d
+8/22:28:39:GetRealAssetPathlua_game_systems.unity3d
+8/22:28:39:GetRealAssetPathlua_game_task.unity3d
+8/22:28:39:GetRealAssetPathlua_game_test.unity3d
+8/22:28:39:GetRealAssetPathlua_proto.unity3d
+8/22:28:39:GetRealAssetPathlua_tools.unity3d
+8/22:28:39:GetRealAssetPathmonster_monster_2000
+8/22:28:39:GetRealAssetPathmonster_monster_2001
+8/22:28:39:GetRealAssetPathmonster_prefab
+8/22:28:39:GetRealAssetPathmonster_timeline
+8/22:28:39:GetRealAssetPathnpc_npc_3000
+8/22:28:39:GetRealAssetPathnpc_prefab
+8/22:28:39:GetRealAssetPathrole_body
+8/22:28:39:GetRealAssetPathrole_prefab
+8/22:28:39:GetRealAssetPathrole_timeline
+8/22:28:39:GetRealAssetPathscene_scene_1001
+8/22:28:39:ResourceManager:LoadAsset() real abName2 : scene_scene_1001UnityEngine.TextAsset
+8/22:28:39:OnLoadAssetBundle Application.platform=file://D:/Users/Movie/Assets/unitymmo/scene_scene_1001:scene_scene_1001
+8/22:28:39:OnLoadAssetBundle Application.platform=WindowsEditorAndroid
+8/22:28:39:LUA: onStartTrgger
+8/22:28:39:LUA: scene_mgr.on_start_game	true
+8/22:28:39:AddMonster typeID/uid: 2000:20000000001
+8/22:28:39:AddMonster pos : 1.3 10 0
+8/22:28:39:CreateLooks CreateLooks===MonsterRes_2000
+8/22:28:39:CreateLooks===Assets/AssetBundleRes/monster/monster_2000/model_clothe_2000.prefab
+8/22:28:39:PathToAssetBundleName path : Assets/AssetBundleRes/monster/monster_2000/model_clothe_2000.prefab
+8/22:28:39:LoadAsset<T>monster_monster_2000:model_clothe_2000.prefab
+8/22:28:39:ResourceManager:LoadAsset() abName1 : monster_monster_2000 assetNames:model_clothe_2000.prefab
+8/22:28:39:GetRealAssetPatheffect_projectors
+8/22:28:39:GetRealAssetPathlua.unity3d
+8/22:28:39:GetRealAssetPathlua_bp.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_common.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_src.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_tests.unity3d
+8/22:28:39:GetRealAssetPathlua_common.unity3d
+8/22:28:39:GetRealAssetPathlua_common_ui.unity3d
+8/22:28:39:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:28:39:GetRealAssetPathlua_common_util.unity3d
+8/22:28:39:GetRealAssetPathlua_config.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_common.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_src.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_test.unity3d
+8/22:28:39:GetRealAssetPathlua_game_bag.unity3d
+8/22:28:39:GetRealAssetPathlua_game_chat.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common_action.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:28:39:GetRealAssetPathlua_game_error.unity3d
+8/22:28:39:GetRealAssetPathlua_game_gm.unity3d
+8/22:28:39:GetRealAssetPathlua_game_login.unity3d
+8/22:28:39:GetRealAssetPathlua_game_mainui.unity3d
+8/22:28:39:GetRealAssetPathlua_game_scene.unity3d
+8/22:28:39:GetRealAssetPathlua_game_systems.unity3d
+8/22:28:39:GetRealAssetPathlua_game_task.unity3d
+8/22:28:39:GetRealAssetPathlua_game_test.unity3d
+8/22:28:39:GetRealAssetPathlua_proto.unity3d
+8/22:28:39:GetRealAssetPathlua_tools.unity3d
+8/22:28:39:GetRealAssetPathmonster_monster_2000
+8/22:28:39:ResourceManager:LoadAsset() real abName2 : monster_monster_2000UnityEngine.GameObject
+8/22:28:39:OnLoadAssetBundle Application.platform=file://D:/Users/Movie/Assets/unitymmo/monster_monster_2000:monster_monster_2000
+8/22:28:39:OnLoadAssetBundle Application.platform=WindowsEditorAndroid
+8/22:28:39:AddMonster typeID/uid: 2001:20000000002
+8/22:28:39:AddMonster pos : -1.4 10 0
+8/22:28:39:CreateLooks CreateLooks===MonsterRes_2001
+8/22:28:39:CreateLooks===Assets/AssetBundleRes/monster/monster_2001/model_clothe_2001.prefab
+8/22:28:39:PathToAssetBundleName path : Assets/AssetBundleRes/monster/monster_2001/model_clothe_2001.prefab
+8/22:28:39:LoadAsset<T>monster_monster_2001:model_clothe_2001.prefab
+8/22:28:39:ResourceManager:LoadAsset() abName1 : monster_monster_2001 assetNames:model_clothe_2001.prefab
+8/22:28:39:GetRealAssetPatheffect_projectors
+8/22:28:39:GetRealAssetPathlua.unity3d
+8/22:28:39:GetRealAssetPathlua_bp.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_common.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_src.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_tests.unity3d
+8/22:28:39:GetRealAssetPathlua_common.unity3d
+8/22:28:39:GetRealAssetPathlua_common_ui.unity3d
+8/22:28:39:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:28:39:GetRealAssetPathlua_common_util.unity3d
+8/22:28:39:GetRealAssetPathlua_config.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_common.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_src.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_test.unity3d
+8/22:28:39:GetRealAssetPathlua_game_bag.unity3d
+8/22:28:39:GetRealAssetPathlua_game_chat.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common_action.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:28:39:GetRealAssetPathlua_game_error.unity3d
+8/22:28:39:GetRealAssetPathlua_game_gm.unity3d
+8/22:28:39:GetRealAssetPathlua_game_login.unity3d
+8/22:28:39:GetRealAssetPathlua_game_mainui.unity3d
+8/22:28:39:GetRealAssetPathlua_game_scene.unity3d
+8/22:28:39:GetRealAssetPathlua_game_systems.unity3d
+8/22:28:39:GetRealAssetPathlua_game_task.unity3d
+8/22:28:39:GetRealAssetPathlua_game_test.unity3d
+8/22:28:39:GetRealAssetPathlua_proto.unity3d
+8/22:28:39:GetRealAssetPathlua_tools.unity3d
+8/22:28:39:GetRealAssetPathmonster_monster_2000
+8/22:28:39:GetRealAssetPathmonster_monster_2001
+8/22:28:39:ResourceManager:LoadAsset() real abName2 : monster_monster_2001UnityEngine.GameObject
+8/22:28:39:OnLoadAssetBundle Application.platform=file://D:/Users/Movie/Assets/unitymmo/monster_monster_2001:monster_monster_2001
+8/22:28:39:OnLoadAssetBundle Application.platform=WindowsEditorAndroid
+8/22:28:39:LUA: onGameStart dddddffggghhhhh
+8/22:28:39:LUA: dddddffggghhhhh	10000000001
+8/22:28:39:LUA: InitTaskInfos began
+8/22:28:39:xmldoc.insert call select_by_keyrole_id=10000000001
+8/22:28:39:xmldoc.insert call select_by_keyrole_id=10000000001
+8/22:28:39:xmldoc.insert call select_by_key11100010010010000000001刻苦的圭介role_id=10000000001
+8/22:28:39:xmldoc.insert call select_by_keyrole_id=10000000001
+8/22:28:39:LUA: xmldoc.insert call wwwwww-1	nil	nil
+8/22:28:39:LUA: not isDataOk CS.XMLdoc.Instance:insert	table: 0000018FD8DDA470
+8/22:28:39:xmldoc.insert call1110000000001
+8/22:28:39:xmldoc.insert call select_by_keyrole_id=10000000001
+8/22:28:39:xmldoc.insert call select_by_keyrole_id=10000000001
+8/22:28:39:xmldoc.insert call select_by_key11100010010010000000001刻苦的圭介role_id=10000000001
+8/22:28:39:xmldoc.insert call select_by_keyrole_id=10000000001
+8/22:28:39:xmldoc.insert call select_by_key10000000001role_id=10000000001
+8/22:28:39:xmldoc.insert call ok
+8/22:28:39:LUA: xmldoc.insert call wwwwww1	10000000001	10000000001
+8/22:28:39:LUA: 1	status	ReqTakeTask2	1
+8/22:28:39:LUA: 1	contentID	ReqTakeTask2	2000
+8/22:28:39:LUA: 1	roleID	ReqTakeTask2	10000000001
+8/22:28:39:LUA: 1	subType	ReqTakeTask2	1
+8/22:28:39:LUA: 1	maxProgress	ReqTakeTask2	0
+8/22:28:39:LUA: 1	taskID	ReqTakeTask2	1
+8/22:28:39:LUA: 1	curProgress	ReqTakeTask2	0
+8/22:28:39:LUA: 1	subTaskIndex	ReqTakeTask2	1
+8/22:28:39:LUA: Cat:TaskModel.lua[53] func, taskInfo.subType	function: 0000018FD2E19900	1
+8/22:28:39:LoaderByAB1 : Config.ConfigNPC
+8/22:28:39:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:39:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:39:Load lua script : D:/Users/Movie/Assets/lua/config/confignpc.lua
+8/22:28:39:new_state : None
+8/22:28:39:Stop FindWay by move query
+8/22:28:39:Stop FindWay by move query
+8/22:28:39:Stop FindWay by move query
+8/22:28:39:assetObj :True
+8/22:28:39:True
+8/22:28:39:assetObj :True
+8/22:28:39:True
+8/22:28:39:assetObj :True
+8/22:28:39:True
+8/22:28:39:assetObj :True
+8/22:28:39:True
+8/22:28:39:SpawnRoleLooks parentTrans : MainRole_10000000001
+8/22:28:39:SpawnRoleLooks bodyOE.transform : model_body_1101(Clone) (Unity.Entities.GameObjectEntity)
+8/22:28:39:LoadSceneInfo start LoadSceneRes count:3 0
+8/22:28:39:PathToAssetBundleName path : Assets/AssetBundleRes/scene/scene_1001/prefabs/TreeLittle.prefab
+8/22:28:39:PathToAssetBundleName path_parts[0] : scene_1001/prefabs/TreeLittle.prefab:scene_1001
+8/22:28:39:LoadAsset<T>scene_scene_1001:TreeLittle.prefab
+8/22:28:39:ResourceManager:LoadAsset() abName1 : scene_scene_1001 assetNames:TreeLittle.prefab
+8/22:28:39:GetRealAssetPatheffect_projectors
+8/22:28:39:GetRealAssetPathlua.unity3d
+8/22:28:39:GetRealAssetPathlua_bp.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_common.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_src.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_tests.unity3d
+8/22:28:39:GetRealAssetPathlua_common.unity3d
+8/22:28:39:GetRealAssetPathlua_common_ui.unity3d
+8/22:28:39:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:28:39:GetRealAssetPathlua_common_util.unity3d
+8/22:28:39:GetRealAssetPathlua_config.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_common.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_src.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_test.unity3d
+8/22:28:39:GetRealAssetPathlua_game_bag.unity3d
+8/22:28:39:GetRealAssetPathlua_game_chat.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common_action.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:28:39:GetRealAssetPathlua_game_error.unity3d
+8/22:28:39:GetRealAssetPathlua_game_gm.unity3d
+8/22:28:39:GetRealAssetPathlua_game_login.unity3d
+8/22:28:39:GetRealAssetPathlua_game_mainui.unity3d
+8/22:28:39:GetRealAssetPathlua_game_scene.unity3d
+8/22:28:39:GetRealAssetPathlua_game_systems.unity3d
+8/22:28:39:GetRealAssetPathlua_game_task.unity3d
+8/22:28:39:GetRealAssetPathlua_game_test.unity3d
+8/22:28:39:GetRealAssetPathlua_proto.unity3d
+8/22:28:39:GetRealAssetPathlua_tools.unity3d
+8/22:28:39:GetRealAssetPathmonster_monster_2000
+8/22:28:39:GetRealAssetPathmonster_monster_2001
+8/22:28:39:GetRealAssetPathmonster_prefab
+8/22:28:39:GetRealAssetPathmonster_timeline
+8/22:28:39:GetRealAssetPathnpc_npc_3000
+8/22:28:39:GetRealAssetPathnpc_prefab
+8/22:28:39:GetRealAssetPathrole_body
+8/22:28:39:GetRealAssetPathrole_prefab
+8/22:28:39:GetRealAssetPathrole_timeline
+8/22:28:39:GetRealAssetPathscene_scene_1001
+8/22:28:39:ResourceManager:LoadAsset() real abName2 : scene_scene_1001UnityEngine.GameObject
+8/22:28:39:PathToAssetBundleName path : Assets/AssetBundleRes/scene/scene_1001/prefabs/TreeBig1.prefab
+8/22:28:39:PathToAssetBundleName path_parts[0] : scene_1001/prefabs/TreeBig1.prefab:scene_1001
+8/22:28:39:LoadAsset<T>scene_scene_1001:TreeBig1.prefab
+8/22:28:39:ResourceManager:LoadAsset() abName1 : scene_scene_1001 assetNames:TreeBig1.prefab
+8/22:28:39:GetRealAssetPatheffect_projectors
+8/22:28:39:GetRealAssetPathlua.unity3d
+8/22:28:39:GetRealAssetPathlua_bp.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_common.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_src.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_tests.unity3d
+8/22:28:39:GetRealAssetPathlua_common.unity3d
+8/22:28:39:GetRealAssetPathlua_common_ui.unity3d
+8/22:28:39:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:28:39:GetRealAssetPathlua_common_util.unity3d
+8/22:28:39:GetRealAssetPathlua_config.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_common.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_src.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_test.unity3d
+8/22:28:39:GetRealAssetPathlua_game_bag.unity3d
+8/22:28:39:GetRealAssetPathlua_game_chat.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common_action.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:28:39:GetRealAssetPathlua_game_error.unity3d
+8/22:28:39:GetRealAssetPathlua_game_gm.unity3d
+8/22:28:39:GetRealAssetPathlua_game_login.unity3d
+8/22:28:39:GetRealAssetPathlua_game_mainui.unity3d
+8/22:28:39:GetRealAssetPathlua_game_scene.unity3d
+8/22:28:39:GetRealAssetPathlua_game_systems.unity3d
+8/22:28:39:GetRealAssetPathlua_game_task.unity3d
+8/22:28:39:GetRealAssetPathlua_game_test.unity3d
+8/22:28:39:GetRealAssetPathlua_proto.unity3d
+8/22:28:39:GetRealAssetPathlua_tools.unity3d
+8/22:28:39:GetRealAssetPathmonster_monster_2000
+8/22:28:39:GetRealAssetPathmonster_monster_2001
+8/22:28:39:GetRealAssetPathmonster_prefab
+8/22:28:39:GetRealAssetPathmonster_timeline
+8/22:28:39:GetRealAssetPathnpc_npc_3000
+8/22:28:39:GetRealAssetPathnpc_prefab
+8/22:28:39:GetRealAssetPathrole_body
+8/22:28:39:GetRealAssetPathrole_prefab
+8/22:28:39:GetRealAssetPathrole_timeline
+8/22:28:39:GetRealAssetPathscene_scene_1001
+8/22:28:39:ResourceManager:LoadAsset() real abName2 : scene_scene_1001UnityEngine.GameObject
+8/22:28:39:PathToAssetBundleName path : Assets/AssetBundleRes/scene/scene_1001/prefabs/GrassSmall.prefab
+8/22:28:39:PathToAssetBundleName path_parts[0] : scene_1001/prefabs/GrassSmall.prefab:scene_1001
+8/22:28:39:LoadAsset<T>scene_scene_1001:GrassSmall.prefab
+8/22:28:39:ResourceManager:LoadAsset() abName1 : scene_scene_1001 assetNames:GrassSmall.prefab
+8/22:28:39:GetRealAssetPatheffect_projectors
+8/22:28:39:GetRealAssetPathlua.unity3d
+8/22:28:39:GetRealAssetPathlua_bp.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_common.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_src.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:28:39:GetRealAssetPathlua_bp_tests.unity3d
+8/22:28:39:GetRealAssetPathlua_common.unity3d
+8/22:28:39:GetRealAssetPathlua_common_ui.unity3d
+8/22:28:39:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:28:39:GetRealAssetPathlua_common_util.unity3d
+8/22:28:39:GetRealAssetPathlua_config.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_common.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_src.unity3d
+8/22:28:39:GetRealAssetPathlua_ecs_test.unity3d
+8/22:28:39:GetRealAssetPathlua_game_bag.unity3d
+8/22:28:39:GetRealAssetPathlua_game_chat.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common_action.unity3d
+8/22:28:39:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:28:39:GetRealAssetPathlua_game_error.unity3d
+8/22:28:39:GetRealAssetPathlua_game_gm.unity3d
+8/22:28:39:GetRealAssetPathlua_game_login.unity3d
+8/22:28:39:GetRealAssetPathlua_game_mainui.unity3d
+8/22:28:39:GetRealAssetPathlua_game_scene.unity3d
+8/22:28:39:GetRealAssetPathlua_game_systems.unity3d
+8/22:28:39:GetRealAssetPathlua_game_task.unity3d
+8/22:28:39:GetRealAssetPathlua_game_test.unity3d
+8/22:28:39:GetRealAssetPathlua_proto.unity3d
+8/22:28:39:GetRealAssetPathlua_tools.unity3d
+8/22:28:39:GetRealAssetPathmonster_monster_2000
+8/22:28:39:GetRealAssetPathmonster_monster_2001
+8/22:28:39:GetRealAssetPathmonster_prefab
+8/22:28:39:GetRealAssetPathmonster_timeline
+8/22:28:39:GetRealAssetPathnpc_npc_3000
+8/22:28:39:GetRealAssetPathnpc_prefab
+8/22:28:39:GetRealAssetPathrole_body
+8/22:28:39:GetRealAssetPathrole_prefab
+8/22:28:39:GetRealAssetPathrole_timeline
+8/22:28:39:GetRealAssetPathscene_scene_1001
+8/22:28:39:ResourceManager:LoadAsset() real abName2 : scene_scene_1001UnityEngine.GameObject
+8/22:28:39:CreateLooks InitLooksObj
+8/22:28:39:CreateLooks InitLooksObj2
+8/22:28:40:CreateLooks InitLooksObj
+8/22:28:40:CreateLooks InitLooksObj2
+8/22:28:40:This MaskTexture use system: Subdivisions (Legacy)
+8/22:28:40:LoadScene LoadSceneInfo delegate 
+8/22:28:40:LoadNavMesh=file://D:/Users/Movie/Assets/unitymmo/base_world_1001
+8/22:28:40:LoadScene baseWorldScenePath LoadNavMesh=base_world_1001
+8/22:28:40:load base world:True
+8/22:28:41:role mgr reset nav agent
+8/22:28:41:main role pos update nav agent in sample pos transform.position-0.8000108:-0.03536008:0
+8/22:28:41:main role pos update nav agent in sample pos-0.8000108:-0.03536004:-0.01666654
+8/22:28:41:main role pos update nav agent in sample pos transform.position-0.8000108:-0.03536004:-0.01666654
+8/22:28:41:main role pos update nav agent in sample pos transform.position1.299989:-0.03536009:0
+8/22:28:41:main role pos update nav agent in sample pos1.299989:-0.03536005:-0.01666654
+8/22:28:41:main role pos update nav agent in sample pos transform.position1.299989:-0.03536005:-0.01666654
+8/22:28:41:main role pos update nav agent in sample pos transform.position-1.400011:-0.03536008:0
+8/22:28:41:main role pos update nav agent in sample pos-1.400011:-0.03536004:-0.01666654
+8/22:28:41:main role pos update nav agent in sample pos transform.position-1.400011:-0.03536004:-0.01666654
+8/22:28:43:LUA: onMoveStart
+8/22:28:43:LUA: call HandleAutoDoTask
+8/22:28:43:LUA: HandleAutoDoTask	1
+8/22:28:43:LUA: HandleAutoDoTask lastDoingType	1
+8/22:28:43:LUA: HandleAutoDoTask taskInfo	1	1
+8/22:28:43:LUA: HandleAutoDoTask call DoTask
+8/22:28:43:LUA: Cat:TaskController [start:DoTask] taskInfo:	1
+8/22:28:43:LUA: 	{
+8/22:28:43:LUA: 		roleID = 10000000001
+8/22:28:43:LUA: 		contentID = 2000
+8/22:28:43:LUA: 		subTaskIndex = 1
+8/22:28:43:LUA: 		status = 1
+8/22:28:43:LUA: 		desc = 找<#88ff43>神秘NPC</color>对话
+8/22:28:43:LUA: 		sceneID = 1001
+8/22:28:43:LUA: 		subType = 1
+8/22:28:43:LUA: 		maxProgress = 0
+8/22:28:43:LUA: 		taskID = 1
+8/22:28:43:LUA: 		npcID = 2000
+8/22:28:43:LUA: 		curProgress = 0
+8/22:28:43:LUA: 	}
+8/22:28:43:LUA: Cat:TaskController [end]
+8/22:28:43:Stop FindWay by move query
+8/22:28:43:LUA: if func true
+8/22:28:43:LUA: TaskController:DoTalk	1
+8/22:28:43:LUA: TaskController:DoTalk	2000	20000000001
+8/22:28:43:GetSceneObjectPos uid=20000000001
+8/22:28:43:GetSceneObjectPos=1.299989:-0.03500498:-0.01666654
+8/22:28:43:LUA: npcpos====	2000	1.2999892234802	-0.035004984587431	-0.016666539013386
+8/22:28:43:LUA: mainrolepos====	-0.80001080036163	-0.035004988312721	-0.016666539013386
+8/22:28:43:start find way by move query2.1:2.10
+8/22:28:44:Stop FindWay by move query
+8/22:28:44:LUA: onApproachingNpc call
+8/22:28:44:LUA: onGetTaskListInNPC call
+8/22:28:44:LUA: dddssggggetTaskListInNPC	10000000001	2000
+8/22:28:44:LUA: 1	dddssggg	table: 0000018FD8DDB6F0
+8/22:28:44:LUA: 1	dddssgggonGetTaskListInNPC	1
+8/22:28:44:LUA: onApproachingNpc	10000000001	nil
+8/22:28:44:LoaderByAB1 : Game/Task/TaskDialogView
+8/22:28:44:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:28:44:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:28:44:Load lua script : D:/Users/Movie/Assets/lua/game/task/taskdialogview.lua
+8/22:28:44:PathToAssetBundleName path : Assets/AssetBundleRes/ui/task/TaskDialogView.prefab
+8/22:28:44:LoadAsset<T>ui_task:TaskDialogView.prefab
+8/22:28:44:ResourceManager:LoadAsset() abName1 : ui_task assetNames:TaskDialogView.prefab
+8/22:28:44:GetRealAssetPatheffect_projectors
+8/22:28:44:GetRealAssetPathlua.unity3d
+8/22:28:44:GetRealAssetPathlua_bp.unity3d
+8/22:28:44:GetRealAssetPathlua_bp_common.unity3d
+8/22:28:44:GetRealAssetPathlua_bp_src.unity3d
+8/22:28:44:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:28:44:GetRealAssetPathlua_bp_tests.unity3d
+8/22:28:44:GetRealAssetPathlua_common.unity3d
+8/22:28:44:GetRealAssetPathlua_common_ui.unity3d
+8/22:28:44:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:28:44:GetRealAssetPathlua_common_util.unity3d
+8/22:28:44:GetRealAssetPathlua_config.unity3d
+8/22:28:44:GetRealAssetPathlua_ecs.unity3d
+8/22:28:44:GetRealAssetPathlua_ecs_common.unity3d
+8/22:28:44:GetRealAssetPathlua_ecs_src.unity3d
+8/22:28:44:GetRealAssetPathlua_ecs_test.unity3d
+8/22:28:44:GetRealAssetPathlua_game_bag.unity3d
+8/22:28:44:GetRealAssetPathlua_game_chat.unity3d
+8/22:28:44:GetRealAssetPathlua_game_common.unity3d
+8/22:28:44:GetRealAssetPathlua_game_common_action.unity3d
+8/22:28:44:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:28:44:GetRealAssetPathlua_game_error.unity3d
+8/22:28:44:GetRealAssetPathlua_game_gm.unity3d
+8/22:28:44:GetRealAssetPathlua_game_login.unity3d
+8/22:28:44:GetRealAssetPathlua_game_mainui.unity3d
+8/22:28:44:GetRealAssetPathlua_game_scene.unity3d
+8/22:28:44:GetRealAssetPathlua_game_systems.unity3d
+8/22:28:44:GetRealAssetPathlua_game_task.unity3d
+8/22:28:44:GetRealAssetPathlua_game_test.unity3d
+8/22:28:44:GetRealAssetPathlua_proto.unity3d
+8/22:28:44:GetRealAssetPathlua_tools.unity3d
+8/22:28:44:GetRealAssetPathmonster_monster_2000
+8/22:28:44:GetRealAssetPathmonster_monster_2001
+8/22:28:44:GetRealAssetPathmonster_prefab
+8/22:28:44:GetRealAssetPathmonster_timeline
+8/22:28:44:GetRealAssetPathnpc_npc_3000
+8/22:28:44:GetRealAssetPathnpc_prefab
+8/22:28:44:GetRealAssetPathrole_body
+8/22:28:44:GetRealAssetPathrole_prefab
+8/22:28:44:GetRealAssetPathrole_timeline
+8/22:28:44:GetRealAssetPathscene_scene_1001
+8/22:28:44:GetRealAssetPathscene_temp_scene
+8/22:28:44:GetRealAssetPathui_common
+8/22:28:44:GetRealAssetPathui_task
+8/22:28:44:ResourceManager:LoadAsset() real abName2 : ui_taskUnityEngine.GameObject
+8/22:28:44:OnLoadAssetBundle Application.platform=file://D:/Users/Movie/Assets/unitymmo/ui_task:ui_task
+8/22:28:44:OnLoadAssetBundle Application.platform=WindowsEditorAndroid
+8/22:28:44:assetObj :True
+8/22:28:44:True
+8/22:28:44:The character used for Underline is not available in font asset [normal SDF].
+8/22:28:44:LUA: TaskDialogView:OnUpdate 
+8/22:28:44:LUA: taskNum=	1
+8/22:28:44:LUA: talkCfg.flag=11
+8/22:28:44:LUA: luaTaskDialogView:talkDialogcomplet MovePlayManager.play called	10000000001	1	1
+8/22:28:45:MovePlayManager.play called10000000001:1:1:1:20000000001
+8/22:28:45:MovePlayManager.play called1:110000
+8/22:28:45:CastSkillCastSkillCastSkill
+8/22:28:45:CastSkill assetPath=Assets/AssetBundleRes/role/timeline/skill_110000.playable
+8/22:28:45:PathToAssetBundleName path : Assets/AssetBundleRes/role/timeline/skill_110000.playable
+8/22:28:45:LoadAsset<T>role_timeline:skill_110000.playable
+8/22:28:45:ResourceManager:LoadAsset() abName1 : role_timeline assetNames:skill_110000.playable
+8/22:28:45:GetRealAssetPatheffect_projectors
+8/22:28:45:GetRealAssetPathlua.unity3d
+8/22:28:45:GetRealAssetPathlua_bp.unity3d
+8/22:28:45:GetRealAssetPathlua_bp_common.unity3d
+8/22:28:45:GetRealAssetPathlua_bp_src.unity3d
+8/22:28:45:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:28:45:GetRealAssetPathlua_bp_tests.unity3d
+8/22:28:45:GetRealAssetPathlua_common.unity3d
+8/22:28:45:GetRealAssetPathlua_common_ui.unity3d
+8/22:28:45:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:28:45:GetRealAssetPathlua_common_util.unity3d
+8/22:28:45:GetRealAssetPathlua_config.unity3d
+8/22:28:45:GetRealAssetPathlua_ecs.unity3d
+8/22:28:45:GetRealAssetPathlua_ecs_common.unity3d
+8/22:28:45:GetRealAssetPathlua_ecs_src.unity3d
+8/22:28:45:GetRealAssetPathlua_ecs_test.unity3d
+8/22:28:45:GetRealAssetPathlua_game_bag.unity3d
+8/22:28:45:GetRealAssetPathlua_game_chat.unity3d
+8/22:28:45:GetRealAssetPathlua_game_common.unity3d
+8/22:28:45:GetRealAssetPathlua_game_common_action.unity3d
+8/22:28:45:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:28:45:GetRealAssetPathlua_game_error.unity3d
+8/22:28:45:GetRealAssetPathlua_game_gm.unity3d
+8/22:28:45:GetRealAssetPathlua_game_login.unity3d
+8/22:28:45:GetRealAssetPathlua_game_mainui.unity3d
+8/22:28:45:GetRealAssetPathlua_game_scene.unity3d
+8/22:28:45:GetRealAssetPathlua_game_systems.unity3d
+8/22:28:45:GetRealAssetPathlua_game_task.unity3d
+8/22:28:45:GetRealAssetPathlua_game_test.unity3d
+8/22:28:45:GetRealAssetPathlua_proto.unity3d
+8/22:28:45:GetRealAssetPathlua_tools.unity3d
+8/22:28:45:GetRealAssetPathmonster_monster_2000
+8/22:28:45:GetRealAssetPathmonster_monster_2001
+8/22:28:45:GetRealAssetPathmonster_prefab
+8/22:28:45:GetRealAssetPathmonster_timeline
+8/22:28:45:GetRealAssetPathnpc_npc_3000
+8/22:28:45:GetRealAssetPathnpc_prefab
+8/22:28:45:GetRealAssetPathrole_body
+8/22:28:45:GetRealAssetPathrole_prefab
+8/22:28:45:GetRealAssetPathrole_timeline
+8/22:28:45:ResourceManager:LoadAsset() real abName2 : role_timelineUnityEngine.Playables.PlayableAsset
+8/22:28:45:OnLoadAssetBundle Application.platform=file://D:/Users/Movie/Assets/unitymmo/role_timeline:role_timeline
+8/22:28:45:OnLoadAssetBundle Application.platform=WindowsEditorAndroid
+8/22:28:45:assetObj :True
+8/22:28:45:True
+8/22:28:50:c#TaskDialogView:talkDialogcompleted*******12.31935
+8/22:28:51:LUA: LUa TaskDialogView:talkDialogcompleted*******
+8/22:28:51:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:28:51:LUA: Cat:TaskDialogView.lua[26] self.curShowData.clickCallBack	function: 0000018FFEF3A2E0
+8/22:28:51:LUA: TaskDialogView:OnUpdate 
+8/22:28:51:LUA: taskNum=	1
+8/22:28:51:LUA: talkCfg.flag=11
+8/22:28:51:LUA: luaTaskDialogView:talkDialogcomplet MovePlayManager.play called	20000000001	2	1
+8/22:28:51:MovePlayManager.play called20000000001:2:1:1:10000000001
+8/22:28:51:MovePlayManager.play called2:200000
+8/22:28:51:CastSkillCastSkillCastSkill
+8/22:28:51:CastSkill assetPath=Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+8/22:28:51:PathToAssetBundleName path : Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+8/22:28:51:LoadAsset<T>monster_timeline:skill_200000.playable
+8/22:28:51:ResourceManager:LoadAsset() abName1 : monster_timeline assetNames:skill_200000.playable
+8/22:28:51:GetRealAssetPatheffect_projectors
+8/22:28:51:GetRealAssetPathlua.unity3d
+8/22:28:51:GetRealAssetPathlua_bp.unity3d
+8/22:28:51:GetRealAssetPathlua_bp_common.unity3d
+8/22:28:51:GetRealAssetPathlua_bp_src.unity3d
+8/22:28:51:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:28:51:GetRealAssetPathlua_bp_tests.unity3d
+8/22:28:51:GetRealAssetPathlua_common.unity3d
+8/22:28:51:GetRealAssetPathlua_common_ui.unity3d
+8/22:28:51:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:28:51:GetRealAssetPathlua_common_util.unity3d
+8/22:28:51:GetRealAssetPathlua_config.unity3d
+8/22:28:51:GetRealAssetPathlua_ecs.unity3d
+8/22:28:51:GetRealAssetPathlua_ecs_common.unity3d
+8/22:28:51:GetRealAssetPathlua_ecs_src.unity3d
+8/22:28:51:GetRealAssetPathlua_ecs_test.unity3d
+8/22:28:51:GetRealAssetPathlua_game_bag.unity3d
+8/22:28:51:GetRealAssetPathlua_game_chat.unity3d
+8/22:28:51:GetRealAssetPathlua_game_common.unity3d
+8/22:28:51:GetRealAssetPathlua_game_common_action.unity3d
+8/22:28:51:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:28:51:GetRealAssetPathlua_game_error.unity3d
+8/22:28:51:GetRealAssetPathlua_game_gm.unity3d
+8/22:28:51:GetRealAssetPathlua_game_login.unity3d
+8/22:28:51:GetRealAssetPathlua_game_mainui.unity3d
+8/22:28:51:GetRealAssetPathlua_game_scene.unity3d
+8/22:28:51:GetRealAssetPathlua_game_systems.unity3d
+8/22:28:51:GetRealAssetPathlua_game_task.unity3d
+8/22:28:51:GetRealAssetPathlua_game_test.unity3d
+8/22:28:51:GetRealAssetPathlua_proto.unity3d
+8/22:28:51:GetRealAssetPathlua_tools.unity3d
+8/22:28:51:GetRealAssetPathmonster_monster_2000
+8/22:28:51:GetRealAssetPathmonster_monster_2001
+8/22:28:51:GetRealAssetPathmonster_prefab
+8/22:28:51:GetRealAssetPathmonster_timeline
+8/22:28:51:ResourceManager:LoadAsset() real abName2 : monster_timelineUnityEngine.Playables.PlayableAsset
+8/22:28:51:OnLoadAssetBundle Application.platform=file://D:/Users/Movie/Assets/unitymmo/monster_timeline:monster_timeline
+8/22:28:51:OnLoadAssetBundle Application.platform=WindowsEditorAndroid
+8/22:28:51:assetObj :True
+8/22:28:51:True
+8/22:28:54:c#TaskDialogView:talkDialogcompleted*******16.31865
+8/22:28:59:LUA: LUa TaskDialogView:talkDialogcompleted*******
+8/22:28:59:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:28:59:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:28:59:LUA: Cat:TaskDialogView.lua[26] self.curShowData.clickCallBack	function: 0000018FD8C2DB00
+8/22:28:59:LUA: TaskDialogView:OnUpdate 
+8/22:28:59:LUA: taskNum=	1
+8/22:28:59:LUA: talkCfg.flag=11
+8/22:28:59:LUA: luaTaskDialogView:talkDialogcomplet MovePlayManager.play called	10000000001	3	1
+8/22:28:59:MovePlayManager.play called10000000001:3:1:1:20000000001
+8/22:28:59:MovePlayManager.play called1:110000
+8/22:28:59:CastSkillCastSkillCastSkill
+8/22:28:59:CastSkill assetPath=Assets/AssetBundleRes/role/timeline/skill_110000.playable
+8/22:28:59:PathToAssetBundleName path : Assets/AssetBundleRes/role/timeline/skill_110000.playable
+8/22:28:59:LoadAsset<T>role_timeline:skill_110000.playable
+8/22:28:59:ResourceManager:LoadAsset() abName1 : role_timeline assetNames:skill_110000.playable
+8/22:28:59:GetRealAssetPatheffect_projectors
+8/22:28:59:GetRealAssetPathlua.unity3d
+8/22:28:59:GetRealAssetPathlua_bp.unity3d
+8/22:28:59:GetRealAssetPathlua_bp_common.unity3d
+8/22:28:59:GetRealAssetPathlua_bp_src.unity3d
+8/22:28:59:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:28:59:GetRealAssetPathlua_bp_tests.unity3d
+8/22:28:59:GetRealAssetPathlua_common.unity3d
+8/22:28:59:GetRealAssetPathlua_common_ui.unity3d
+8/22:28:59:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:28:59:GetRealAssetPathlua_common_util.unity3d
+8/22:28:59:GetRealAssetPathlua_config.unity3d
+8/22:28:59:GetRealAssetPathlua_ecs.unity3d
+8/22:28:59:GetRealAssetPathlua_ecs_common.unity3d
+8/22:28:59:GetRealAssetPathlua_ecs_src.unity3d
+8/22:28:59:GetRealAssetPathlua_ecs_test.unity3d
+8/22:28:59:GetRealAssetPathlua_game_bag.unity3d
+8/22:28:59:GetRealAssetPathlua_game_chat.unity3d
+8/22:28:59:GetRealAssetPathlua_game_common.unity3d
+8/22:28:59:GetRealAssetPathlua_game_common_action.unity3d
+8/22:28:59:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:28:59:GetRealAssetPathlua_game_error.unity3d
+8/22:28:59:GetRealAssetPathlua_game_gm.unity3d
+8/22:28:59:GetRealAssetPathlua_game_login.unity3d
+8/22:28:59:GetRealAssetPathlua_game_mainui.unity3d
+8/22:28:59:GetRealAssetPathlua_game_scene.unity3d
+8/22:28:59:GetRealAssetPathlua_game_systems.unity3d
+8/22:28:59:GetRealAssetPathlua_game_task.unity3d
+8/22:28:59:GetRealAssetPathlua_game_test.unity3d
+8/22:28:59:GetRealAssetPathlua_proto.unity3d
+8/22:28:59:GetRealAssetPathlua_tools.unity3d
+8/22:28:59:GetRealAssetPathmonster_monster_2000
+8/22:28:59:GetRealAssetPathmonster_monster_2001
+8/22:28:59:GetRealAssetPathmonster_prefab
+8/22:28:59:GetRealAssetPathmonster_timeline
+8/22:28:59:GetRealAssetPathnpc_npc_3000
+8/22:28:59:GetRealAssetPathnpc_prefab
+8/22:28:59:GetRealAssetPathrole_body
+8/22:28:59:GetRealAssetPathrole_prefab
+8/22:28:59:GetRealAssetPathrole_timeline
+8/22:28:59:ResourceManager:LoadAsset() real abName2 : role_timelineUnityEngine.Playables.PlayableAsset
+8/22:29:4:c#TaskDialogView:talkDialogcompleted*******26.4866
+8/22:29:5:LUA: LUa TaskDialogView:talkDialogcompleted*******
+8/22:29:5:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:5:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:5:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:5:LUA: Cat:TaskDialogView.lua[26] self.curShowData.clickCallBack	function: 0000018FD8F3E980
+8/22:29:5:LUA: TaskDialogView:OnUpdate 
+8/22:29:5:LUA: taskNum=	1
+8/22:29:5:LUA: talkCfg.flag=11
+8/22:29:5:LUA: luaTaskDialogView:talkDialogcomplet MovePlayManager.play called	20000000001	4	1
+8/22:29:5:MovePlayManager.play called20000000001:4:1:1:10000000001
+8/22:29:5:MovePlayManager.play called2:200000
+8/22:29:5:CastSkillCastSkillCastSkill
+8/22:29:5:CastSkill assetPath=Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+8/22:29:5:PathToAssetBundleName path : Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+8/22:29:5:LoadAsset<T>monster_timeline:skill_200000.playable
+8/22:29:5:ResourceManager:LoadAsset() abName1 : monster_timeline assetNames:skill_200000.playable
+8/22:29:5:GetRealAssetPatheffect_projectors
+8/22:29:5:GetRealAssetPathlua.unity3d
+8/22:29:5:GetRealAssetPathlua_bp.unity3d
+8/22:29:5:GetRealAssetPathlua_bp_common.unity3d
+8/22:29:5:GetRealAssetPathlua_bp_src.unity3d
+8/22:29:5:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:29:5:GetRealAssetPathlua_bp_tests.unity3d
+8/22:29:5:GetRealAssetPathlua_common.unity3d
+8/22:29:5:GetRealAssetPathlua_common_ui.unity3d
+8/22:29:5:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:29:5:GetRealAssetPathlua_common_util.unity3d
+8/22:29:5:GetRealAssetPathlua_config.unity3d
+8/22:29:5:GetRealAssetPathlua_ecs.unity3d
+8/22:29:5:GetRealAssetPathlua_ecs_common.unity3d
+8/22:29:5:GetRealAssetPathlua_ecs_src.unity3d
+8/22:29:5:GetRealAssetPathlua_ecs_test.unity3d
+8/22:29:5:GetRealAssetPathlua_game_bag.unity3d
+8/22:29:5:GetRealAssetPathlua_game_chat.unity3d
+8/22:29:5:GetRealAssetPathlua_game_common.unity3d
+8/22:29:5:GetRealAssetPathlua_game_common_action.unity3d
+8/22:29:5:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:29:5:GetRealAssetPathlua_game_error.unity3d
+8/22:29:5:GetRealAssetPathlua_game_gm.unity3d
+8/22:29:5:GetRealAssetPathlua_game_login.unity3d
+8/22:29:5:GetRealAssetPathlua_game_mainui.unity3d
+8/22:29:5:GetRealAssetPathlua_game_scene.unity3d
+8/22:29:5:GetRealAssetPathlua_game_systems.unity3d
+8/22:29:5:GetRealAssetPathlua_game_task.unity3d
+8/22:29:5:GetRealAssetPathlua_game_test.unity3d
+8/22:29:5:GetRealAssetPathlua_proto.unity3d
+8/22:29:5:GetRealAssetPathlua_tools.unity3d
+8/22:29:5:GetRealAssetPathmonster_monster_2000
+8/22:29:5:GetRealAssetPathmonster_monster_2001
+8/22:29:5:GetRealAssetPathmonster_prefab
+8/22:29:5:GetRealAssetPathmonster_timeline
+8/22:29:5:ResourceManager:LoadAsset() real abName2 : monster_timelineUnityEngine.Playables.PlayableAsset
+8/22:29:8:c#TaskDialogView:talkDialogcompleted*******30.09482
+8/22:29:11:LUA: LUa TaskDialogView:talkDialogcompleted*******
+8/22:29:11:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:11:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:11:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:11:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:11:LUA: Cat:TaskDialogView.lua[26] self.curShowData.clickCallBack	function: 0000018FD8BDF7A0
+8/22:29:11:LUA: TaskDialogView:OnUpdate 
+8/22:29:11:LUA: taskNum=	1
+8/22:29:11:LUA: talkCfg.flag=11
+8/22:29:11:LUA: luaTaskDialogView:talkDialogcomplet MovePlayManager.play called	10000000001	5	1
+8/22:29:11:MovePlayManager.play called10000000001:5:1:1:20000000001
+8/22:29:11:MovePlayManager.play called1:110000
+8/22:29:11:CastSkillCastSkillCastSkill
+8/22:29:11:CastSkill assetPath=Assets/AssetBundleRes/role/timeline/skill_110000.playable
+8/22:29:11:PathToAssetBundleName path : Assets/AssetBundleRes/role/timeline/skill_110000.playable
+8/22:29:11:LoadAsset<T>role_timeline:skill_110000.playable
+8/22:29:11:ResourceManager:LoadAsset() abName1 : role_timeline assetNames:skill_110000.playable
+8/22:29:11:GetRealAssetPatheffect_projectors
+8/22:29:11:GetRealAssetPathlua.unity3d
+8/22:29:11:GetRealAssetPathlua_bp.unity3d
+8/22:29:11:GetRealAssetPathlua_bp_common.unity3d
+8/22:29:11:GetRealAssetPathlua_bp_src.unity3d
+8/22:29:11:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:29:11:GetRealAssetPathlua_bp_tests.unity3d
+8/22:29:11:GetRealAssetPathlua_common.unity3d
+8/22:29:11:GetRealAssetPathlua_common_ui.unity3d
+8/22:29:11:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:29:11:GetRealAssetPathlua_common_util.unity3d
+8/22:29:11:GetRealAssetPathlua_config.unity3d
+8/22:29:11:GetRealAssetPathlua_ecs.unity3d
+8/22:29:11:GetRealAssetPathlua_ecs_common.unity3d
+8/22:29:11:GetRealAssetPathlua_ecs_src.unity3d
+8/22:29:11:GetRealAssetPathlua_ecs_test.unity3d
+8/22:29:11:GetRealAssetPathlua_game_bag.unity3d
+8/22:29:11:GetRealAssetPathlua_game_chat.unity3d
+8/22:29:11:GetRealAssetPathlua_game_common.unity3d
+8/22:29:11:GetRealAssetPathlua_game_common_action.unity3d
+8/22:29:11:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:29:11:GetRealAssetPathlua_game_error.unity3d
+8/22:29:11:GetRealAssetPathlua_game_gm.unity3d
+8/22:29:11:GetRealAssetPathlua_game_login.unity3d
+8/22:29:11:GetRealAssetPathlua_game_mainui.unity3d
+8/22:29:11:GetRealAssetPathlua_game_scene.unity3d
+8/22:29:11:GetRealAssetPathlua_game_systems.unity3d
+8/22:29:11:GetRealAssetPathlua_game_task.unity3d
+8/22:29:11:GetRealAssetPathlua_game_test.unity3d
+8/22:29:11:GetRealAssetPathlua_proto.unity3d
+8/22:29:11:GetRealAssetPathlua_tools.unity3d
+8/22:29:11:GetRealAssetPathmonster_monster_2000
+8/22:29:11:GetRealAssetPathmonster_monster_2001
+8/22:29:11:GetRealAssetPathmonster_prefab
+8/22:29:11:GetRealAssetPathmonster_timeline
+8/22:29:11:GetRealAssetPathnpc_npc_3000
+8/22:29:11:GetRealAssetPathnpc_prefab
+8/22:29:11:GetRealAssetPathrole_body
+8/22:29:11:GetRealAssetPathrole_prefab
+8/22:29:11:GetRealAssetPathrole_timeline
+8/22:29:11:ResourceManager:LoadAsset() real abName2 : role_timelineUnityEngine.Playables.PlayableAsset
+8/22:29:16:c#TaskDialogView:talkDialogcompleted*******38.47685
+8/22:29:17:LUA: LUa TaskDialogView:talkDialogcompleted*******
+8/22:29:17:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:17:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:17:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:17:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:17:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:17:LUA: Cat:TaskDialogView.lua[26] self.curShowData.clickCallBack	function: 0000018FD83AB230
+8/22:29:17:LUA: TaskDialogView:OnUpdate 
+8/22:29:17:LUA: taskNum=	1
+8/22:29:17:LUA: talkCfg.flag=11
+8/22:29:17:LUA: luaTaskDialogView:talkDialogcomplet MovePlayManager.play called	20000000001	6	1
+8/22:29:17:MovePlayManager.play called20000000001:6:1:1:10000000001
+8/22:29:17:MovePlayManager.play called2:200000
+8/22:29:17:CastSkillCastSkillCastSkill
+8/22:29:17:CastSkill assetPath=Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+8/22:29:17:PathToAssetBundleName path : Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+8/22:29:17:LoadAsset<T>monster_timeline:skill_200000.playable
+8/22:29:17:ResourceManager:LoadAsset() abName1 : monster_timeline assetNames:skill_200000.playable
+8/22:29:17:GetRealAssetPatheffect_projectors
+8/22:29:17:GetRealAssetPathlua.unity3d
+8/22:29:17:GetRealAssetPathlua_bp.unity3d
+8/22:29:17:GetRealAssetPathlua_bp_common.unity3d
+8/22:29:17:GetRealAssetPathlua_bp_src.unity3d
+8/22:29:17:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:29:17:GetRealAssetPathlua_bp_tests.unity3d
+8/22:29:17:GetRealAssetPathlua_common.unity3d
+8/22:29:17:GetRealAssetPathlua_common_ui.unity3d
+8/22:29:17:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:29:17:GetRealAssetPathlua_common_util.unity3d
+8/22:29:17:GetRealAssetPathlua_config.unity3d
+8/22:29:17:GetRealAssetPathlua_ecs.unity3d
+8/22:29:17:GetRealAssetPathlua_ecs_common.unity3d
+8/22:29:17:GetRealAssetPathlua_ecs_src.unity3d
+8/22:29:17:GetRealAssetPathlua_ecs_test.unity3d
+8/22:29:17:GetRealAssetPathlua_game_bag.unity3d
+8/22:29:17:GetRealAssetPathlua_game_chat.unity3d
+8/22:29:17:GetRealAssetPathlua_game_common.unity3d
+8/22:29:17:GetRealAssetPathlua_game_common_action.unity3d
+8/22:29:17:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:29:17:GetRealAssetPathlua_game_error.unity3d
+8/22:29:17:GetRealAssetPathlua_game_gm.unity3d
+8/22:29:17:GetRealAssetPathlua_game_login.unity3d
+8/22:29:17:GetRealAssetPathlua_game_mainui.unity3d
+8/22:29:17:GetRealAssetPathlua_game_scene.unity3d
+8/22:29:17:GetRealAssetPathlua_game_systems.unity3d
+8/22:29:17:GetRealAssetPathlua_game_task.unity3d
+8/22:29:17:GetRealAssetPathlua_game_test.unity3d
+8/22:29:17:GetRealAssetPathlua_proto.unity3d
+8/22:29:17:GetRealAssetPathlua_tools.unity3d
+8/22:29:17:GetRealAssetPathmonster_monster_2000
+8/22:29:17:GetRealAssetPathmonster_monster_2001
+8/22:29:17:GetRealAssetPathmonster_prefab
+8/22:29:17:GetRealAssetPathmonster_timeline
+8/22:29:17:ResourceManager:LoadAsset() real abName2 : monster_timelineUnityEngine.Playables.PlayableAsset
+8/22:29:20:c#TaskDialogView:talkDialogcompleted*******42.08272
+8/22:29:22:LUA: LUa TaskDialogView:talkDialogcompleted*******
+8/22:29:22:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:22:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:22:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:22:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:22:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:22:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:23:LUA: Cat:TaskDialogView.lua[26] self.curShowData.clickCallBack	function: 0000018FD83BEC30
+8/22:29:23:LUA: TaskDialogView:OnUpdate 
+8/22:29:23:LUA: taskNum=	1
+8/22:29:23:LUA: talkCfg.flag=21
+8/22:29:23:LUA: luaTaskDialogView:talkDialogcomplet MovePlayManager.play called	10000000001	7	1
+8/22:29:23:MovePlayManager.play called10000000001:7:1:1:20000000001
+8/22:29:23:MovePlayManager.play called1:110000
+8/22:29:23:CastSkillCastSkillCastSkill
+8/22:29:23:CastSkill assetPath=Assets/AssetBundleRes/role/timeline/skill_110000.playable
+8/22:29:23:PathToAssetBundleName path : Assets/AssetBundleRes/role/timeline/skill_110000.playable
+8/22:29:23:LoadAsset<T>role_timeline:skill_110000.playable
+8/22:29:23:ResourceManager:LoadAsset() abName1 : role_timeline assetNames:skill_110000.playable
+8/22:29:23:GetRealAssetPatheffect_projectors
+8/22:29:23:GetRealAssetPathlua.unity3d
+8/22:29:23:GetRealAssetPathlua_bp.unity3d
+8/22:29:23:GetRealAssetPathlua_bp_common.unity3d
+8/22:29:23:GetRealAssetPathlua_bp_src.unity3d
+8/22:29:23:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:29:23:GetRealAssetPathlua_bp_tests.unity3d
+8/22:29:23:GetRealAssetPathlua_common.unity3d
+8/22:29:23:GetRealAssetPathlua_common_ui.unity3d
+8/22:29:23:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:29:23:GetRealAssetPathlua_common_util.unity3d
+8/22:29:23:GetRealAssetPathlua_config.unity3d
+8/22:29:23:GetRealAssetPathlua_ecs.unity3d
+8/22:29:23:GetRealAssetPathlua_ecs_common.unity3d
+8/22:29:23:GetRealAssetPathlua_ecs_src.unity3d
+8/22:29:23:GetRealAssetPathlua_ecs_test.unity3d
+8/22:29:23:GetRealAssetPathlua_game_bag.unity3d
+8/22:29:23:GetRealAssetPathlua_game_chat.unity3d
+8/22:29:23:GetRealAssetPathlua_game_common.unity3d
+8/22:29:23:GetRealAssetPathlua_game_common_action.unity3d
+8/22:29:23:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:29:23:GetRealAssetPathlua_game_error.unity3d
+8/22:29:23:GetRealAssetPathlua_game_gm.unity3d
+8/22:29:23:GetRealAssetPathlua_game_login.unity3d
+8/22:29:23:GetRealAssetPathlua_game_mainui.unity3d
+8/22:29:23:GetRealAssetPathlua_game_scene.unity3d
+8/22:29:23:GetRealAssetPathlua_game_systems.unity3d
+8/22:29:23:GetRealAssetPathlua_game_task.unity3d
+8/22:29:23:GetRealAssetPathlua_game_test.unity3d
+8/22:29:23:GetRealAssetPathlua_proto.unity3d
+8/22:29:23:GetRealAssetPathlua_tools.unity3d
+8/22:29:23:GetRealAssetPathmonster_monster_2000
+8/22:29:23:GetRealAssetPathmonster_monster_2001
+8/22:29:23:GetRealAssetPathmonster_prefab
+8/22:29:23:GetRealAssetPathmonster_timeline
+8/22:29:23:GetRealAssetPathnpc_npc_3000
+8/22:29:23:GetRealAssetPathnpc_prefab
+8/22:29:23:GetRealAssetPathrole_body
+8/22:29:23:GetRealAssetPathrole_prefab
+8/22:29:23:GetRealAssetPathrole_timeline
+8/22:29:23:ResourceManager:LoadAsset() real abName2 : role_timelineUnityEngine.Playables.PlayableAsset
+8/22:29:28:c#TaskDialogView:talkDialogcompleted*******50.07529
+8/22:29:28:LUA: LUa TaskDialogView:talkDialogcompleted*******
+8/22:29:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:29:LUA: Cat:TaskDialogView.lua[26] self.curShowData.clickCallBack	function: 0000018FD8E497A0
+8/22:29:29:LUA: Task_TakeTask
+8/22:29:29:LUA: Task_TakeTask	1	1
+8/22:29:29:LUA: KillMonster updateTargetMonsterIfKillTask0	1	2
+8/22:29:29:LUA: Task_DoTask completeSubTask2:3
+8/22:29:29:LUA: Task_TakeTask --taskInfo.subType == TaskConst.SubType.KillMonster	false
+8/22:29:29:Task_DoTask UpdateXML call
+8/22:29:29:Task_DoTask UpdateXML call:10000000001
+8/22:29:29:Task_DoTask UpdateXML call10000000001:10000000001
+8/22:29:29:xmldoc.UpdateXML call1210000000001
+8/22:29:29:Task_DoTask UpdateXML call
+8/22:29:29:Task_DoTask UpdateXML call:10000000001
+8/22:29:29:Task_DoTask UpdateXML call10000000001:10000000001
+8/22:29:29:xmldoc.UpdateXML call1210000000001
+8/22:29:29:LUA: dddddffggghhhhh	10000000001
+8/22:29:29:LUA: 1	roleID	ReqTakeTask2	10000000001
+8/22:29:29:LUA: 1	contentID	ReqTakeTask2	1000
+8/22:29:29:LUA: 1	subTaskIndex	ReqTakeTask2	2
+8/22:29:29:LUA: 1	status	ReqTakeTask2	2
+8/22:29:29:LUA: 1	desc	ReqTakeTask2	找<#88ff43>神秘NPC</color>对话
+8/22:29:29:LUA: 1	sceneID	ReqTakeTask2	1001
+8/22:29:29:LUA: 1	subType	ReqTakeTask2	3
+8/22:29:29:LUA: 1	maxProgress	ReqTakeTask2	1
+8/22:29:29:LUA: 1	taskID	ReqTakeTask2	1
+8/22:29:29:LUA: 1	npcID	ReqTakeTask2	2000
+8/22:29:29:LUA: 1	curProgress	ReqTakeTask2	0
+8/22:29:29:LUA: Cat:TaskModel.lua[53] func, taskInfo.subType	function: 0000018FD2E19450	3
+8/22:29:29:LoaderByAB1 : Config.ConfigMonster
+8/22:29:29:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:29:29:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:29:29:Load lua script : D:/Users/Movie/Assets/lua/config/configmonster.lua
+8/22:29:29:LUA: call HandleAutoDoTask
+8/22:29:29:LUA: HandleAutoDoTask	1
+8/22:29:29:LUA: HandleAutoDoTask lastDoingType	1
+8/22:29:29:LUA: HandleAutoDoTask taskInfo	2	2
+8/22:29:29:LUA: HandleAutoDoTask call DoTask
+8/22:29:29:LUA: Cat:TaskController [start:DoTask] taskInfo:	3
+8/22:29:29:LUA: 	{
+8/22:29:29:LUA: 		roleID = 10000000001
+8/22:29:29:LUA: 		contentID = 1000
+8/22:29:29:LUA: 		sceneID = 1001
+8/22:29:29:LUA: 		subTaskIndex = 2
+8/22:29:29:LUA: 		status = 2
+8/22:29:29:LUA: 		desc = 采集<#88ff43>神秘怪物</color>
+8/22:29:29:LUA: 		collectID = 1000
+8/22:29:29:LUA: 		subType = 3
+8/22:29:29:LUA: 		maxProgress = 1
+8/22:29:29:LUA: 		taskID = 1
+8/22:29:29:LUA: 		npcID = 2000
+8/22:29:29:LUA: 		curProgress = 0
+8/22:29:29:LUA: 	}
+8/22:29:29:LUA: Cat:TaskController [end]
+8/22:29:29:Stop FindWay by move query
+8/22:29:29:LUA: if func true
+8/22:29:29:playaction MovePlayManager.play called1:110001
+8/22:29:29:CastSkillCastSkillCastSkill
+8/22:29:29:CastSkill assetPath=Assets/AssetBundleRes/role/timeline/skill_110001.playable
+8/22:29:29:LUA: notifyNewChangedTaskInfo ReqTaskList
+8/22:29:29:PathToAssetBundleName path : Assets/AssetBundleRes/role/timeline/skill_110001.playable
+8/22:29:29:LoadAsset<T>role_timeline:skill_110001.playable
+8/22:29:29:ResourceManager:LoadAsset() abName1 : role_timeline assetNames:skill_110001.playable
+8/22:29:29:GetRealAssetPatheffect_projectors
+8/22:29:29:GetRealAssetPathlua.unity3d
+8/22:29:29:GetRealAssetPathlua_bp.unity3d
+8/22:29:29:GetRealAssetPathlua_bp_common.unity3d
+8/22:29:29:GetRealAssetPathlua_bp_src.unity3d
+8/22:29:29:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:29:29:GetRealAssetPathlua_bp_tests.unity3d
+8/22:29:29:GetRealAssetPathlua_common.unity3d
+8/22:29:29:GetRealAssetPathlua_common_ui.unity3d
+8/22:29:29:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:29:29:GetRealAssetPathlua_common_util.unity3d
+8/22:29:29:GetRealAssetPathlua_config.unity3d
+8/22:29:29:GetRealAssetPathlua_ecs.unity3d
+8/22:29:29:GetRealAssetPathlua_ecs_common.unity3d
+8/22:29:29:GetRealAssetPathlua_ecs_src.unity3d
+8/22:29:29:GetRealAssetPathlua_ecs_test.unity3d
+8/22:29:29:GetRealAssetPathlua_game_bag.unity3d
+8/22:29:29:GetRealAssetPathlua_game_chat.unity3d
+8/22:29:29:GetRealAssetPathlua_game_common.unity3d
+8/22:29:29:GetRealAssetPathlua_game_common_action.unity3d
+8/22:29:29:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:29:29:GetRealAssetPathlua_game_error.unity3d
+8/22:29:29:GetRealAssetPathlua_game_gm.unity3d
+8/22:29:29:GetRealAssetPathlua_game_login.unity3d
+8/22:29:29:GetRealAssetPathlua_game_mainui.unity3d
+8/22:29:29:GetRealAssetPathlua_game_scene.unity3d
+8/22:29:29:GetRealAssetPathlua_game_systems.unity3d
+8/22:29:29:GetRealAssetPathlua_game_task.unity3d
+8/22:29:29:GetRealAssetPathlua_game_test.unity3d
+8/22:29:29:GetRealAssetPathlua_proto.unity3d
+8/22:29:29:GetRealAssetPathlua_tools.unity3d
+8/22:29:29:GetRealAssetPathmonster_monster_2000
+8/22:29:29:GetRealAssetPathmonster_monster_2001
+8/22:29:29:GetRealAssetPathmonster_prefab
+8/22:29:29:GetRealAssetPathmonster_timeline
+8/22:29:29:GetRealAssetPathnpc_npc_3000
+8/22:29:29:GetRealAssetPathnpc_prefab
+8/22:29:29:GetRealAssetPathrole_body
+8/22:29:29:GetRealAssetPathrole_prefab
+8/22:29:29:GetRealAssetPathrole_timeline
+8/22:29:29:ResourceManager:LoadAsset() real abName2 : role_timelineUnityEngine.Playables.PlayableAsset
+8/22:29:53:c#TaskDialogView:talkDialogcompleted*******74.88798
+8/22:29:53:LUA: finishplayaction
+8/22:29:53:LUA: finishplayaction	1	2
+8/22:29:53:LUA: Task_TakeTask
+8/22:29:53:LUA: Task_TakeTask	2	1
+8/22:29:53:LUA: KillMonster updateTargetMonsterIfKillTask0	3	2
+8/22:29:53:LUA: Task_DoTask completeSubTask3:3
+8/22:29:53:LUA: Task_TakeTask --taskInfo.subType == TaskConst.SubType.KillMonster	false
+8/22:29:53:Task_DoTask UpdateXML call
+8/22:29:53:Task_DoTask UpdateXML call:10000000001
+8/22:29:53:Task_DoTask UpdateXML call10000000001:10000000001
+8/22:29:53:xmldoc.UpdateXML call1310000000001
+8/22:29:53:Task_DoTask UpdateXML call
+8/22:29:53:Task_DoTask UpdateXML call:10000000001
+8/22:29:53:Task_DoTask UpdateXML call10000000001:10000000001
+8/22:29:53:xmldoc.UpdateXML call1310000000001
+8/22:29:53:LUA: dddddffggghhhhh	10000000001
+8/22:29:53:LUA: 1	roleID	ReqTakeTask2	10000000001
+8/22:29:53:LUA: 1	contentID	ReqTakeTask2	2000
+8/22:29:53:LUA: 1	sceneID	ReqTakeTask2	1001
+8/22:29:53:LUA: 1	subTaskIndex	ReqTakeTask2	3
+8/22:29:53:LUA: 1	status	ReqTakeTask2	2
+8/22:29:53:LUA: 1	desc	ReqTakeTask2	采集<#88ff43>神秘怪物</color>
+8/22:29:53:LUA: 1	collectID	ReqTakeTask2	1000
+8/22:29:53:LUA: 1	subType	ReqTakeTask2	1
+8/22:29:53:LUA: 1	maxProgress	ReqTakeTask2	1
+8/22:29:53:LUA: 1	taskID	ReqTakeTask2	1
+8/22:29:53:LUA: 1	npcID	ReqTakeTask2	2000
+8/22:29:53:LUA: 1	curProgress	ReqTakeTask2	0
+8/22:29:53:LUA: Cat:TaskModel.lua[53] func, taskInfo.subType	function: 0000018FD2E19900	1
+8/22:29:53:LUA: call HandleAutoDoTask
+8/22:29:53:LUA: HandleAutoDoTask	1
+8/22:29:53:LUA: HandleAutoDoTask lastDoingType	1
+8/22:29:53:LUA: HandleAutoDoTask taskInfo	3	2
+8/22:29:53:LUA: HandleAutoDoTask call DoTask
+8/22:29:53:LUA: Cat:TaskController [start:DoTask] taskInfo:	1
+8/22:29:53:LUA: 	{
+8/22:29:53:LUA: 		roleID = 10000000001
+8/22:29:53:LUA: 		contentID = 2000
+8/22:29:53:LUA: 		sceneID = 1001
+8/22:29:53:LUA: 		subTaskIndex = 3
+8/22:29:53:LUA: 		status = 2
+8/22:29:53:LUA: 		desc = 找<#88ff43>神秘NPC</color>对话
+8/22:29:53:LUA: 		collectID = 1000
+8/22:29:53:LUA: 		subType = 1
+8/22:29:53:LUA: 		maxProgress = 1
+8/22:29:53:LUA: 		taskID = 1
+8/22:29:53:LUA: 		npcID = 2000
+8/22:29:53:LUA: 		curProgress = 0
+8/22:29:53:LUA: 	}
+8/22:29:53:LUA: Cat:TaskController [end]
+8/22:29:53:Stop FindWay by move query
+8/22:29:53:LUA: if func true
+8/22:29:53:LUA: TaskController:DoTalk	1
+8/22:29:53:LUA: TaskController:DoTalk	2000	20000000001
+8/22:29:53:GetSceneObjectPos uid=20000000001
+8/22:29:53:GetSceneObjectPos=1.299989:-0.03500498:-0.01666654
+8/22:29:53:LUA: npcpos====	2000	1.2999892234802	-0.035004984587431	-0.016666539013386
+8/22:29:53:LUA: mainrolepos====	0.50950539112091	-0.034609243273735	-0.016666539013386
+8/22:29:53:start find way by move query0.790484:0.7904840.7352005
+8/22:29:53:LUA: notifyNewChangedTaskInfo ReqTaskList
+8/22:29:53:Stop FindWay by move query
+8/22:29:53:LUA: onApproachingNpc call
+8/22:29:53:LUA: onGetTaskListInNPC call
+8/22:29:53:LUA: dddssggggetTaskListInNPC	10000000001	2000
+8/22:29:53:LUA: 1	dddssggg	table: 0000018FD8DDB6F0
+8/22:29:53:LUA: 1	dddssgggonGetTaskListInNPC	1
+8/22:29:53:LUA: onApproachingNpc	10000000001	nil
+8/22:29:53:PathToAssetBundleName path : Assets/AssetBundleRes/ui/task/TaskDialogView.prefab
+8/22:29:53:LoadAsset<T>ui_task:TaskDialogView.prefab
+8/22:29:53:ResourceManager:LoadAsset() abName1 : ui_task assetNames:TaskDialogView.prefab
+8/22:29:53:GetRealAssetPatheffect_projectors
+8/22:29:53:GetRealAssetPathlua.unity3d
+8/22:29:53:GetRealAssetPathlua_bp.unity3d
+8/22:29:53:GetRealAssetPathlua_bp_common.unity3d
+8/22:29:53:GetRealAssetPathlua_bp_src.unity3d
+8/22:29:53:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:29:53:GetRealAssetPathlua_bp_tests.unity3d
+8/22:29:53:GetRealAssetPathlua_common.unity3d
+8/22:29:53:GetRealAssetPathlua_common_ui.unity3d
+8/22:29:53:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:29:53:GetRealAssetPathlua_common_util.unity3d
+8/22:29:53:GetRealAssetPathlua_config.unity3d
+8/22:29:53:GetRealAssetPathlua_ecs.unity3d
+8/22:29:53:GetRealAssetPathlua_ecs_common.unity3d
+8/22:29:53:GetRealAssetPathlua_ecs_src.unity3d
+8/22:29:53:GetRealAssetPathlua_ecs_test.unity3d
+8/22:29:53:GetRealAssetPathlua_game_bag.unity3d
+8/22:29:53:GetRealAssetPathlua_game_chat.unity3d
+8/22:29:53:GetRealAssetPathlua_game_common.unity3d
+8/22:29:53:GetRealAssetPathlua_game_common_action.unity3d
+8/22:29:53:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:29:53:GetRealAssetPathlua_game_error.unity3d
+8/22:29:53:GetRealAssetPathlua_game_gm.unity3d
+8/22:29:53:GetRealAssetPathlua_game_login.unity3d
+8/22:29:53:GetRealAssetPathlua_game_mainui.unity3d
+8/22:29:53:GetRealAssetPathlua_game_scene.unity3d
+8/22:29:53:GetRealAssetPathlua_game_systems.unity3d
+8/22:29:53:GetRealAssetPathlua_game_task.unity3d
+8/22:29:53:GetRealAssetPathlua_game_test.unity3d
+8/22:29:53:GetRealAssetPathlua_proto.unity3d
+8/22:29:53:GetRealAssetPathlua_tools.unity3d
+8/22:29:53:GetRealAssetPathmonster_monster_2000
+8/22:29:53:GetRealAssetPathmonster_monster_2001
+8/22:29:53:GetRealAssetPathmonster_prefab
+8/22:29:53:GetRealAssetPathmonster_timeline
+8/22:29:53:GetRealAssetPathnpc_npc_3000
+8/22:29:53:GetRealAssetPathnpc_prefab
+8/22:29:53:GetRealAssetPathrole_body
+8/22:29:53:GetRealAssetPathrole_prefab
+8/22:29:53:GetRealAssetPathrole_timeline
+8/22:29:53:GetRealAssetPathscene_scene_1001
+8/22:29:53:GetRealAssetPathscene_temp_scene
+8/22:29:53:GetRealAssetPathui_common
+8/22:29:53:GetRealAssetPathui_task
+8/22:29:53:ResourceManager:LoadAsset() real abName2 : ui_taskUnityEngine.GameObject
+8/22:29:53:The character used for Underline is not available in font asset [normal SDF].
+8/22:29:53:LUA: TaskDialogView:OnUpdate 
+8/22:29:53:LUA: taskNum=	1
+8/22:29:53:LUA: talkCfg.flag=13
+8/22:29:53:LUA: luaTaskDialogView:talkDialogcomplet MovePlayManager.play called	10000000001	1	1
+8/22:29:53:MovePlayManager.play called10000000001:1:3:1:20000000001
+8/22:29:53:MovePlayManager.play called1:110000
+8/22:29:53:CastSkillCastSkillCastSkill
+8/22:29:53:CastSkill assetPath=Assets/AssetBundleRes/role/timeline/skill_110000.playable
+8/22:29:53:PathToAssetBundleName path : Assets/AssetBundleRes/role/timeline/skill_110000.playable
+8/22:29:53:LoadAsset<T>role_timeline:skill_110000.playable
+8/22:29:53:ResourceManager:LoadAsset() abName1 : role_timeline assetNames:skill_110000.playable
+8/22:29:53:GetRealAssetPatheffect_projectors
+8/22:29:53:GetRealAssetPathlua.unity3d
+8/22:29:53:GetRealAssetPathlua_bp.unity3d
+8/22:29:53:GetRealAssetPathlua_bp_common.unity3d
+8/22:29:53:GetRealAssetPathlua_bp_src.unity3d
+8/22:29:53:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:29:53:GetRealAssetPathlua_bp_tests.unity3d
+8/22:29:53:GetRealAssetPathlua_common.unity3d
+8/22:29:53:GetRealAssetPathlua_common_ui.unity3d
+8/22:29:53:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:29:53:GetRealAssetPathlua_common_util.unity3d
+8/22:29:53:GetRealAssetPathlua_config.unity3d
+8/22:29:53:GetRealAssetPathlua_ecs.unity3d
+8/22:29:53:GetRealAssetPathlua_ecs_common.unity3d
+8/22:29:53:GetRealAssetPathlua_ecs_src.unity3d
+8/22:29:53:GetRealAssetPathlua_ecs_test.unity3d
+8/22:29:53:GetRealAssetPathlua_game_bag.unity3d
+8/22:29:53:GetRealAssetPathlua_game_chat.unity3d
+8/22:29:53:GetRealAssetPathlua_game_common.unity3d
+8/22:29:53:GetRealAssetPathlua_game_common_action.unity3d
+8/22:29:53:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:29:53:GetRealAssetPathlua_game_error.unity3d
+8/22:29:53:GetRealAssetPathlua_game_gm.unity3d
+8/22:29:53:GetRealAssetPathlua_game_login.unity3d
+8/22:29:53:GetRealAssetPathlua_game_mainui.unity3d
+8/22:29:53:GetRealAssetPathlua_game_scene.unity3d
+8/22:29:53:GetRealAssetPathlua_game_systems.unity3d
+8/22:29:53:GetRealAssetPathlua_game_task.unity3d
+8/22:29:53:GetRealAssetPathlua_game_test.unity3d
+8/22:29:53:GetRealAssetPathlua_proto.unity3d
+8/22:29:53:GetRealAssetPathlua_tools.unity3d
+8/22:29:53:GetRealAssetPathmonster_monster_2000
+8/22:29:53:GetRealAssetPathmonster_monster_2001
+8/22:29:53:GetRealAssetPathmonster_prefab
+8/22:29:53:GetRealAssetPathmonster_timeline
+8/22:29:53:GetRealAssetPathnpc_npc_3000
+8/22:29:53:GetRealAssetPathnpc_prefab
+8/22:29:53:GetRealAssetPathrole_body
+8/22:29:53:GetRealAssetPathrole_prefab
+8/22:29:53:GetRealAssetPathrole_timeline
+8/22:29:53:ResourceManager:LoadAsset() real abName2 : role_timelineUnityEngine.Playables.PlayableAsset
+8/22:29:57:LUA: LUa TaskDialogView:talkDialogcompleted*******
+8/22:29:57:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:57:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:57:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:57:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:57:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:57:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:57:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:57:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:29:57:LUA: Cat:TaskDialogView.lua[26] self.curShowData.clickCallBack	function: 0000018D04A07720
+8/22:29:57:LUA: TaskDialogView:OnUpdate 
+8/22:29:57:LUA: taskNum=	1
+8/22:29:57:LUA: talkCfg.flag=13
+8/22:29:57:LUA: luaTaskDialogView:talkDialogcomplet MovePlayManager.play called	20000000001	2	1
+8/22:29:57:MovePlayManager.play called20000000001:2:3:1:10000000001
+8/22:29:57:MovePlayManager.play called2:200000
+8/22:29:57:CastSkillCastSkillCastSkill
+8/22:29:57:CastSkill assetPath=Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+8/22:29:57:PathToAssetBundleName path : Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+8/22:29:57:LoadAsset<T>monster_timeline:skill_200000.playable
+8/22:29:57:ResourceManager:LoadAsset() abName1 : monster_timeline assetNames:skill_200000.playable
+8/22:29:57:GetRealAssetPatheffect_projectors
+8/22:29:57:GetRealAssetPathlua.unity3d
+8/22:29:57:GetRealAssetPathlua_bp.unity3d
+8/22:29:57:GetRealAssetPathlua_bp_common.unity3d
+8/22:29:57:GetRealAssetPathlua_bp_src.unity3d
+8/22:29:57:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:29:57:GetRealAssetPathlua_bp_tests.unity3d
+8/22:29:57:GetRealAssetPathlua_common.unity3d
+8/22:29:57:GetRealAssetPathlua_common_ui.unity3d
+8/22:29:57:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:29:57:GetRealAssetPathlua_common_util.unity3d
+8/22:29:57:GetRealAssetPathlua_config.unity3d
+8/22:29:57:GetRealAssetPathlua_ecs.unity3d
+8/22:29:57:GetRealAssetPathlua_ecs_common.unity3d
+8/22:29:57:GetRealAssetPathlua_ecs_src.unity3d
+8/22:29:57:GetRealAssetPathlua_ecs_test.unity3d
+8/22:29:57:GetRealAssetPathlua_game_bag.unity3d
+8/22:29:57:GetRealAssetPathlua_game_chat.unity3d
+8/22:29:57:GetRealAssetPathlua_game_common.unity3d
+8/22:29:57:GetRealAssetPathlua_game_common_action.unity3d
+8/22:29:57:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:29:57:GetRealAssetPathlua_game_error.unity3d
+8/22:29:57:GetRealAssetPathlua_game_gm.unity3d
+8/22:29:57:GetRealAssetPathlua_game_login.unity3d
+8/22:29:57:GetRealAssetPathlua_game_mainui.unity3d
+8/22:29:57:GetRealAssetPathlua_game_scene.unity3d
+8/22:29:57:GetRealAssetPathlua_game_systems.unity3d
+8/22:29:57:GetRealAssetPathlua_game_task.unity3d
+8/22:29:57:GetRealAssetPathlua_game_test.unity3d
+8/22:29:57:GetRealAssetPathlua_proto.unity3d
+8/22:29:57:GetRealAssetPathlua_tools.unity3d
+8/22:29:57:GetRealAssetPathmonster_monster_2000
+8/22:29:57:GetRealAssetPathmonster_monster_2001
+8/22:29:57:GetRealAssetPathmonster_prefab
+8/22:29:57:GetRealAssetPathmonster_timeline
+8/22:29:57:ResourceManager:LoadAsset() real abName2 : monster_timelineUnityEngine.Playables.PlayableAsset
+8/22:29:58:c#TaskDialogView:talkDialogcompleted*******80.3025
+8/22:30:0:c#TaskDialogView:talkDialogcompleted*******81.86269
+8/22:30:0:LUA: LUa TaskDialogView:talkDialogcompleted*******
+8/22:30:0:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:0:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:0:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:0:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:0:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:0:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:0:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:0:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:0:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:0:LUA: Cat:TaskDialogView.lua[26] self.curShowData.clickCallBack	function: 0000018F0D351BF0
+8/22:30:0:LUA: TaskDialogView:OnUpdate 
+8/22:30:0:LUA: taskNum=	1
+8/22:30:0:LUA: talkCfg.flag=33
+8/22:30:0:LUA: luaTaskDialogView:talkDialogcomplet MovePlayManager.play called	10000000001	3	1
+8/22:30:0:MovePlayManager.play called10000000001:3:3:1:20000000001
+8/22:30:0:MovePlayManager.play called1:110000
+8/22:30:0:CastSkillCastSkillCastSkill
+8/22:30:0:CastSkill assetPath=Assets/AssetBundleRes/role/timeline/skill_110000.playable
+8/22:30:0:PathToAssetBundleName path : Assets/AssetBundleRes/role/timeline/skill_110000.playable
+8/22:30:0:LoadAsset<T>role_timeline:skill_110000.playable
+8/22:30:0:ResourceManager:LoadAsset() abName1 : role_timeline assetNames:skill_110000.playable
+8/22:30:0:GetRealAssetPatheffect_projectors
+8/22:30:0:GetRealAssetPathlua.unity3d
+8/22:30:0:GetRealAssetPathlua_bp.unity3d
+8/22:30:0:GetRealAssetPathlua_bp_common.unity3d
+8/22:30:0:GetRealAssetPathlua_bp_src.unity3d
+8/22:30:0:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:30:0:GetRealAssetPathlua_bp_tests.unity3d
+8/22:30:0:GetRealAssetPathlua_common.unity3d
+8/22:30:0:GetRealAssetPathlua_common_ui.unity3d
+8/22:30:0:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:30:0:GetRealAssetPathlua_common_util.unity3d
+8/22:30:0:GetRealAssetPathlua_config.unity3d
+8/22:30:0:GetRealAssetPathlua_ecs.unity3d
+8/22:30:0:GetRealAssetPathlua_ecs_common.unity3d
+8/22:30:0:GetRealAssetPathlua_ecs_src.unity3d
+8/22:30:0:GetRealAssetPathlua_ecs_test.unity3d
+8/22:30:0:GetRealAssetPathlua_game_bag.unity3d
+8/22:30:0:GetRealAssetPathlua_game_chat.unity3d
+8/22:30:0:GetRealAssetPathlua_game_common.unity3d
+8/22:30:0:GetRealAssetPathlua_game_common_action.unity3d
+8/22:30:0:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:30:0:GetRealAssetPathlua_game_error.unity3d
+8/22:30:0:GetRealAssetPathlua_game_gm.unity3d
+8/22:30:0:GetRealAssetPathlua_game_login.unity3d
+8/22:30:0:GetRealAssetPathlua_game_mainui.unity3d
+8/22:30:0:GetRealAssetPathlua_game_scene.unity3d
+8/22:30:0:GetRealAssetPathlua_game_systems.unity3d
+8/22:30:0:GetRealAssetPathlua_game_task.unity3d
+8/22:30:0:GetRealAssetPathlua_game_test.unity3d
+8/22:30:0:GetRealAssetPathlua_proto.unity3d
+8/22:30:0:GetRealAssetPathlua_tools.unity3d
+8/22:30:0:GetRealAssetPathmonster_monster_2000
+8/22:30:0:GetRealAssetPathmonster_monster_2001
+8/22:30:0:GetRealAssetPathmonster_prefab
+8/22:30:0:GetRealAssetPathmonster_timeline
+8/22:30:0:GetRealAssetPathnpc_npc_3000
+8/22:30:0:GetRealAssetPathnpc_prefab
+8/22:30:0:GetRealAssetPathrole_body
+8/22:30:0:GetRealAssetPathrole_prefab
+8/22:30:0:GetRealAssetPathrole_timeline
+8/22:30:0:ResourceManager:LoadAsset() real abName2 : role_timelineUnityEngine.Playables.PlayableAsset
+8/22:30:3:LUA: LUa TaskDialogView:talkDialogcompleted*******
+8/22:30:3:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:3:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:3:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:3:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:3:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:3:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:3:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:3:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:3:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:3:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:3:LUA: Cat:TaskDialogView.lua[26] self.curShowData.clickCallBack	function: 0000018FD9006730
+8/22:30:3:LUA: Task_DoTask1:10000000001
+8/22:30:3:LUA: KillMonster updateTargetMonsterIfKillTask0	1	2
+8/22:30:3:LUA: Task_DoTask completeSubTask5:3
+8/22:30:3:LUA: Task_DoTask2:10000000001
+8/22:30:3:LUA: status:Task_DoTask1
+8/22:30:3:LUA: roleID:Task_DoTask10000000001
+8/22:30:3:LUA: subType:Task_DoTask1
+8/22:30:3:LUA: contentID:Task_DoTask2000
+8/22:30:3:LUA: taskID:Task_DoTask2
+8/22:30:3:LUA: curProgress:Task_DoTask0
+8/22:30:3:LUA: subTaskIndex:Task_DoTask1
+8/22:30:3:Task_DoTask UpdateXML call
+8/22:30:3:Task_DoTask UpdateXML call:10000000001
+8/22:30:3:Task_DoTask UpdateXML call10000000001:10000000001
+8/22:30:3:xmldoc.UpdateXML call2110000000001
+8/22:30:3:Task_DoTask UpdateXML call
+8/22:30:3:Task_DoTask UpdateXML call:10000000001
+8/22:30:3:Task_DoTask UpdateXML call10000000001:10000000001
+8/22:30:3:xmldoc.UpdateXML call2110000000001
+8/22:30:3:LUA: dddddffggghhhhh	10000000001
+8/22:30:3:LUA: 1	status	ReqTakeTask2	1
+8/22:30:3:LUA: 1	roleID	ReqTakeTask2	10000000001
+8/22:30:3:LUA: 1	subType	ReqTakeTask2	1
+8/22:30:3:LUA: 1	contentID	ReqTakeTask2	2000
+8/22:30:3:LUA: 1	taskID	ReqTakeTask2	2
+8/22:30:3:LUA: 1	curProgress	ReqTakeTask2	0
+8/22:30:3:LUA: 1	subTaskIndex	ReqTakeTask2	1
+8/22:30:3:LUA: Cat:TaskModel.lua[53] func, taskInfo.subType	function: 0000018FD2E19900	1
+8/22:30:3:LUA: call HandleAutoDoTask
+8/22:30:3:LUA: HandleAutoDoTask	2
+8/22:30:3:LUA: HandleAutoDoTask lastDoingType	1
+8/22:30:3:LUA: HandleAutoDoTask taskInfo	1	1
+8/22:30:3:LUA: HandleAutoDoTask call DoTask
+8/22:30:3:LUA: Cat:TaskController [start:DoTask] taskInfo:	1
+8/22:30:3:LUA: 	{
+8/22:30:3:LUA: 		roleID = 10000000001
+8/22:30:3:LUA: 		contentID = 2000
+8/22:30:3:LUA: 		subTaskIndex = 1
+8/22:30:3:LUA: 		status = 1
+8/22:30:3:LUA: 		desc = 找<#88ff43>神秘NPC</color>对话
+8/22:30:3:LUA: 		subType = 1
+8/22:30:3:LUA: 		sceneID = 1001
+8/22:30:3:LUA: 		taskID = 2
+8/22:30:3:LUA: 		npcID = 2000
+8/22:30:3:LUA: 		curProgress = 0
+8/22:30:3:LUA: 	}
+8/22:30:3:LUA: Cat:TaskController [end]
+8/22:30:3:Stop FindWay by move query
+8/22:30:3:LUA: if func true
+8/22:30:3:LUA: TaskController:DoTalk	2
+8/22:30:3:LUA: TaskController:DoTalk	2000	20000000002
+8/22:30:3:GetSceneObjectPos uid=20000000002
+8/22:30:3:GetSceneObjectPos=-1.400011:-0.03500499:-0.01666654
+8/22:30:3:LUA: npcpos====	2000	-1.4000107049942	-0.035004988312721	-0.016666539013386
+8/22:30:3:LUA: mainrolepos====	0.56478875875473	-0.034636810421944	-0.016666539013386
+8/22:30:3:start find way by move query1.964799:1.9647990.7352005
+8/22:30:3:LUA: notifyNewChangedTaskInfo ReqTaskList
+8/22:30:4:Stop FindWay by move query
+8/22:30:4:LUA: onApproachingNpc call
+8/22:30:4:LUA: onGetTaskListInNPC call
+8/22:30:4:LUA: dddssggggetTaskListInNPC	10000000001	2000
+8/22:30:4:LUA: 1	dddssggg	table: 0000018FD8E4EFE0
+8/22:30:4:LUA: 1	dddssgggonGetTaskListInNPC	2
+8/22:30:4:LUA: onApproachingNpc	10000000001	nil
+8/22:30:4:PathToAssetBundleName path : Assets/AssetBundleRes/ui/task/TaskDialogView.prefab
+8/22:30:4:LoadAsset<T>ui_task:TaskDialogView.prefab
+8/22:30:4:ResourceManager:LoadAsset() abName1 : ui_task assetNames:TaskDialogView.prefab
+8/22:30:4:GetRealAssetPatheffect_projectors
+8/22:30:4:GetRealAssetPathlua.unity3d
+8/22:30:4:GetRealAssetPathlua_bp.unity3d
+8/22:30:4:GetRealAssetPathlua_bp_common.unity3d
+8/22:30:4:GetRealAssetPathlua_bp_src.unity3d
+8/22:30:4:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:30:4:GetRealAssetPathlua_bp_tests.unity3d
+8/22:30:4:GetRealAssetPathlua_common.unity3d
+8/22:30:4:GetRealAssetPathlua_common_ui.unity3d
+8/22:30:4:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:30:4:GetRealAssetPathlua_common_util.unity3d
+8/22:30:4:GetRealAssetPathlua_config.unity3d
+8/22:30:4:GetRealAssetPathlua_ecs.unity3d
+8/22:30:4:GetRealAssetPathlua_ecs_common.unity3d
+8/22:30:4:GetRealAssetPathlua_ecs_src.unity3d
+8/22:30:4:GetRealAssetPathlua_ecs_test.unity3d
+8/22:30:4:GetRealAssetPathlua_game_bag.unity3d
+8/22:30:4:GetRealAssetPathlua_game_chat.unity3d
+8/22:30:4:GetRealAssetPathlua_game_common.unity3d
+8/22:30:4:GetRealAssetPathlua_game_common_action.unity3d
+8/22:30:4:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:30:4:GetRealAssetPathlua_game_error.unity3d
+8/22:30:4:GetRealAssetPathlua_game_gm.unity3d
+8/22:30:4:GetRealAssetPathlua_game_login.unity3d
+8/22:30:4:GetRealAssetPathlua_game_mainui.unity3d
+8/22:30:4:GetRealAssetPathlua_game_scene.unity3d
+8/22:30:4:GetRealAssetPathlua_game_systems.unity3d
+8/22:30:4:GetRealAssetPathlua_game_task.unity3d
+8/22:30:4:GetRealAssetPathlua_game_test.unity3d
+8/22:30:4:GetRealAssetPathlua_proto.unity3d
+8/22:30:4:GetRealAssetPathlua_tools.unity3d
+8/22:30:4:GetRealAssetPathmonster_monster_2000
+8/22:30:4:GetRealAssetPathmonster_monster_2001
+8/22:30:4:GetRealAssetPathmonster_prefab
+8/22:30:4:GetRealAssetPathmonster_timeline
+8/22:30:4:GetRealAssetPathnpc_npc_3000
+8/22:30:4:GetRealAssetPathnpc_prefab
+8/22:30:4:GetRealAssetPathrole_body
+8/22:30:4:GetRealAssetPathrole_prefab
+8/22:30:4:GetRealAssetPathrole_timeline
+8/22:30:4:GetRealAssetPathscene_scene_1001
+8/22:30:4:GetRealAssetPathscene_temp_scene
+8/22:30:4:GetRealAssetPathui_common
+8/22:30:4:GetRealAssetPathui_task
+8/22:30:4:ResourceManager:LoadAsset() real abName2 : ui_taskUnityEngine.GameObject
+8/22:30:4:The character used for Underline is not available in font asset [normal SDF].
+8/22:30:4:LUA: TaskDialogView:OnUpdate 
+8/22:30:4:LUA: taskNum=	1
+8/22:30:4:LUA: talkCfg.flag=11
+8/22:30:4:LUA: luaTaskDialogView:talkDialogcomplet MovePlayManager.play called	20000000002	1	2
+8/22:30:4:MovePlayManager.play called20000000002:1:1:2:10000000001
+8/22:30:4:MovePlayManager.play called2:200000
+8/22:30:4:CastSkillCastSkillCastSkill
+8/22:30:4:CastSkill assetPath=Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+8/22:30:4:PathToAssetBundleName path : Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+8/22:30:4:LoadAsset<T>monster_timeline:skill_200000.playable
+8/22:30:4:ResourceManager:LoadAsset() abName1 : monster_timeline assetNames:skill_200000.playable
+8/22:30:4:GetRealAssetPatheffect_projectors
+8/22:30:4:GetRealAssetPathlua.unity3d
+8/22:30:4:GetRealAssetPathlua_bp.unity3d
+8/22:30:4:GetRealAssetPathlua_bp_common.unity3d
+8/22:30:4:GetRealAssetPathlua_bp_src.unity3d
+8/22:30:4:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:30:4:GetRealAssetPathlua_bp_tests.unity3d
+8/22:30:4:GetRealAssetPathlua_common.unity3d
+8/22:30:4:GetRealAssetPathlua_common_ui.unity3d
+8/22:30:4:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:30:4:GetRealAssetPathlua_common_util.unity3d
+8/22:30:4:GetRealAssetPathlua_config.unity3d
+8/22:30:4:GetRealAssetPathlua_ecs.unity3d
+8/22:30:4:GetRealAssetPathlua_ecs_common.unity3d
+8/22:30:4:GetRealAssetPathlua_ecs_src.unity3d
+8/22:30:4:GetRealAssetPathlua_ecs_test.unity3d
+8/22:30:4:GetRealAssetPathlua_game_bag.unity3d
+8/22:30:4:GetRealAssetPathlua_game_chat.unity3d
+8/22:30:4:GetRealAssetPathlua_game_common.unity3d
+8/22:30:4:GetRealAssetPathlua_game_common_action.unity3d
+8/22:30:4:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:30:4:GetRealAssetPathlua_game_error.unity3d
+8/22:30:4:GetRealAssetPathlua_game_gm.unity3d
+8/22:30:4:GetRealAssetPathlua_game_login.unity3d
+8/22:30:4:GetRealAssetPathlua_game_mainui.unity3d
+8/22:30:4:GetRealAssetPathlua_game_scene.unity3d
+8/22:30:4:GetRealAssetPathlua_game_systems.unity3d
+8/22:30:4:GetRealAssetPathlua_game_task.unity3d
+8/22:30:4:GetRealAssetPathlua_game_test.unity3d
+8/22:30:4:GetRealAssetPathlua_proto.unity3d
+8/22:30:4:GetRealAssetPathlua_tools.unity3d
+8/22:30:4:GetRealAssetPathmonster_monster_2000
+8/22:30:4:GetRealAssetPathmonster_monster_2001
+8/22:30:4:GetRealAssetPathmonster_prefab
+8/22:30:4:GetRealAssetPathmonster_timeline
+8/22:30:4:ResourceManager:LoadAsset() real abName2 : monster_timelineUnityEngine.Playables.PlayableAsset
+8/22:30:5:c#TaskDialogView:talkDialogcompleted*******87.26202
+8/22:30:7:c#TaskDialogView:talkDialogcompleted*******89.32738
+8/22:30:10:LUA: LUa TaskDialogView:talkDialogcompleted*******
+8/22:30:10:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:10:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:10:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:10:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:10:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:10:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:10:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:10:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:10:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:10:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:10:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:10:LUA: Cat:TaskDialogView.lua[26] self.curShowData.clickCallBack	function: 0000018FD8BDB9E0
+8/22:30:10:LUA: TaskDialogView:OnUpdate 
+8/22:30:10:LUA: taskNum=	1
+8/22:30:10:LUA: talkCfg.flag=11
+8/22:30:10:LUA: luaTaskDialogView:talkDialogcomplet MovePlayManager.play called	10000000001	2	2
+8/22:30:10:MovePlayManager.play called10000000001:2:1:2:20000000002
+8/22:30:10:MovePlayManager.play called1:110000
+8/22:30:10:CastSkillCastSkillCastSkill
+8/22:30:10:CastSkill assetPath=Assets/AssetBundleRes/role/timeline/skill_110000.playable
+8/22:30:10:PathToAssetBundleName path : Assets/AssetBundleRes/role/timeline/skill_110000.playable
+8/22:30:10:LoadAsset<T>role_timeline:skill_110000.playable
+8/22:30:10:ResourceManager:LoadAsset() abName1 : role_timeline assetNames:skill_110000.playable
+8/22:30:10:GetRealAssetPatheffect_projectors
+8/22:30:10:GetRealAssetPathlua.unity3d
+8/22:30:10:GetRealAssetPathlua_bp.unity3d
+8/22:30:10:GetRealAssetPathlua_bp_common.unity3d
+8/22:30:10:GetRealAssetPathlua_bp_src.unity3d
+8/22:30:10:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:30:10:GetRealAssetPathlua_bp_tests.unity3d
+8/22:30:10:GetRealAssetPathlua_common.unity3d
+8/22:30:10:GetRealAssetPathlua_common_ui.unity3d
+8/22:30:10:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:30:10:GetRealAssetPathlua_common_util.unity3d
+8/22:30:10:GetRealAssetPathlua_config.unity3d
+8/22:30:10:GetRealAssetPathlua_ecs.unity3d
+8/22:30:10:GetRealAssetPathlua_ecs_common.unity3d
+8/22:30:10:GetRealAssetPathlua_ecs_src.unity3d
+8/22:30:10:GetRealAssetPathlua_ecs_test.unity3d
+8/22:30:10:GetRealAssetPathlua_game_bag.unity3d
+8/22:30:10:GetRealAssetPathlua_game_chat.unity3d
+8/22:30:10:GetRealAssetPathlua_game_common.unity3d
+8/22:30:10:GetRealAssetPathlua_game_common_action.unity3d
+8/22:30:10:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:30:10:GetRealAssetPathlua_game_error.unity3d
+8/22:30:10:GetRealAssetPathlua_game_gm.unity3d
+8/22:30:10:GetRealAssetPathlua_game_login.unity3d
+8/22:30:10:GetRealAssetPathlua_game_mainui.unity3d
+8/22:30:10:GetRealAssetPathlua_game_scene.unity3d
+8/22:30:10:GetRealAssetPathlua_game_systems.unity3d
+8/22:30:10:GetRealAssetPathlua_game_task.unity3d
+8/22:30:10:GetRealAssetPathlua_game_test.unity3d
+8/22:30:10:GetRealAssetPathlua_proto.unity3d
+8/22:30:10:GetRealAssetPathlua_tools.unity3d
+8/22:30:10:GetRealAssetPathmonster_monster_2000
+8/22:30:10:GetRealAssetPathmonster_monster_2001
+8/22:30:10:GetRealAssetPathmonster_prefab
+8/22:30:10:GetRealAssetPathmonster_timeline
+8/22:30:10:GetRealAssetPathnpc_npc_3000
+8/22:30:10:GetRealAssetPathnpc_prefab
+8/22:30:10:GetRealAssetPathrole_body
+8/22:30:10:GetRealAssetPathrole_prefab
+8/22:30:10:GetRealAssetPathrole_timeline
+8/22:30:10:ResourceManager:LoadAsset() real abName2 : role_timelineUnityEngine.Playables.PlayableAsset
+8/22:30:14:LUA: LUa TaskDialogView:talkDialogcompleted*******
+8/22:30:14:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:14:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:14:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:14:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:14:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:14:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:14:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:14:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:14:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:14:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:14:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:14:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:14:LUA: Cat:TaskDialogView.lua[26] self.curShowData.clickCallBack	function: 0000018FD8BD7E20
+8/22:30:14:LUA: TaskDialogView:OnUpdate 
+8/22:30:14:LUA: taskNum=	1
+8/22:30:14:LUA: talkCfg.flag=21
+8/22:30:14:LUA: luaTaskDialogView:talkDialogcomplet MovePlayManager.play called	20000000002	3	2
+8/22:30:14:MovePlayManager.play called20000000002:3:1:2:10000000001
+8/22:30:14:MovePlayManager.play called2:200000
+8/22:30:14:CastSkillCastSkillCastSkill
+8/22:30:14:CastSkill assetPath=Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+8/22:30:14:PathToAssetBundleName path : Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+8/22:30:14:LoadAsset<T>monster_timeline:skill_200000.playable
+8/22:30:14:ResourceManager:LoadAsset() abName1 : monster_timeline assetNames:skill_200000.playable
+8/22:30:14:GetRealAssetPatheffect_projectors
+8/22:30:14:GetRealAssetPathlua.unity3d
+8/22:30:14:GetRealAssetPathlua_bp.unity3d
+8/22:30:14:GetRealAssetPathlua_bp_common.unity3d
+8/22:30:14:GetRealAssetPathlua_bp_src.unity3d
+8/22:30:14:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:30:14:GetRealAssetPathlua_bp_tests.unity3d
+8/22:30:14:GetRealAssetPathlua_common.unity3d
+8/22:30:14:GetRealAssetPathlua_common_ui.unity3d
+8/22:30:14:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:30:14:GetRealAssetPathlua_common_util.unity3d
+8/22:30:14:GetRealAssetPathlua_config.unity3d
+8/22:30:14:GetRealAssetPathlua_ecs.unity3d
+8/22:30:14:GetRealAssetPathlua_ecs_common.unity3d
+8/22:30:14:GetRealAssetPathlua_ecs_src.unity3d
+8/22:30:14:GetRealAssetPathlua_ecs_test.unity3d
+8/22:30:14:GetRealAssetPathlua_game_bag.unity3d
+8/22:30:14:GetRealAssetPathlua_game_chat.unity3d
+8/22:30:14:GetRealAssetPathlua_game_common.unity3d
+8/22:30:14:GetRealAssetPathlua_game_common_action.unity3d
+8/22:30:14:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:30:14:GetRealAssetPathlua_game_error.unity3d
+8/22:30:14:GetRealAssetPathlua_game_gm.unity3d
+8/22:30:14:GetRealAssetPathlua_game_login.unity3d
+8/22:30:14:GetRealAssetPathlua_game_mainui.unity3d
+8/22:30:14:GetRealAssetPathlua_game_scene.unity3d
+8/22:30:14:GetRealAssetPathlua_game_systems.unity3d
+8/22:30:14:GetRealAssetPathlua_game_task.unity3d
+8/22:30:14:GetRealAssetPathlua_game_test.unity3d
+8/22:30:14:GetRealAssetPathlua_proto.unity3d
+8/22:30:14:GetRealAssetPathlua_tools.unity3d
+8/22:30:14:GetRealAssetPathmonster_monster_2000
+8/22:30:14:GetRealAssetPathmonster_monster_2001
+8/22:30:14:GetRealAssetPathmonster_prefab
+8/22:30:14:GetRealAssetPathmonster_timeline
+8/22:30:14:ResourceManager:LoadAsset() real abName2 : monster_timelineUnityEngine.Playables.PlayableAsset
+8/22:30:16:c#TaskDialogView:talkDialogcompleted*******97.88204
+8/22:30:17:c#TaskDialogView:talkDialogcompleted*******99.09203
+8/22:30:18:LUA: LUa TaskDialogView:talkDialogcompleted*******
+8/22:30:18:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:18:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:18:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:18:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:18:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:18:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:18:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:18:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:18:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:18:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:18:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:18:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:18:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:18:LUA: Cat:TaskDialogView.lua[26] self.curShowData.clickCallBack	function: 0000018FCAAF5420
+8/22:30:18:LUA: Task_TakeTask
+8/22:30:18:LUA: Task_TakeTask	1	1
+8/22:30:18:LUA: KillMonster updateTargetMonsterIfKillTask0	1	2
+8/22:30:18:LUA: Task_DoTask completeSubTask2:3
+8/22:30:18:LUA: Task_TakeTask --taskInfo.subType == TaskConst.SubType.KillMonster	false
+8/22:30:18:Task_DoTask UpdateXML call
+8/22:30:18:Task_DoTask UpdateXML call:10000000001
+8/22:30:18:Task_DoTask UpdateXML call10000000001:10000000001
+8/22:30:18:xmldoc.UpdateXML call2210000000001
+8/22:30:18:Task_DoTask UpdateXML call
+8/22:30:18:Task_DoTask UpdateXML call:10000000001
+8/22:30:18:Task_DoTask UpdateXML call10000000001:10000000001
+8/22:30:18:xmldoc.UpdateXML call2210000000001
+8/22:30:18:LUA: dddddffggghhhhh	10000000001
+8/22:30:18:LUA: 1	roleID	ReqTakeTask2	10000000001
+8/22:30:18:LUA: 1	contentID	ReqTakeTask2	2000
+8/22:30:18:LUA: 1	subTaskIndex	ReqTakeTask2	2
+8/22:30:18:LUA: 1	status	ReqTakeTask2	2
+8/22:30:18:LUA: 1	sceneID	ReqTakeTask2	1001
+8/22:30:18:LUA: 1	desc	ReqTakeTask2	找<#88ff43>神秘NPC</color>对话
+8/22:30:18:LUA: 1	subType	ReqTakeTask2	1
+8/22:30:18:LUA: 1	maxProgress	ReqTakeTask2	1
+8/22:30:18:LUA: 1	taskID	ReqTakeTask2	2
+8/22:30:18:LUA: 1	npcID	ReqTakeTask2	2000
+8/22:30:18:LUA: 1	curProgress	ReqTakeTask2	0
+8/22:30:18:LUA: Cat:TaskModel.lua[53] func, taskInfo.subType	function: 0000018FD2E19900	1
+8/22:30:18:LUA: call HandleAutoDoTask
+8/22:30:18:LUA: HandleAutoDoTask	2
+8/22:30:18:LUA: HandleAutoDoTask lastDoingType	1
+8/22:30:18:LUA: HandleAutoDoTask taskInfo	2	2
+8/22:30:18:LUA: HandleAutoDoTask call DoTask
+8/22:30:18:LUA: Cat:TaskController [start:DoTask] taskInfo:	1
+8/22:30:18:LUA: 	{
+8/22:30:18:LUA: 		roleID = 10000000001
+8/22:30:18:LUA: 		contentID = 2000
+8/22:30:18:LUA: 		subTaskIndex = 2
+8/22:30:18:LUA: 		status = 2
+8/22:30:18:LUA: 		sceneID = 1001
+8/22:30:18:LUA: 		desc = 找<#88ff43>神秘NPC</color>对话
+8/22:30:18:LUA: 		subType = 1
+8/22:30:18:LUA: 		maxProgress = 1
+8/22:30:18:LUA: 		taskID = 2
+8/22:30:18:LUA: 		npcID = 2000
+8/22:30:18:LUA: 		curProgress = 0
+8/22:30:18:LUA: 	}
+8/22:30:18:LUA: Cat:TaskController [end]
+8/22:30:18:Stop FindWay by move query
+8/22:30:18:LUA: if func true
+8/22:30:18:LUA: TaskController:DoTalk	2
+8/22:30:18:LUA: TaskController:DoTalk	2000	20000000001
+8/22:30:18:GetSceneObjectPos uid=20000000001
+8/22:30:18:GetSceneObjectPos=1.299989:-0.03500498:-0.01666654
+8/22:30:18:LUA: npcpos====	2000	1.2999892234802	-0.035004984587431	-0.016666539013386
+8/22:30:18:LUA: mainrolepos====	-0.60570448637009	-0.035005442798138	-0.016666539013386
+8/22:30:18:start find way by move query1.905694:1.9056940.7545027
+8/22:30:18:LUA: notifyNewChangedTaskInfo ReqTaskList
+8/22:30:19:Stop FindWay by move query
+8/22:30:19:LUA: onApproachingNpc call
+8/22:30:19:LUA: onGetTaskListInNPC call
+8/22:30:19:LUA: dddssggggetTaskListInNPC	10000000001	2000
+8/22:30:19:LUA: 1	dddssggg	table: 0000018FD8E4EFE0
+8/22:30:19:LUA: 1	dddssgggonGetTaskListInNPC	2
+8/22:30:19:LUA: onApproachingNpc	10000000001	nil
+8/22:30:19:PathToAssetBundleName path : Assets/AssetBundleRes/ui/task/TaskDialogView.prefab
+8/22:30:19:LoadAsset<T>ui_task:TaskDialogView.prefab
+8/22:30:19:ResourceManager:LoadAsset() abName1 : ui_task assetNames:TaskDialogView.prefab
+8/22:30:19:GetRealAssetPatheffect_projectors
+8/22:30:19:GetRealAssetPathlua.unity3d
+8/22:30:19:GetRealAssetPathlua_bp.unity3d
+8/22:30:19:GetRealAssetPathlua_bp_common.unity3d
+8/22:30:19:GetRealAssetPathlua_bp_src.unity3d
+8/22:30:19:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:30:19:GetRealAssetPathlua_bp_tests.unity3d
+8/22:30:19:GetRealAssetPathlua_common.unity3d
+8/22:30:19:GetRealAssetPathlua_common_ui.unity3d
+8/22:30:19:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:30:19:GetRealAssetPathlua_common_util.unity3d
+8/22:30:19:GetRealAssetPathlua_config.unity3d
+8/22:30:19:GetRealAssetPathlua_ecs.unity3d
+8/22:30:19:GetRealAssetPathlua_ecs_common.unity3d
+8/22:30:19:GetRealAssetPathlua_ecs_src.unity3d
+8/22:30:19:GetRealAssetPathlua_ecs_test.unity3d
+8/22:30:19:GetRealAssetPathlua_game_bag.unity3d
+8/22:30:19:GetRealAssetPathlua_game_chat.unity3d
+8/22:30:19:GetRealAssetPathlua_game_common.unity3d
+8/22:30:19:GetRealAssetPathlua_game_common_action.unity3d
+8/22:30:19:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:30:19:GetRealAssetPathlua_game_error.unity3d
+8/22:30:19:GetRealAssetPathlua_game_gm.unity3d
+8/22:30:19:GetRealAssetPathlua_game_login.unity3d
+8/22:30:19:GetRealAssetPathlua_game_mainui.unity3d
+8/22:30:19:GetRealAssetPathlua_game_scene.unity3d
+8/22:30:19:GetRealAssetPathlua_game_systems.unity3d
+8/22:30:19:GetRealAssetPathlua_game_task.unity3d
+8/22:30:19:GetRealAssetPathlua_game_test.unity3d
+8/22:30:19:GetRealAssetPathlua_proto.unity3d
+8/22:30:19:GetRealAssetPathlua_tools.unity3d
+8/22:30:19:GetRealAssetPathmonster_monster_2000
+8/22:30:19:GetRealAssetPathmonster_monster_2001
+8/22:30:19:GetRealAssetPathmonster_prefab
+8/22:30:19:GetRealAssetPathmonster_timeline
+8/22:30:19:GetRealAssetPathnpc_npc_3000
+8/22:30:19:GetRealAssetPathnpc_prefab
+8/22:30:19:GetRealAssetPathrole_body
+8/22:30:19:GetRealAssetPathrole_prefab
+8/22:30:19:GetRealAssetPathrole_timeline
+8/22:30:19:GetRealAssetPathscene_scene_1001
+8/22:30:19:GetRealAssetPathscene_temp_scene
+8/22:30:19:GetRealAssetPathui_common
+8/22:30:19:GetRealAssetPathui_task
+8/22:30:19:ResourceManager:LoadAsset() real abName2 : ui_taskUnityEngine.GameObject
+8/22:30:19:The character used for Underline is not available in font asset [normal SDF].
+8/22:30:19:LUA: TaskDialogView:OnUpdate 
+8/22:30:19:LUA: taskNum=	1
+8/22:30:19:LUA: talkCfg.flag=12
+8/22:30:19:LUA: luaTaskDialogView:talkDialogcomplet MovePlayManager.play called	10000000001	1	2
+8/22:30:19:MovePlayManager.play called10000000001:1:2:2:20000000001
+8/22:30:19:MovePlayManager.play called1:110000
+8/22:30:19:CastSkillCastSkillCastSkill
+8/22:30:19:CastSkill assetPath=Assets/AssetBundleRes/role/timeline/skill_110000.playable
+8/22:30:19:PathToAssetBundleName path : Assets/AssetBundleRes/role/timeline/skill_110000.playable
+8/22:30:19:LoadAsset<T>role_timeline:skill_110000.playable
+8/22:30:19:ResourceManager:LoadAsset() abName1 : role_timeline assetNames:skill_110000.playable
+8/22:30:19:GetRealAssetPatheffect_projectors
+8/22:30:19:GetRealAssetPathlua.unity3d
+8/22:30:19:GetRealAssetPathlua_bp.unity3d
+8/22:30:19:GetRealAssetPathlua_bp_common.unity3d
+8/22:30:19:GetRealAssetPathlua_bp_src.unity3d
+8/22:30:19:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:30:19:GetRealAssetPathlua_bp_tests.unity3d
+8/22:30:19:GetRealAssetPathlua_common.unity3d
+8/22:30:19:GetRealAssetPathlua_common_ui.unity3d
+8/22:30:19:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:30:19:GetRealAssetPathlua_common_util.unity3d
+8/22:30:19:GetRealAssetPathlua_config.unity3d
+8/22:30:19:GetRealAssetPathlua_ecs.unity3d
+8/22:30:19:GetRealAssetPathlua_ecs_common.unity3d
+8/22:30:19:GetRealAssetPathlua_ecs_src.unity3d
+8/22:30:19:GetRealAssetPathlua_ecs_test.unity3d
+8/22:30:19:GetRealAssetPathlua_game_bag.unity3d
+8/22:30:19:GetRealAssetPathlua_game_chat.unity3d
+8/22:30:19:GetRealAssetPathlua_game_common.unity3d
+8/22:30:19:GetRealAssetPathlua_game_common_action.unity3d
+8/22:30:19:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:30:19:GetRealAssetPathlua_game_error.unity3d
+8/22:30:19:GetRealAssetPathlua_game_gm.unity3d
+8/22:30:19:GetRealAssetPathlua_game_login.unity3d
+8/22:30:19:GetRealAssetPathlua_game_mainui.unity3d
+8/22:30:19:GetRealAssetPathlua_game_scene.unity3d
+8/22:30:19:GetRealAssetPathlua_game_systems.unity3d
+8/22:30:19:GetRealAssetPathlua_game_task.unity3d
+8/22:30:19:GetRealAssetPathlua_game_test.unity3d
+8/22:30:19:GetRealAssetPathlua_proto.unity3d
+8/22:30:19:GetRealAssetPathlua_tools.unity3d
+8/22:30:19:GetRealAssetPathmonster_monster_2000
+8/22:30:19:GetRealAssetPathmonster_monster_2001
+8/22:30:19:GetRealAssetPathmonster_prefab
+8/22:30:19:GetRealAssetPathmonster_timeline
+8/22:30:19:GetRealAssetPathnpc_npc_3000
+8/22:30:19:GetRealAssetPathnpc_prefab
+8/22:30:19:GetRealAssetPathrole_body
+8/22:30:19:GetRealAssetPathrole_prefab
+8/22:30:19:GetRealAssetPathrole_timeline
+8/22:30:19:ResourceManager:LoadAsset() real abName2 : role_timelineUnityEngine.Playables.PlayableAsset
+8/22:30:24:LUA: LUa TaskDialogView:talkDialogcompleted*******
+8/22:30:24:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:24:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:24:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:24:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:24:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:24:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:24:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:24:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:24:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:24:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:24:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:24:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:24:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:24:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:24:LUA: Cat:TaskDialogView.lua[26] self.curShowData.clickCallBack	function: 0000018D04396970
+8/22:30:24:LUA: TaskDialogView:OnUpdate 
+8/22:30:24:LUA: taskNum=	1
+8/22:30:24:LUA: talkCfg.flag=22
+8/22:30:24:LUA: luaTaskDialogView:talkDialogcomplet MovePlayManager.play called	20000000001	2	2
+8/22:30:24:MovePlayManager.play called20000000001:2:2:2:10000000001
+8/22:30:24:MovePlayManager.play called2:200000
+8/22:30:24:CastSkillCastSkillCastSkill
+8/22:30:24:CastSkill assetPath=Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+8/22:30:24:PathToAssetBundleName path : Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+8/22:30:24:LoadAsset<T>monster_timeline:skill_200000.playable
+8/22:30:24:ResourceManager:LoadAsset() abName1 : monster_timeline assetNames:skill_200000.playable
+8/22:30:24:GetRealAssetPatheffect_projectors
+8/22:30:24:GetRealAssetPathlua.unity3d
+8/22:30:24:GetRealAssetPathlua_bp.unity3d
+8/22:30:24:GetRealAssetPathlua_bp_common.unity3d
+8/22:30:24:GetRealAssetPathlua_bp_src.unity3d
+8/22:30:24:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:30:24:GetRealAssetPathlua_bp_tests.unity3d
+8/22:30:24:GetRealAssetPathlua_common.unity3d
+8/22:30:24:GetRealAssetPathlua_common_ui.unity3d
+8/22:30:24:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:30:24:GetRealAssetPathlua_common_util.unity3d
+8/22:30:24:GetRealAssetPathlua_config.unity3d
+8/22:30:24:GetRealAssetPathlua_ecs.unity3d
+8/22:30:24:GetRealAssetPathlua_ecs_common.unity3d
+8/22:30:24:GetRealAssetPathlua_ecs_src.unity3d
+8/22:30:24:GetRealAssetPathlua_ecs_test.unity3d
+8/22:30:24:GetRealAssetPathlua_game_bag.unity3d
+8/22:30:24:GetRealAssetPathlua_game_chat.unity3d
+8/22:30:24:GetRealAssetPathlua_game_common.unity3d
+8/22:30:24:GetRealAssetPathlua_game_common_action.unity3d
+8/22:30:24:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:30:24:GetRealAssetPathlua_game_error.unity3d
+8/22:30:24:GetRealAssetPathlua_game_gm.unity3d
+8/22:30:24:GetRealAssetPathlua_game_login.unity3d
+8/22:30:24:GetRealAssetPathlua_game_mainui.unity3d
+8/22:30:24:GetRealAssetPathlua_game_scene.unity3d
+8/22:30:24:GetRealAssetPathlua_game_systems.unity3d
+8/22:30:24:GetRealAssetPathlua_game_task.unity3d
+8/22:30:24:GetRealAssetPathlua_game_test.unity3d
+8/22:30:24:GetRealAssetPathlua_proto.unity3d
+8/22:30:24:GetRealAssetPathlua_tools.unity3d
+8/22:30:24:GetRealAssetPathmonster_monster_2000
+8/22:30:24:GetRealAssetPathmonster_monster_2001
+8/22:30:24:GetRealAssetPathmonster_prefab
+8/22:30:24:GetRealAssetPathmonster_timeline
+8/22:30:24:ResourceManager:LoadAsset() real abName2 : monster_timelineUnityEngine.Playables.PlayableAsset
+8/22:30:24:The character with Unicode value \uFF0C was not found in the [normal SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [chat].
+8/22:30:24:c#TaskDialogView:talkDialogcompleted*******106.5551
+8/22:30:27:c#TaskDialogView:talkDialogcompleted*******109.3099
+8/22:30:28:LUA: LUa TaskDialogView:talkDialogcompleted*******
+8/22:30:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:28:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:28:LUA: Cat:TaskDialogView.lua[26] self.curShowData.clickCallBack	function: 0000018F0CC3F860
+8/22:30:28:LUA: Task_TakeTask
+8/22:30:28:LUA: Task_TakeTask	2	1
+8/22:30:28:LUA: KillMonster updateTargetMonsterIfKillTask0	1	2
+8/22:30:28:LUA: Task_DoTask completeSubTask3:3
+8/22:30:28:LUA: Task_TakeTask --taskInfo.subType == TaskConst.SubType.KillMonster	false
+8/22:30:28:Task_DoTask UpdateXML call
+8/22:30:28:Task_DoTask UpdateXML call:10000000001
+8/22:30:28:Task_DoTask UpdateXML call10000000001:10000000001
+8/22:30:28:xmldoc.UpdateXML call2310000000001
+8/22:30:28:Task_DoTask UpdateXML call
+8/22:30:28:Task_DoTask UpdateXML call:10000000001
+8/22:30:28:Task_DoTask UpdateXML call10000000001:10000000001
+8/22:30:28:xmldoc.UpdateXML call2310000000001
+8/22:30:28:LUA: dddddffggghhhhh	10000000001
+8/22:30:28:LUA: 1	roleID	ReqTakeTask2	10000000001
+8/22:30:28:LUA: 1	contentID	ReqTakeTask2	2000
+8/22:30:28:LUA: 1	subTaskIndex	ReqTakeTask2	3
+8/22:30:28:LUA: 1	status	ReqTakeTask2	2
+8/22:30:28:LUA: 1	sceneID	ReqTakeTask2	1001
+8/22:30:28:LUA: 1	desc	ReqTakeTask2	找<#88ff43>神秘NPC</color>对话
+8/22:30:28:LUA: 1	subType	ReqTakeTask2	1
+8/22:30:28:LUA: 1	maxProgress	ReqTakeTask2	1
+8/22:30:28:LUA: 1	taskID	ReqTakeTask2	2
+8/22:30:28:LUA: 1	npcID	ReqTakeTask2	2000
+8/22:30:28:LUA: 1	curProgress	ReqTakeTask2	0
+8/22:30:28:LUA: Cat:TaskModel.lua[53] func, taskInfo.subType	function: 0000018FD2E19900	1
+8/22:30:28:LUA: call HandleAutoDoTask
+8/22:30:28:LUA: HandleAutoDoTask	2
+8/22:30:28:LUA: HandleAutoDoTask lastDoingType	1
+8/22:30:28:LUA: HandleAutoDoTask taskInfo	3	2
+8/22:30:28:LUA: HandleAutoDoTask call DoTask
+8/22:30:28:LUA: Cat:TaskController [start:DoTask] taskInfo:	1
+8/22:30:28:LUA: 	{
+8/22:30:28:LUA: 		roleID = 10000000001
+8/22:30:28:LUA: 		contentID = 2000
+8/22:30:28:LUA: 		subTaskIndex = 3
+8/22:30:28:LUA: 		status = 2
+8/22:30:28:LUA: 		sceneID = 1001
+8/22:30:28:LUA: 		desc = 找<#88ff43>神秘NPC</color>对话
+8/22:30:28:LUA: 		subType = 1
+8/22:30:28:LUA: 		maxProgress = 1
+8/22:30:28:LUA: 		taskID = 2
+8/22:30:28:LUA: 		npcID = 2000
+8/22:30:28:LUA: 		curProgress = 0
+8/22:30:28:LUA: 	}
+8/22:30:28:LUA: Cat:TaskController [end]
+8/22:30:28:Stop FindWay by move query
+8/22:30:28:LUA: if func true
+8/22:30:28:LUA: TaskController:DoTalk	2
+8/22:30:28:LUA: TaskController:DoTalk	2000	20000000002
+8/22:30:28:GetSceneObjectPos uid=20000000002
+8/22:30:28:GetSceneObjectPos=-1.400011:-0.03500499:-0.01666654
+8/22:30:28:LUA: npcpos====	2000	-1.4000107049942	-0.035004988312721	-0.016666539013386
+8/22:30:28:LUA: mainrolepos====	0.50474137067795	-0.034007743000984	-0.016666539013386
+8/22:30:28:start find way by move query1.904752:1.9047520.7471159
+8/22:30:28:LUA: notifyNewChangedTaskInfo ReqTaskList
+8/22:30:29:Stop FindWay by move query
+8/22:30:29:LUA: onApproachingNpc call
+8/22:30:29:LUA: onGetTaskListInNPC call
+8/22:30:29:LUA: dddssggggetTaskListInNPC	10000000001	2000
+8/22:30:29:LUA: 1	dddssggg	table: 0000018FD8E4EFE0
+8/22:30:29:LUA: 1	dddssgggonGetTaskListInNPC	2
+8/22:30:29:LUA: onApproachingNpc	10000000001	nil
+8/22:30:29:PathToAssetBundleName path : Assets/AssetBundleRes/ui/task/TaskDialogView.prefab
+8/22:30:29:LoadAsset<T>ui_task:TaskDialogView.prefab
+8/22:30:29:ResourceManager:LoadAsset() abName1 : ui_task assetNames:TaskDialogView.prefab
+8/22:30:29:GetRealAssetPatheffect_projectors
+8/22:30:29:GetRealAssetPathlua.unity3d
+8/22:30:29:GetRealAssetPathlua_bp.unity3d
+8/22:30:29:GetRealAssetPathlua_bp_common.unity3d
+8/22:30:29:GetRealAssetPathlua_bp_src.unity3d
+8/22:30:29:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:30:29:GetRealAssetPathlua_bp_tests.unity3d
+8/22:30:29:GetRealAssetPathlua_common.unity3d
+8/22:30:29:GetRealAssetPathlua_common_ui.unity3d
+8/22:30:29:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:30:29:GetRealAssetPathlua_common_util.unity3d
+8/22:30:29:GetRealAssetPathlua_config.unity3d
+8/22:30:29:GetRealAssetPathlua_ecs.unity3d
+8/22:30:29:GetRealAssetPathlua_ecs_common.unity3d
+8/22:30:29:GetRealAssetPathlua_ecs_src.unity3d
+8/22:30:29:GetRealAssetPathlua_ecs_test.unity3d
+8/22:30:29:GetRealAssetPathlua_game_bag.unity3d
+8/22:30:29:GetRealAssetPathlua_game_chat.unity3d
+8/22:30:29:GetRealAssetPathlua_game_common.unity3d
+8/22:30:29:GetRealAssetPathlua_game_common_action.unity3d
+8/22:30:29:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:30:29:GetRealAssetPathlua_game_error.unity3d
+8/22:30:29:GetRealAssetPathlua_game_gm.unity3d
+8/22:30:29:GetRealAssetPathlua_game_login.unity3d
+8/22:30:29:GetRealAssetPathlua_game_mainui.unity3d
+8/22:30:29:GetRealAssetPathlua_game_scene.unity3d
+8/22:30:29:GetRealAssetPathlua_game_systems.unity3d
+8/22:30:29:GetRealAssetPathlua_game_task.unity3d
+8/22:30:29:GetRealAssetPathlua_game_test.unity3d
+8/22:30:29:GetRealAssetPathlua_proto.unity3d
+8/22:30:29:GetRealAssetPathlua_tools.unity3d
+8/22:30:29:GetRealAssetPathmonster_monster_2000
+8/22:30:29:GetRealAssetPathmonster_monster_2001
+8/22:30:29:GetRealAssetPathmonster_prefab
+8/22:30:29:GetRealAssetPathmonster_timeline
+8/22:30:29:GetRealAssetPathnpc_npc_3000
+8/22:30:29:GetRealAssetPathnpc_prefab
+8/22:30:29:GetRealAssetPathrole_body
+8/22:30:29:GetRealAssetPathrole_prefab
+8/22:30:29:GetRealAssetPathrole_timeline
+8/22:30:29:GetRealAssetPathscene_scene_1001
+8/22:30:29:GetRealAssetPathscene_temp_scene
+8/22:30:29:GetRealAssetPathui_common
+8/22:30:29:GetRealAssetPathui_task
+8/22:30:29:ResourceManager:LoadAsset() real abName2 : ui_taskUnityEngine.GameObject
+8/22:30:29:The character used for Underline is not available in font asset [normal SDF].
+8/22:30:29:LUA: TaskDialogView:OnUpdate 
+8/22:30:29:LUA: taskNum=	1
+8/22:30:29:LUA: talkCfg.flag=13
+8/22:30:29:LUA: luaTaskDialogView:talkDialogcomplet MovePlayManager.play called	10000000001	1	2
+8/22:30:29:MovePlayManager.play called10000000001:1:3:2:20000000002
+8/22:30:29:MovePlayManager.play called1:110000
+8/22:30:29:CastSkillCastSkillCastSkill
+8/22:30:29:CastSkill assetPath=Assets/AssetBundleRes/role/timeline/skill_110000.playable
+8/22:30:29:PathToAssetBundleName path : Assets/AssetBundleRes/role/timeline/skill_110000.playable
+8/22:30:29:LoadAsset<T>role_timeline:skill_110000.playable
+8/22:30:29:ResourceManager:LoadAsset() abName1 : role_timeline assetNames:skill_110000.playable
+8/22:30:29:GetRealAssetPatheffect_projectors
+8/22:30:29:GetRealAssetPathlua.unity3d
+8/22:30:29:GetRealAssetPathlua_bp.unity3d
+8/22:30:29:GetRealAssetPathlua_bp_common.unity3d
+8/22:30:29:GetRealAssetPathlua_bp_src.unity3d
+8/22:30:29:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:30:29:GetRealAssetPathlua_bp_tests.unity3d
+8/22:30:29:GetRealAssetPathlua_common.unity3d
+8/22:30:29:GetRealAssetPathlua_common_ui.unity3d
+8/22:30:29:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:30:29:GetRealAssetPathlua_common_util.unity3d
+8/22:30:29:GetRealAssetPathlua_config.unity3d
+8/22:30:29:GetRealAssetPathlua_ecs.unity3d
+8/22:30:29:GetRealAssetPathlua_ecs_common.unity3d
+8/22:30:29:GetRealAssetPathlua_ecs_src.unity3d
+8/22:30:29:GetRealAssetPathlua_ecs_test.unity3d
+8/22:30:29:GetRealAssetPathlua_game_bag.unity3d
+8/22:30:29:GetRealAssetPathlua_game_chat.unity3d
+8/22:30:29:GetRealAssetPathlua_game_common.unity3d
+8/22:30:29:GetRealAssetPathlua_game_common_action.unity3d
+8/22:30:29:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:30:29:GetRealAssetPathlua_game_error.unity3d
+8/22:30:29:GetRealAssetPathlua_game_gm.unity3d
+8/22:30:29:GetRealAssetPathlua_game_login.unity3d
+8/22:30:29:GetRealAssetPathlua_game_mainui.unity3d
+8/22:30:29:GetRealAssetPathlua_game_scene.unity3d
+8/22:30:29:GetRealAssetPathlua_game_systems.unity3d
+8/22:30:29:GetRealAssetPathlua_game_task.unity3d
+8/22:30:29:GetRealAssetPathlua_game_test.unity3d
+8/22:30:29:GetRealAssetPathlua_proto.unity3d
+8/22:30:29:GetRealAssetPathlua_tools.unity3d
+8/22:30:29:GetRealAssetPathmonster_monster_2000
+8/22:30:29:GetRealAssetPathmonster_monster_2001
+8/22:30:29:GetRealAssetPathmonster_prefab
+8/22:30:29:GetRealAssetPathmonster_timeline
+8/22:30:29:GetRealAssetPathnpc_npc_3000
+8/22:30:29:GetRealAssetPathnpc_prefab
+8/22:30:29:GetRealAssetPathrole_body
+8/22:30:29:GetRealAssetPathrole_prefab
+8/22:30:29:GetRealAssetPathrole_timeline
+8/22:30:29:ResourceManager:LoadAsset() real abName2 : role_timelineUnityEngine.Playables.PlayableAsset
+8/22:30:34:LUA: LUa TaskDialogView:talkDialogcompleted*******
+8/22:30:34:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:34:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:34:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:34:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:34:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:34:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:34:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:34:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:34:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:34:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:34:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:34:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:34:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:34:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:34:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:34:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:34:LUA: Cat:TaskDialogView.lua[26] self.curShowData.clickCallBack	function: 0000018D043B3CA0
+8/22:30:34:LUA: TaskDialogView:OnUpdate 
+8/22:30:34:LUA: taskNum=	1
+8/22:30:34:LUA: talkCfg.flag=33
+8/22:30:34:LUA: luaTaskDialogView:talkDialogcomplet MovePlayManager.play called	20000000002	2	2
+8/22:30:34:MovePlayManager.play called20000000002:2:3:2:10000000001
+8/22:30:34:MovePlayManager.play called2:200000
+8/22:30:34:CastSkillCastSkillCastSkill
+8/22:30:34:CastSkill assetPath=Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+8/22:30:34:PathToAssetBundleName path : Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+8/22:30:34:LoadAsset<T>monster_timeline:skill_200000.playable
+8/22:30:34:ResourceManager:LoadAsset() abName1 : monster_timeline assetNames:skill_200000.playable
+8/22:30:34:GetRealAssetPatheffect_projectors
+8/22:30:34:GetRealAssetPathlua.unity3d
+8/22:30:34:GetRealAssetPathlua_bp.unity3d
+8/22:30:34:GetRealAssetPathlua_bp_common.unity3d
+8/22:30:34:GetRealAssetPathlua_bp_src.unity3d
+8/22:30:34:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:30:34:GetRealAssetPathlua_bp_tests.unity3d
+8/22:30:34:GetRealAssetPathlua_common.unity3d
+8/22:30:34:GetRealAssetPathlua_common_ui.unity3d
+8/22:30:34:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:30:34:GetRealAssetPathlua_common_util.unity3d
+8/22:30:34:GetRealAssetPathlua_config.unity3d
+8/22:30:34:GetRealAssetPathlua_ecs.unity3d
+8/22:30:34:GetRealAssetPathlua_ecs_common.unity3d
+8/22:30:34:GetRealAssetPathlua_ecs_src.unity3d
+8/22:30:34:GetRealAssetPathlua_ecs_test.unity3d
+8/22:30:34:GetRealAssetPathlua_game_bag.unity3d
+8/22:30:34:GetRealAssetPathlua_game_chat.unity3d
+8/22:30:34:GetRealAssetPathlua_game_common.unity3d
+8/22:30:34:GetRealAssetPathlua_game_common_action.unity3d
+8/22:30:34:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:30:34:GetRealAssetPathlua_game_error.unity3d
+8/22:30:34:GetRealAssetPathlua_game_gm.unity3d
+8/22:30:34:GetRealAssetPathlua_game_login.unity3d
+8/22:30:34:GetRealAssetPathlua_game_mainui.unity3d
+8/22:30:34:GetRealAssetPathlua_game_scene.unity3d
+8/22:30:34:GetRealAssetPathlua_game_systems.unity3d
+8/22:30:34:GetRealAssetPathlua_game_task.unity3d
+8/22:30:34:GetRealAssetPathlua_game_test.unity3d
+8/22:30:34:GetRealAssetPathlua_proto.unity3d
+8/22:30:34:GetRealAssetPathlua_tools.unity3d
+8/22:30:34:GetRealAssetPathmonster_monster_2000
+8/22:30:34:GetRealAssetPathmonster_monster_2001
+8/22:30:34:GetRealAssetPathmonster_prefab
+8/22:30:34:GetRealAssetPathmonster_timeline
+8/22:30:34:ResourceManager:LoadAsset() real abName2 : monster_timelineUnityEngine.Playables.PlayableAsset
+8/22:30:34:c#TaskDialogView:talkDialogcompleted*******116.5802
+8/22:30:37:c#TaskDialogView:talkDialogcompleted*******119.1479
+8/22:30:38:LUA: LUa TaskDialogView:talkDialogcompleted*******
+8/22:30:38:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:38:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:38:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:38:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:38:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:38:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:38:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:38:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:38:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:38:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:38:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:38:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:38:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:38:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:38:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:38:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:38:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:38:LUA: Cat:TaskDialogView.lua[26] self.curShowData.clickCallBack	function: 0000018D045F20E0
+8/22:30:38:LUA: Task_DoTask2:10000000001
+8/22:30:38:LUA: KillMonster updateTargetMonsterIfKillTask0	1	2
+8/22:30:38:LUA: Task_DoTask completeSubTask5:3
+8/22:30:38:LUA: Task_DoTask3:10000000001
+8/22:30:38:LUA: status:Task_DoTask1
+8/22:30:38:LUA: roleID:Task_DoTask10000000001
+8/22:30:38:LUA: subType:Task_DoTask1
+8/22:30:38:LUA: contentID:Task_DoTask2000
+8/22:30:38:LUA: taskID:Task_DoTask3
+8/22:30:38:LUA: curProgress:Task_DoTask0
+8/22:30:38:LUA: subTaskIndex:Task_DoTask1
+8/22:30:38:Task_DoTask UpdateXML call
+8/22:30:38:Task_DoTask UpdateXML call:10000000001
+8/22:30:38:Task_DoTask UpdateXML call10000000001:10000000001
+8/22:30:38:xmldoc.UpdateXML call3110000000001
+8/22:30:38:Task_DoTask UpdateXML call
+8/22:30:38:Task_DoTask UpdateXML call:10000000001
+8/22:30:38:Task_DoTask UpdateXML call10000000001:10000000001
+8/22:30:38:xmldoc.UpdateXML call3110000000001
+8/22:30:38:LUA: dddddffggghhhhh	10000000001
+8/22:30:38:LUA: 1	status	ReqTakeTask2	1
+8/22:30:38:LUA: 1	roleID	ReqTakeTask2	10000000001
+8/22:30:38:LUA: 1	subType	ReqTakeTask2	1
+8/22:30:38:LUA: 1	contentID	ReqTakeTask2	2000
+8/22:30:38:LUA: 1	taskID	ReqTakeTask2	3
+8/22:30:38:LUA: 1	curProgress	ReqTakeTask2	0
+8/22:30:38:LUA: 1	subTaskIndex	ReqTakeTask2	1
+8/22:30:38:LUA: Cat:TaskModel.lua[53] func, taskInfo.subType	function: 0000018FD2E19900	1
+8/22:30:38:LUA: call HandleAutoDoTask
+8/22:30:38:LUA: HandleAutoDoTask	3
+8/22:30:38:LUA: HandleAutoDoTask lastDoingType	1
+8/22:30:38:LUA: HandleAutoDoTask taskInfo	1	1
+8/22:30:38:LUA: HandleAutoDoTask call DoTask
+8/22:30:38:LUA: Cat:TaskController [start:DoTask] taskInfo:	1
+8/22:30:38:LUA: 	{
+8/22:30:38:LUA: 		roleID = 10000000001
+8/22:30:38:LUA: 		contentID = 2000
+8/22:30:38:LUA: 		subTaskIndex = 1
+8/22:30:38:LUA: 		status = 1
+8/22:30:38:LUA: 		desc = 找<#88ff43>神秘NPC</color>对话
+8/22:30:38:LUA: 		subType = 1
+8/22:30:38:LUA: 		sceneID = 1001
+8/22:30:38:LUA: 		taskID = 3
+8/22:30:38:LUA: 		npcID = 2000
+8/22:30:38:LUA: 		curProgress = 0
+8/22:30:38:LUA: 	}
+8/22:30:38:LUA: Cat:TaskController [end]
+8/22:30:38:Stop FindWay by move query
+8/22:30:38:LUA: if func true
+8/22:30:38:LUA: TaskController:DoTalk	3
+8/22:30:38:LUA: TaskController:DoTalk	2000	20000000001
+8/22:30:38:GetSceneObjectPos uid=20000000001
+8/22:30:38:GetSceneObjectPos=1.299989:-0.03500498:-0.01666654
+8/22:30:38:LUA: npcpos====	2000	1.2999892234802	-0.035004984587431	-0.016666539013386
+8/22:30:38:LUA: mainrolepos====	-0.60253810882568	-0.034823581576347	-0.016666539013386
+8/22:30:38:start find way by move query1.902527:1.9025270.7591878
+8/22:30:38:LUA: notifyNewChangedTaskInfo ReqTaskList
+8/22:30:39:Stop FindWay by move query
+8/22:30:39:LUA: onApproachingNpc call
+8/22:30:39:LUA: onGetTaskListInNPC call
+8/22:30:39:LUA: dddssggggetTaskListInNPC	10000000001	2000
+8/22:30:39:LUA: 1	dddssggg	table: 0000018D0465A120
+8/22:30:39:LUA: 1	dddssgggonGetTaskListInNPC	3
+8/22:30:39:LUA: onApproachingNpc	10000000001	nil
+8/22:30:39:PathToAssetBundleName path : Assets/AssetBundleRes/ui/task/TaskDialogView.prefab
+8/22:30:39:LoadAsset<T>ui_task:TaskDialogView.prefab
+8/22:30:39:ResourceManager:LoadAsset() abName1 : ui_task assetNames:TaskDialogView.prefab
+8/22:30:39:GetRealAssetPatheffect_projectors
+8/22:30:39:GetRealAssetPathlua.unity3d
+8/22:30:39:GetRealAssetPathlua_bp.unity3d
+8/22:30:39:GetRealAssetPathlua_bp_common.unity3d
+8/22:30:39:GetRealAssetPathlua_bp_src.unity3d
+8/22:30:39:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:30:39:GetRealAssetPathlua_bp_tests.unity3d
+8/22:30:39:GetRealAssetPathlua_common.unity3d
+8/22:30:39:GetRealAssetPathlua_common_ui.unity3d
+8/22:30:39:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:30:39:GetRealAssetPathlua_common_util.unity3d
+8/22:30:39:GetRealAssetPathlua_config.unity3d
+8/22:30:39:GetRealAssetPathlua_ecs.unity3d
+8/22:30:39:GetRealAssetPathlua_ecs_common.unity3d
+8/22:30:39:GetRealAssetPathlua_ecs_src.unity3d
+8/22:30:39:GetRealAssetPathlua_ecs_test.unity3d
+8/22:30:39:GetRealAssetPathlua_game_bag.unity3d
+8/22:30:39:GetRealAssetPathlua_game_chat.unity3d
+8/22:30:39:GetRealAssetPathlua_game_common.unity3d
+8/22:30:39:GetRealAssetPathlua_game_common_action.unity3d
+8/22:30:39:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:30:39:GetRealAssetPathlua_game_error.unity3d
+8/22:30:39:GetRealAssetPathlua_game_gm.unity3d
+8/22:30:39:GetRealAssetPathlua_game_login.unity3d
+8/22:30:39:GetRealAssetPathlua_game_mainui.unity3d
+8/22:30:39:GetRealAssetPathlua_game_scene.unity3d
+8/22:30:39:GetRealAssetPathlua_game_systems.unity3d
+8/22:30:39:GetRealAssetPathlua_game_task.unity3d
+8/22:30:39:GetRealAssetPathlua_game_test.unity3d
+8/22:30:39:GetRealAssetPathlua_proto.unity3d
+8/22:30:39:GetRealAssetPathlua_tools.unity3d
+8/22:30:39:GetRealAssetPathmonster_monster_2000
+8/22:30:39:GetRealAssetPathmonster_monster_2001
+8/22:30:39:GetRealAssetPathmonster_prefab
+8/22:30:39:GetRealAssetPathmonster_timeline
+8/22:30:39:GetRealAssetPathnpc_npc_3000
+8/22:30:39:GetRealAssetPathnpc_prefab
+8/22:30:39:GetRealAssetPathrole_body
+8/22:30:39:GetRealAssetPathrole_prefab
+8/22:30:39:GetRealAssetPathrole_timeline
+8/22:30:39:GetRealAssetPathscene_scene_1001
+8/22:30:39:GetRealAssetPathscene_temp_scene
+8/22:30:39:GetRealAssetPathui_common
+8/22:30:39:GetRealAssetPathui_task
+8/22:30:39:ResourceManager:LoadAsset() real abName2 : ui_taskUnityEngine.GameObject
+8/22:30:39:The character used for Underline is not available in font asset [normal SDF].
+8/22:30:39:LUA: TaskDialogView:OnUpdate 
+8/22:30:39:LUA: taskNum=	1
+8/22:30:39:LUA: talkCfg.flag=11
+8/22:30:39:LUA: luaTaskDialogView:talkDialogcomplet MovePlayManager.play called	20000000001	1	3
+8/22:30:39:MovePlayManager.play called20000000001:1:1:3:10000000001
+8/22:30:39:MovePlayManager.play called2:200000
+8/22:30:39:CastSkillCastSkillCastSkill
+8/22:30:39:CastSkill assetPath=Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+8/22:30:39:PathToAssetBundleName path : Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+8/22:30:39:LoadAsset<T>monster_timeline:skill_200000.playable
+8/22:30:39:ResourceManager:LoadAsset() abName1 : monster_timeline assetNames:skill_200000.playable
+8/22:30:39:GetRealAssetPatheffect_projectors
+8/22:30:39:GetRealAssetPathlua.unity3d
+8/22:30:39:GetRealAssetPathlua_bp.unity3d
+8/22:30:39:GetRealAssetPathlua_bp_common.unity3d
+8/22:30:39:GetRealAssetPathlua_bp_src.unity3d
+8/22:30:39:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:30:39:GetRealAssetPathlua_bp_tests.unity3d
+8/22:30:39:GetRealAssetPathlua_common.unity3d
+8/22:30:39:GetRealAssetPathlua_common_ui.unity3d
+8/22:30:39:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:30:39:GetRealAssetPathlua_common_util.unity3d
+8/22:30:39:GetRealAssetPathlua_config.unity3d
+8/22:30:39:GetRealAssetPathlua_ecs.unity3d
+8/22:30:39:GetRealAssetPathlua_ecs_common.unity3d
+8/22:30:39:GetRealAssetPathlua_ecs_src.unity3d
+8/22:30:39:GetRealAssetPathlua_ecs_test.unity3d
+8/22:30:39:GetRealAssetPathlua_game_bag.unity3d
+8/22:30:39:GetRealAssetPathlua_game_chat.unity3d
+8/22:30:39:GetRealAssetPathlua_game_common.unity3d
+8/22:30:39:GetRealAssetPathlua_game_common_action.unity3d
+8/22:30:39:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:30:39:GetRealAssetPathlua_game_error.unity3d
+8/22:30:39:GetRealAssetPathlua_game_gm.unity3d
+8/22:30:39:GetRealAssetPathlua_game_login.unity3d
+8/22:30:39:GetRealAssetPathlua_game_mainui.unity3d
+8/22:30:39:GetRealAssetPathlua_game_scene.unity3d
+8/22:30:39:GetRealAssetPathlua_game_systems.unity3d
+8/22:30:39:GetRealAssetPathlua_game_task.unity3d
+8/22:30:39:GetRealAssetPathlua_game_test.unity3d
+8/22:30:39:GetRealAssetPathlua_proto.unity3d
+8/22:30:39:GetRealAssetPathlua_tools.unity3d
+8/22:30:39:GetRealAssetPathmonster_monster_2000
+8/22:30:39:GetRealAssetPathmonster_monster_2001
+8/22:30:39:GetRealAssetPathmonster_prefab
+8/22:30:39:GetRealAssetPathmonster_timeline
+8/22:30:39:ResourceManager:LoadAsset() real abName2 : monster_timelineUnityEngine.Playables.PlayableAsset
+8/22:30:42:c#TaskDialogView:talkDialogcompleted*******123.9797
+8/22:30:46:LUA: LUa TaskDialogView:talkDialogcompleted*******
+8/22:30:46:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:46:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:46:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:46:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:46:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:46:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:46:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:46:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:46:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:46:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:46:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:46:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:46:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:46:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:46:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:46:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:46:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:46:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:46:LUA: Cat:TaskDialogView.lua[26] self.curShowData.clickCallBack	function: 0000018D0465F1A0
+8/22:30:46:LUA: TaskDialogView:OnUpdate 
+8/22:30:46:LUA: taskNum=	1
+8/22:30:46:LUA: talkCfg.flag=11
+8/22:30:46:LUA: luaTaskDialogView:talkDialogcomplet MovePlayManager.play called	10000000001	2	3
+8/22:30:46:MovePlayManager.play called10000000001:2:1:3:20000000001
+8/22:30:46:MovePlayManager.play called1:110000
+8/22:30:46:CastSkillCastSkillCastSkill
+8/22:30:46:CastSkill assetPath=Assets/AssetBundleRes/role/timeline/skill_110000.playable
+8/22:30:46:PathToAssetBundleName path : Assets/AssetBundleRes/role/timeline/skill_110000.playable
+8/22:30:46:LoadAsset<T>role_timeline:skill_110000.playable
+8/22:30:46:ResourceManager:LoadAsset() abName1 : role_timeline assetNames:skill_110000.playable
+8/22:30:46:GetRealAssetPatheffect_projectors
+8/22:30:46:GetRealAssetPathlua.unity3d
+8/22:30:46:GetRealAssetPathlua_bp.unity3d
+8/22:30:46:GetRealAssetPathlua_bp_common.unity3d
+8/22:30:46:GetRealAssetPathlua_bp_src.unity3d
+8/22:30:46:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:30:46:GetRealAssetPathlua_bp_tests.unity3d
+8/22:30:46:GetRealAssetPathlua_common.unity3d
+8/22:30:46:GetRealAssetPathlua_common_ui.unity3d
+8/22:30:46:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:30:46:GetRealAssetPathlua_common_util.unity3d
+8/22:30:46:GetRealAssetPathlua_config.unity3d
+8/22:30:46:GetRealAssetPathlua_ecs.unity3d
+8/22:30:46:GetRealAssetPathlua_ecs_common.unity3d
+8/22:30:46:GetRealAssetPathlua_ecs_src.unity3d
+8/22:30:46:GetRealAssetPathlua_ecs_test.unity3d
+8/22:30:46:GetRealAssetPathlua_game_bag.unity3d
+8/22:30:46:GetRealAssetPathlua_game_chat.unity3d
+8/22:30:46:GetRealAssetPathlua_game_common.unity3d
+8/22:30:46:GetRealAssetPathlua_game_common_action.unity3d
+8/22:30:46:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:30:46:GetRealAssetPathlua_game_error.unity3d
+8/22:30:46:GetRealAssetPathlua_game_gm.unity3d
+8/22:30:46:GetRealAssetPathlua_game_login.unity3d
+8/22:30:46:GetRealAssetPathlua_game_mainui.unity3d
+8/22:30:46:GetRealAssetPathlua_game_scene.unity3d
+8/22:30:46:GetRealAssetPathlua_game_systems.unity3d
+8/22:30:46:GetRealAssetPathlua_game_task.unity3d
+8/22:30:46:GetRealAssetPathlua_game_test.unity3d
+8/22:30:46:GetRealAssetPathlua_proto.unity3d
+8/22:30:46:GetRealAssetPathlua_tools.unity3d
+8/22:30:46:GetRealAssetPathmonster_monster_2000
+8/22:30:46:GetRealAssetPathmonster_monster_2001
+8/22:30:46:GetRealAssetPathmonster_prefab
+8/22:30:46:GetRealAssetPathmonster_timeline
+8/22:30:46:GetRealAssetPathnpc_npc_3000
+8/22:30:46:GetRealAssetPathnpc_prefab
+8/22:30:46:GetRealAssetPathrole_body
+8/22:30:46:GetRealAssetPathrole_prefab
+8/22:30:46:GetRealAssetPathrole_timeline
+8/22:30:46:ResourceManager:LoadAsset() real abName2 : role_timelineUnityEngine.Playables.PlayableAsset
+8/22:30:46:The character with Unicode value \uFF0C was not found in the [normal SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [chat].
+8/22:30:49:LUA: LUa TaskDialogView:talkDialogcompleted*******
+8/22:30:49:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:49:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:49:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:49:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:49:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:49:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:49:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:49:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:49:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:49:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:49:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:49:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:49:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:49:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:49:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:49:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:49:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:49:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:49:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:49:LUA: Cat:TaskDialogView.lua[26] self.curShowData.clickCallBack	function: 0000018FD90095B0
+8/22:30:49:LUA: TaskDialogView:OnUpdate 
+8/22:30:49:LUA: taskNum=	1
+8/22:30:49:LUA: talkCfg.flag=21
+8/22:30:49:LUA: luaTaskDialogView:talkDialogcomplet MovePlayManager.play called	20000000001	3	3
+8/22:30:49:MovePlayManager.play called20000000001:3:1:3:10000000001
+8/22:30:49:MovePlayManager.play called2:200000
+8/22:30:49:CastSkillCastSkillCastSkill
+8/22:30:49:CastSkill assetPath=Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+8/22:30:49:PathToAssetBundleName path : Assets/AssetBundleRes/monster/timeline/skill_200000.playable
+8/22:30:49:LoadAsset<T>monster_timeline:skill_200000.playable
+8/22:30:49:ResourceManager:LoadAsset() abName1 : monster_timeline assetNames:skill_200000.playable
+8/22:30:49:GetRealAssetPatheffect_projectors
+8/22:30:49:GetRealAssetPathlua.unity3d
+8/22:30:49:GetRealAssetPathlua_bp.unity3d
+8/22:30:49:GetRealAssetPathlua_bp_common.unity3d
+8/22:30:49:GetRealAssetPathlua_bp_src.unity3d
+8/22:30:49:GetRealAssetPathlua_bp_src_action.unity3d
+8/22:30:49:GetRealAssetPathlua_bp_tests.unity3d
+8/22:30:49:GetRealAssetPathlua_common.unity3d
+8/22:30:49:GetRealAssetPathlua_common_ui.unity3d
+8/22:30:49:GetRealAssetPathlua_common_unityengine.unity3d
+8/22:30:49:GetRealAssetPathlua_common_util.unity3d
+8/22:30:49:GetRealAssetPathlua_config.unity3d
+8/22:30:49:GetRealAssetPathlua_ecs.unity3d
+8/22:30:49:GetRealAssetPathlua_ecs_common.unity3d
+8/22:30:49:GetRealAssetPathlua_ecs_src.unity3d
+8/22:30:49:GetRealAssetPathlua_ecs_test.unity3d
+8/22:30:49:GetRealAssetPathlua_game_bag.unity3d
+8/22:30:49:GetRealAssetPathlua_game_chat.unity3d
+8/22:30:49:GetRealAssetPathlua_game_common.unity3d
+8/22:30:49:GetRealAssetPathlua_game_common_action.unity3d
+8/22:30:49:GetRealAssetPathlua_game_common_ui.unity3d
+8/22:30:49:GetRealAssetPathlua_game_error.unity3d
+8/22:30:49:GetRealAssetPathlua_game_gm.unity3d
+8/22:30:49:GetRealAssetPathlua_game_login.unity3d
+8/22:30:49:GetRealAssetPathlua_game_mainui.unity3d
+8/22:30:49:GetRealAssetPathlua_game_scene.unity3d
+8/22:30:49:GetRealAssetPathlua_game_systems.unity3d
+8/22:30:49:GetRealAssetPathlua_game_task.unity3d
+8/22:30:49:GetRealAssetPathlua_game_test.unity3d
+8/22:30:49:GetRealAssetPathlua_proto.unity3d
+8/22:30:49:GetRealAssetPathlua_tools.unity3d
+8/22:30:49:GetRealAssetPathmonster_monster_2000
+8/22:30:49:GetRealAssetPathmonster_monster_2001
+8/22:30:49:GetRealAssetPathmonster_prefab
+8/22:30:49:GetRealAssetPathmonster_timeline
+8/22:30:49:ResourceManager:LoadAsset() real abName2 : monster_timelineUnityEngine.Playables.PlayableAsset
+8/22:30:51:c#TaskDialogView:talkDialogcompleted*******133.1635
+8/22:30:52:c#TaskDialogView:talkDialogcompleted*******134.5489
+8/22:30:53:LUA: LUa TaskDialogView:talkDialogcompleted*******
+8/22:30:53:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:53:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:53:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:53:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:53:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:53:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:53:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:53:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:53:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:53:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:53:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:53:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:53:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:53:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:53:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:53:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:53:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:53:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:53:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:53:LUA: TaskDialogView:VtalkDialogcompleted1
+8/22:30:53:LUA: Cat:TaskDialogView.lua[26] self.curShowData.clickCallBack	function: 0000018FD8B1BDF0
+8/22:30:53:LUA: Task_TakeTask
+8/22:30:53:LUA: Task_TakeTask	1	1
+8/22:30:53:LUA: KillMonster updateTargetMonsterIfKillTask0	1	2
+8/22:30:53:LUA: Task_DoTask completeSubTask2:3
+8/22:30:53:LUA: Task_TakeTask --taskInfo.subType == TaskConst.SubType.KillMonster	true
+8/22:30:53:LUA: Task_TakeTask addTargetMonsterIfKillTask	10000000001	2003	8
+8/22:30:53:Task_DoTask UpdateXML call
+8/22:30:53:Task_DoTask UpdateXML call:10000000001
+8/22:30:53:Task_DoTask UpdateXML call10000000001:10000000001
+8/22:30:53:xmldoc.UpdateXML call3210000000001
+8/22:30:53:Task_DoTask UpdateXML call
+8/22:30:53:Task_DoTask UpdateXML call:10000000001
+8/22:30:53:Task_DoTask UpdateXML call10000000001:10000000001
+8/22:30:53:xmldoc.UpdateXML call3210000000001
+8/22:30:53:LUA: dddddffggghhhhh	10000000001
+8/22:30:53:LUA: 1	roleID	ReqTakeTask2	10000000001
+8/22:30:53:LUA: 1	contentID	ReqTakeTask2	2003
+8/22:30:53:LUA: 1	subTaskIndex	ReqTakeTask2	2
+8/22:30:53:LUA: 1	status	ReqTakeTask2	2
+8/22:30:53:LUA: 1	sceneID	ReqTakeTask2	1001
+8/22:30:53:LUA: 1	desc	ReqTakeTask2	找<#88ff43>神秘NPC</color>对话
+8/22:30:53:LUA: 1	subType	ReqTakeTask2	2
+8/22:30:53:LUA: 1	maxProgress	ReqTakeTask2	8
+8/22:30:53:LUA: 1	taskID	ReqTakeTask2	3
+8/22:30:53:LUA: 1	npcID	ReqTakeTask2	2000
+8/22:30:53:LUA: 1	curProgress	ReqTakeTask2	0
+8/22:30:53:LUA: Cat:TaskModel.lua[53] func, taskInfo.subType	function: 0000018FD2E195D0	2
+8/22:30:53:LUA: call HandleAutoDoTask
+8/22:30:53:LUA: HandleAutoDoTask	3
+8/22:30:53:LUA: HandleAutoDoTask lastDoingType	1
+8/22:30:53:LUA: HandleAutoDoTask taskInfo	2	2
+8/22:30:53:LUA: HandleAutoDoTask call DoTask
+8/22:30:53:LUA: Cat:TaskController [start:DoTask] taskInfo:	2
+8/22:30:53:LUA: 	{
+8/22:30:53:LUA: 		roleID = 10000000001
+8/22:30:53:LUA: 		contentID = 2003
+8/22:30:53:LUA: 		monsterID = 2003
+8/22:30:53:LUA: 		subTaskIndex = 2
+8/22:30:53:LUA: 		status = 2
+8/22:30:53:LUA: 		sceneID = 1001
+8/22:30:53:LUA: 		desc = 打败<#88ff43>红袍妖女</color>(0/8)
+8/22:30:53:LUA: 		subType = 2
+8/22:30:53:LUA: 		maxProgress = 8
+8/22:30:53:LUA: 		taskID = 3
+8/22:30:53:LUA: 		npcID = 2000
+8/22:30:53:LUA: 		curProgress = 0
+8/22:30:53:LUA: 	}
+8/22:30:53:LUA: Cat:TaskController [end]
+8/22:30:53:Stop FindWay by move query
+8/22:30:53:LUA: if func true
+8/22:30:53:LUA: Cat:TaskController.lua[112] taskInfo.sceneID, taskInfo.monsterID	1001	2003
+8/22:30:53:LoaderByAB1 : Config.config_scene_1001
+8/22:30:53:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:30:53:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:30:53:Load lua script : D:/Users/Movie/Assets/lua/config/config_scene_1001.lua
+8/22:30:53:LUA: notifyNewChangedTaskInfo ReqTaskList
+8/22:30:57:OnApplicationQuit
+8/22:30:57:destroy scene mgr
+8/22:30:57:~NetworkManager was destroy
+8/22:30:57:LUA: Cat:LuaMain.lua[ExitGame]
+8/22:30:57:LoaderByAB1 : Tools.print_delegate
+8/22:30:57:LoaderByAB1 : + Application.platform == RuntimePlatform.WindowsEditor
+8/22:30:57:CustomLoader2 LuaAssetsDir= : D:/Users/Movie/Assets/lua/
+8/22:30:57:Load lua script : D:/Users/Movie/Assets/lua/tools/print_delegate.lua
+8/22:30:57:LUA: Common.Util.event:125
+8/22:30:57:LUA: Common.Util.event:140
+8/22:30:57:LUA: Common.Util.event:146
+8/22:30:57:LUA: Common.Util.event:151
+8/22:30:57:LUA: Common.Util.event:159
+8/22:30:57:LUA: Common.Util.event:155
+8/22:30:57:LUA: Common.Util.event:164
+8/22:30:57:LUA: Common.Util.event:169
+8/22:30:57:LUA: Common.Util.event:174
+8/22:30:57:LUA: NetDispatcher:30
+8/22:30:57:LUA: NetDispatcher:35
+8/22:30:57:LUA: NetDispatcher:40
+8/22:30:57:LUA: NetDispatcher:45
+8/22:30:57:LUA: NetDispatcher:25
+8/22:30:57:LUA: Common.GlobalEventSystem:7
+8/22:30:57:LUA: Common.GlobalEventSystem:12
+8/22:30:57:LUA: Common.GlobalEventSystem:17
+8/22:30:57:LUA: Common.GlobalEventSystem:22
+8/22:30:57:LUA: Game/Scene/scene_mgr:229
+8/22:30:57:xLua exception : try to dispose a LuaEnv with C# callback!
+   at XLua.LuaEnv.Dispose (System.Boolean dispose) [0x00027] in D:\Users\Movie\Assets\XLuaFramework\XLua\Src\LuaEnv.cs:412 
+  at XLua.LuaEnv.Dispose () [0x00014] in D:\Users\Movie\Assets\XLuaFramework\XLua\Src\LuaEnv.cs:395 
+  at XLuaManager.OnDestroy () [0x0007d] in D:\Users\Movie\Assets\XLuaFramework\Scripts\Manager\XLuaManager.cs:621  trace back :   at XLuaFramework.LogHandler.AddMessage (System.String message, UnityEngine.LogType type) [0x00110] in <424afe442b014749a458afe91d607e2f>:0 
+  at XLuaFramework.LogHandler.HandleLog (System.String message, System.String stackTrace, UnityEngine.LogType type) [0x00001] in <424afe442b014749a458afe91d607e2f>:0 
+  at UnityEngine.Application.CallLogCallback (System.String logString, System.String stackTrace, UnityEngine.LogType type, System.Boolean invokedOnMainThread) [0x00000] in <d7af1f7c51e94179a29dba37a373cdef>:0 
+  at UnityEngine.DebugLogHandler.Internal_Log (UnityEngine.LogType level, UnityEngine.LogOption options, System.String msg, UnityEngine.Object obj) [0x00000] in <d7af1f7c51e94179a29dba37a373cdef>:0 
+  at UnityEngine.DebugLogHandler.LogFormat (UnityEngine.LogType logType, UnityEngine.Object context, System.String format, System.Object[] args) [0x00000] in <d7af1f7c51e94179a29dba37a373cdef>:0 
+  at UnityEngine.Logger.Log (UnityEngine.LogType logType, System.Object message, UnityEngine.Object context) [0x00000] in <d7af1f7c51e94179a29dba37a373cdef>:0 
+  at UnityEngine.Debug.LogError (System.Object message, UnityEngine.Object context) [0x00000] in <d7af1f7c51e94179a29dba37a373cdef>:0 
+  at XLuaManager.OnDestroy () [0x000ac] in <424afe442b014749a458afe91d607e2f>:0 

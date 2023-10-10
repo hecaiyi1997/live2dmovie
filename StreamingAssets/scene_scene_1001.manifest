@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3830413896
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99a827377e1e9fe591db58c08a3005cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1f07e7a397aaffe2337862567097bd85
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleRes/scene/scene_1001/textures/TreeLittle.png
+- Assets/AssetBundleRes/scene/scene_1001/textures/House.png
+- Assets/AssetBundleRes/scene/scene_1001/textures/GrassSmall.png
+- Assets/AssetBundleRes/scene/scene_1001/textures/LotusFlower.png
+- Assets/AssetBundleRes/scene/scene_1001/prefabs/TreeLittle.prefab
+- Assets/AssetBundleRes/scene/scene_1001/textures/MetalCube.png
+- Assets/AssetBundleRes/scene/scene_1001/prefabs/TreeBig1.prefab
+- Assets/AssetBundleRes/scene/scene_1001/textures/TreeBig2.png
+- Assets/AssetBundleRes/scene/scene_1001/scene_info.json
+- Assets/AssetBundleRes/scene/scene_1001/prefabs/GrassSmall.prefab
+- Assets/AssetBundleRes/scene/scene_1001/textures/Mushrooms.png
+- Assets/AssetBundleRes/scene/scene_1001/textures/TreeBig3.png
+- Assets/AssetBundleRes/scene/scene_1001/textures/TreeBig1.png
+Dependencies: []

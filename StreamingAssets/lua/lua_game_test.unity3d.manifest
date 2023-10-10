@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 448664869
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2fe1502138218f53f8714a6034e439fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/luatemp/Game/Test/TestHideOtherView.lua.bytes
+- Assets/luatemp/Game/Test/TestGoodsItem.lua.bytes
+- Assets/luatemp/Game/Test/TestController.lua.bytes
+- Assets/luatemp/Game/Test/TestView.lua.bytes
+Dependencies: []
